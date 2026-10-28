@@ -1,0 +1,153 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Global Safety Net (Default Deny)
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // ===============================================================
+    // Helper Functions
+    // ===============================================================
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function isAdmin() {
+      return isAuthenticated() && (
+        (exists(/databases/$(database)/documents/users/$(request.auth.uid)) &&
+         get(/databases/$(database)/documents/users/$(request.auth.uid)).data.get('role', 'farmer') == 'admin') ||
+        (request.auth.token.email == "rsandeeppriyadarshan@gmail.com" && request.auth.token.email_verified == true)
+      );
+    }
+
+    function isValidIndianMobile(mobile) {
+      return mobile is string && mobile.size() == 10 && mobile.matches('^[6-9][0-9]{9}$');
+    }
+
+    // Photo consent check: if photoConsentGiven is false, photoDataUrl must be empty or omitted
+    function respectsPhotoConsent(data) {
+      return data.get('photoConsentGiven', false) == true ||
+             data.get('photoDataUrl', '') == '';
+    }
+
+    // Immutable mobile and Farmer ID check on update
+    function immutableFarmerKeysUnchanged() {
+      return request.resource.data.mobile == resource.data.mobile &&
+             request.resource.data.id == resource.data.id;
+    }
+
+    function isValidFarmerRecord(data, mobileKey) {
+      return data.mobile is string &&
+             data.mobile.size() == 10 &&
+             data.mobile == mobileKey &&
+             isValidIndianMobile(data.mobile) &&
+             data.id is string && data.id.size() >= 6 && data.id.size() <= 32 &&
+             data.name is string && data.name.size() >= 1 && data.name.size() <= 120 &&
+             data.state is string && data.state.size() >= 2 && data.state.size() <= 60 &&
+             data.district is string && data.district.size() >= 2 && data.district.size() <= 60 &&
+             data.ownerUid is string && data.ownerUid.size() >= 1 && data.ownerUid.size() <= 128 &&
+             data.updatedAt is number &&
+             respectsPhotoConsent(data);
+    }
+
+    // ===============================================================
+    // 1. Farmer Master Records (/farmers/{mobile})
+    // - Keyed by 10-digit mobile number
+    // - Nobody can list all farmers except admin
+    // - Each signed-in farmer can read/write only their own record
+    // ===============================================================
+    match /farmers/{mobile} {
+      allow get: if isAuthenticated() && isValidIndianMobile(mobile) && (
+        isAdmin() ||
+        resource == null ||
+        resource.data.ownerUid == request.auth.uid
+      );
+
+      // Strictly forbid listing all farmers for non-admins
+      allow list: if isAdmin();
+
+      // Create master record
+      allow create: if isAuthenticated() &&
+        isValidIndianMobile(mobile) &&
+        isValidFarmerRecord(request.resource.data, mobile) &&
+        (request.resource.data.ownerUid == request.auth.uid || isAdmin());
+
+      // Update master record
+      allow update: if isAuthenticated() &&
+        isValidIndianMobile(mobile) &&
+        isValidFarmerRecord(request.resource.data, mobile) &&
+        (
+          isAdmin() ||
+          (
+            resource.data.ownerUid == request.auth.uid &&
+            request.resource.data.ownerUid == resource.data.ownerUid &&
+            immutableFarmerKeysUnchanged()
+          )
+        );
+
+      allow delete: if isAuthenticated() && isValidIndianMobile(mobile) && (
+        isAdmin() ||
+        resource.data.ownerUid == request.auth.uid
+      );
+    }
+
+    // ===============================================================
+    // 2. Locked-Field Correction Requests (/correctionRequests/{requestId})
+    // ===============================================================
+    match /correctionRequests/{requestId} {
+      allow get: if isAuthenticated() && isValidId(requestId) && (
+        isAdmin() ||
+        (resource != null && resource.data.ownerUid == request.auth.uid)
+      );
+
+      allow list: if isAuthenticated() && isAdmin();
+
+      allow create: if isAuthenticated() &&
+        isValidId(requestId) &&
+        request.resource.data.keys().hasAll(['id', 'mobile', 'ownerUid', 'requestedChanges', 'reason', 'status', 'createdAt']) &&
+        isValidIndianMobile(request.resource.data.mobile) &&
+        request.resource.data.ownerUid == request.auth.uid &&
+        request.resource.data.status == 'pending' &&
+        request.resource.data.reason is string &&
+        request.resource.data.reason.size() >= 3 &&
+        request.resource.data.reason.size() <= 500;
+
+      // Only admins can approve or reject a correction request
+      allow update: if isAdmin() && isValidId(requestId);
+      allow delete: if isAdmin() && isValidId(requestId);
+    }
+
+    // ===============================================================
+    // 3. Farmer ID Uniqueness Index (/farmerIds/{farmerId})
+    // ===============================================================
+    match /farmerIds/{farmerId} {
+      allow get: if isAuthenticated() && isValidId(farmerId);
+      allow list: if isAdmin();
+      allow create: if isAuthenticated() &&
+        isValidId(farmerId) &&
+        request.resource.data.farmerId == farmerId &&
+        isValidIndianMobile(request.resource.data.mobile) &&
+        request.resource.data.ownerUid == request.auth.uid;
+      allow update: if isAdmin() && isValidId(farmerId);
+      allow delete: if isAuthenticated() && isValidId(farmerId) && (
+        isAdmin() ||
+        resource.data.ownerUid == request.auth.uid
+      );
+    }
+
+    // ===============================================================
+    // 4. Admin Role Directory (/users/{uid})
+    // ===============================================================
+    match /users/{uid} {
+      allow get: if isAuthenticated() && isValidId(uid) && (request.auth.uid == uid || isAdmin());
+      allow list: if isAdmin();
+      allow write: if isAdmin() && isValidId(uid);
+    }
+  }
+}

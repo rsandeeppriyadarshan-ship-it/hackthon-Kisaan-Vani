@@ -1,0 +1,90 @@
+{
+  "entities": {
+    "FarmerMasterRecord": {
+      "title": "Farmer Master Record",
+      "description": "One master record per farmer keyed by 10-digit Indian mobile number. Stores profile, field size, address with GPS & accuracy, confirmed map location, crops, emergency contact, consent record, AI call consent & history, spray log, advice history, and callback requests. Photos are stored only if photoConsentGiven is true.",
+      "type": "object",
+      "properties": {
+        "mobile": { "type": "string", "description": "10-digit Indian mobile number (unique key, locked)" },
+        "ownerUid": { "type": "string", "description": "Session or Firebase Auth UID of the farmer device" },
+        "id": { "type": "string", "description": "Unique Farmer ID (KB-<DIST>-<6 digits>)" },
+        "name": { "type": "string", "description": "Farmer full name" },
+        "age": { "type": "number", "description": "Farmer age (10-100)" },
+        "gender": { "type": "string", "enum": ["Male", "Female", "Other"] },
+        "state": { "type": "string", "description": "State name (Odisha)" },
+        "district": { "type": "string", "description": "District name" },
+        "block": { "type": "string", "description": "Block name" },
+        "village": { "type": "string", "description": "Village name" },
+        "gpsLocation": { "type": "object", "description": "GPS coordinates and accuracy" },
+        "confirmedLocation": { "type": "object", "description": "Confirmed map pin coordinates, accuracy, and place name" },
+        "gpsAccuracyMeters": { "type": "number", "description": "Best GPS accuracy reading in meters" },
+        "gpsPermissionStatus": { "type": "string", "enum": ["granted", "denied", "prompt", "unsupported"] },
+        "locationManuallyConfirmed": { "type": "boolean", "description": "Whether location was confirmed on map" },
+        "fieldSize": { "type": "object", "description": "Entered field size value, unit, and converted acres" },
+        "landholdingAcres": { "type": "number", "description": "Internal field size in acres" },
+        "primaryCrops": { "type": "array", "items": { "type": "string" } },
+        "emergencyContact": { "type": "object", "description": "Optional emergency contact name and phone" },
+        "consentRecord": { "type": "object", "description": "Consent record including photoAgreed flag" },
+        "aiCallConsent": { "type": "boolean", "description": "Whether farmer agreed to receive AI assistant calls" },
+        "aiCallHistory": { "type": "array", "description": "Recent AI assistant call records" },
+        "photoConsentGiven": { "type": "boolean", "description": "Whether farmer agreed to store photos on server" },
+        "photoDataUrl": { "type": "string", "description": "Profile photo data URL (present on server ONLY if photoConsentGiven is true)" },
+        "sprayLog": { "type": "array", "description": "Chemical spray log records" },
+        "adviceHistory": { "type": "array", "description": "Saved crop, water, fertiliser, and disease advice history" },
+        "callbackRequests": { "type": "array", "description": "IVR missed-call and callback request records" },
+        "fieldTimestamps": { "type": "object", "description": "Per-field last-modified epoch ms for conflict resolution" },
+        "updatedAt": { "type": "number", "description": "Record last-modified epoch ms" },
+        "lastSyncedAt": { "type": "string", "description": "ISO timestamp of last server sync" }
+      },
+      "required": ["mobile", "ownerUid", "id", "name", "state", "district", "updatedAt"]
+    },
+    "CorrectionRequest": {
+      "title": "Locked Field Correction Request",
+      "description": "Submitted by a farmer to request changes to locked fields. Approved or rejected by an admin.",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "mobile": { "type": "string" },
+        "farmerId": { "type": "string" },
+        "farmerName": { "type": "string" },
+        "ownerUid": { "type": "string" },
+        "requestedChanges": { "type": "object" },
+        "reason": { "type": "string" },
+        "status": { "type": "string", "enum": ["pending", "approved", "rejected"] },
+        "createdAt": { "type": "number" },
+        "reviewedAt": { "type": "number" },
+        "reviewedBy": { "type": "string" }
+      },
+      "required": ["id", "mobile", "ownerUid", "requestedChanges", "reason", "status", "createdAt"]
+    },
+    "FarmerIdIndex": {
+      "title": "Farmer ID Uniqueness Index",
+      "description": "Maps unique Farmer ID (KB-XXX-123456) to mobile key",
+      "type": "object",
+      "properties": {
+        "farmerId": { "type": "string" },
+        "mobile": { "type": "string" },
+        "ownerUid": { "type": "string" }
+      },
+      "required": ["farmerId", "mobile", "ownerUid"]
+    }
+  },
+  "firestore": {
+    "/farmers/{mobile}": {
+      "schema": { "$ref": "#/entities/FarmerMasterRecord" },
+      "description": "Master record per farmer keyed by 10-digit mobile number. Single-doc get/write validated by mobile key; list restricted strictly to admin."
+    },
+    "/correctionRequests/{requestId}": {
+      "schema": { "$ref": "#/entities/CorrectionRequest" },
+      "description": "Correction requests for locked address/GPS fields. Farmers can create and read their own; only admins can approve/reject."
+    },
+    "/farmerIds/{farmerId}": {
+      "schema": { "$ref": "#/entities/FarmerIdIndex" },
+      "description": "Uniqueness index for Farmer IDs."
+    },
+    "/users/{uid}": {
+      "schema": { "type": "object" },
+      "description": "Admin role assignment collection."
+    }
+  }
+}

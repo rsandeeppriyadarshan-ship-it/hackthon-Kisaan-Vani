@@ -1,0 +1,12 @@
+{
+  "name": "Krushak Bani Odisha",
+  "description": "କୃଷକ ବାଣୀ ଓଡ଼ିଶା - Comprehensive agricultural advisory, crop disease diagnostic, pesticide & water management, and emergency safety PWA for Odisha farmers.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

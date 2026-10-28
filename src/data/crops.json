@@ -1,0 +1,356 @@
+{
+  "categories": [
+    {
+      "id": "vegetables",
+      "icon": "🥦",
+      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Vegetables",
+        "hi": "सब्जियां",
+        "or": "ପନିପରିବା",
+        "te": "కూరగాయలు",
+        "bn": "শাকসবজি",
+        "ta": "காய்கறிகள்"
+      },
+      "items": [
+        { "id": "tomato", "icon": "🍅", "name_en": "Tomato", "name_or": "ବିଲାତି ବାଇଗଣ (ଟମାଟୋ)", "name_hi": "टमाटर", "name_te": "టమాటా", "name_bn": "টমেটো", "name_ta": "தக்காளி", "has_advice": true },
+        { "id": "brinjal", "icon": "🍆", "name_en": "Brinjal", "name_or": "ବାଇଗଣ", "name_hi": "बैंगन", "name_te": "వంకాయ", "name_bn": "বেগুন", "name_ta": "கத்திரிக்காய்", "has_advice": true },
+        { "id": "chilli", "icon": "🌶️", "name_en": "Chilli", "name_or": "লঙ্কা (ମରିଚ)", "name_hi": "मिर्च", "name_te": "మిరప", "name_bn": "লঙ্কা", "name_ta": "மிளகாய்", "has_advice": true },
+        { "id": "capsicum", "icon": "🫑", "name_en": "Capsicum", "name_or": "ସିମଲା ଲଙ୍କା", "name_hi": "शिमला मिर्च", "name_te": "క్యాప్సికమ్", "name_bn": "ক্যাপসিকাম", "name_ta": "குடைமிளகாய்", "has_advice": false },
+        { "id": "okra", "icon": "🌿", "name_en": "Okra", "name_or": "ଭେଣ୍ଡି", "name_hi": "भिंडी", "name_te": "బెండకాయ", "name_bn": "ঢেঁড়স", "name_ta": "வெண்டைக்காய்", "has_advice": true },
+        { "id": "cucumber", "icon": "🥒", "name_en": "Cucumber", "name_or": "କାକୁଡ଼ି", "name_hi": "खीरा", "name_te": "దోసకాయ", "name_bn": "শসা", "name_ta": "வெள்ளரிக்காய்", "has_advice": false },
+        { "id": "pumpkin", "icon": "🎃", "name_en": "Pumpkin", "name_or": "ବୋଇତାଳୁ (କଖାରୁ)", "name_hi": "कद्दू", "name_te": "గుమ్మడికాయ", "name_bn": "কুমড়ো", "name_ta": "பூசணிக்காய்", "has_advice": false },
+        { "id": "bottle_gourd", "icon": "🍐", "name_en": "Bottle gourd", "name_or": "ଲାଉ", "name_hi": "लौकी", "name_te": "సొరకాయ", "name_bn": "লাউ", "name_ta": "சுரைக்காய்", "has_advice": false },
+        { "id": "bitter_gourd", "icon": "🥒", "name_en": "Bitter gourd", "name_or": "କଲରା", "name_hi": "करेला", "name_te": "కాకరకాయ", "name_bn": "করলা", "name_ta": "பாகற்காய்", "has_advice": false },
+        { "id": "ridge_gourd", "icon": "🥒", "name_en": "Ridge gourd", "name_or": "ଜହ୍ନି", "name_hi": "तोरई", "name_te": "బీరకాయ", "name_bn": "ঝিঙে", "name_ta": "பீர்க்கங்காய்", "has_advice": false },
+        { "id": "sponge_gourd", "icon": "🥒", "name_en": "Sponge gourd", "name_or": "ତରଡ଼ା (ନେନୁଆ)", "name_hi": "गिलकी (नेनुआ)", "name_te": "నేతి బీరకాయ", "name_bn": "ধুন্দুল", "name_ta": "நுரை பீர்க்கங்காய்", "has_advice": false },
+        { "id": "snake_gourd", "icon": "🐍", "name_en": "Snake gourd", "name_or": "ଛଚିନ୍ଦ୍ରା", "name_hi": "चिचिंडा", "name_te": "పొట్లకాయ", "name_bn": "চিচিঙ্গা", "name_ta": "புடலங்காய்", "has_advice": false },
+        { "id": "ash_gourd", "icon": "🍈", "name_en": "Ash gourd", "name_or": "ପାଣି କଖାରୁ", "name_hi": "पेठा (भतुआ)", "name_te": "బూడిద గుమ్మడి", "name_bn": "চাল কুমড়ো", "name_ta": "வெண்பூசணி", "has_advice": false },
+        { "id": "pointed_gourd", "icon": "🥒", "name_en": "Pointed gourd", "name_or": "ପୋଟଳ", "name_hi": "परवल", "name_te": "పొటల్స్", "name_bn": "পটল", "name_ta": "படவலங்காய்", "has_advice": false },
+        { "id": "ivy_gourd", "icon": "🥒", "name_en": "Ivy gourd", "name_or": "କୁନ୍ଦୁରି", "name_hi": "कुंदरू", "name_te": "దొండకాయ", "name_bn": "কুঁদরি", "name_ta": "கோவைக்காய்", "has_advice": false },
+        { "id": "cabbage", "icon": "🥬", "name_en": "Cabbage", "name_or": "ବନ୍ଧାକୋବି", "name_hi": "पत्तागोभी", "name_te": "క్యాబేజీ", "name_bn": "বাঁধাকপি", "name_ta": "முட்டைக்கோஸ்", "has_advice": true },
+        { "id": "cauliflower", "icon": "🥦", "name_en": "Cauliflower", "name_or": "ଫୁଲକୋବି", "name_hi": "फूलगोभी", "name_te": "కాలీఫ్లవర్", "name_bn": "ফুলকপি", "name_ta": "காலிஃபிளவர்", "has_advice": true },
+        { "id": "broccoli", "icon": "🥦", "name_en": "Broccoli", "name_or": "ବ୍ରୋକୋଲି", "name_hi": "ब्रोकोली", "name_te": "బ్రోకలీ", "name_bn": "ব্রকলি", "name_ta": "ப்ரோக்கோலி", "has_advice": false },
+        { "id": "knol_khol", "icon": "Turnip", "icon": "🥗", "name_en": "Knol-khol", "name_or": "ଓଲକୋବି", "name_hi": "गांठ गोभी", "name_te": "নూల్ కోల్", "name_bn": "ওলকপি", "name_ta": "நூல்கோல்", "has_advice": false },
+        { "id": "potato", "icon": "🥔", "name_en": "Potato", "name_or": "ଆଳୁ", "name_hi": "आलू", "name_te": "బంగాళాదుంప", "name_bn": "আলু", "name_ta": "உருளைக்கிழங்கு", "has_advice": true },
+        { "id": "sweet_potato", "icon": "🍠", "name_en": "Sweet potato", "name_or": "କନ୍ଦମୂଳ", "name_hi": "शकरकंद", "name_te": "చిలగడదుంప", "name_bn": "মিষ্টি আলু", "name_ta": "சர்க்கரைவள்ளிக்கிழங்கு", "has_advice": false },
+        { "id": "onion", "icon": "🧅", "name_en": "Onion", "name_or": "ପିଆଜ", "name_hi": "प्याज", "name_te": "ఉల్లిపాయ", "name_bn": "পেঁয়াজ", "name_ta": "வெங்காயம்", "has_advice": true },
+        { "id": "garlic", "icon": "🧄", "name_en": "Garlic", "name_or": "ରସୁଣ", "name_hi": "लहसुन", "name_te": "వెల్లుల్లి", "name_bn": "রসুন", "name_ta": "பூண்டு", "has_advice": false },
+        { "id": "ginger", "icon": "🫚", "name_en": "Ginger", "name_or": "ଅଦା", "name_hi": "अदरक", "name_te": "అల్లం", "name_bn": "আদা", "name_ta": "இஞ்சி", "has_advice": false },
+        { "id": "carrot", "icon": "🥕", "name_en": "Carrot", "name_or": "ଗାଜର", "name_hi": "गाजर", "name_te": "క్యారెట్", "name_bn": "গাজর", "name_ta": "கேரட்", "has_advice": false },
+        { "id": "radish", "icon": "🥕", "name_en": "Radish", "name_or": "ମୂଳା", "name_hi": "मूली", "name_te": "ముల్లంగి", "name_bn": "মূলো", "name_ta": "முள்ளங்கி", "has_advice": false },
+        { "id": "beetroot", "icon": "🟣", "name_en": "Beetroot", "name_or": "ବିଟ୍", "name_hi": "चुकंदर", "name_te": "బీట్‌రూట్", "name_bn": "বিট", "name_ta": "பீட்ரூட்", "has_advice": false },
+        { "id": "turnip", "icon": "🟣", "name_en": "Turnip", "name_or": "ସାଲଗମ୍", "name_hi": "शलजम", "name_te": "టర్నిప్", "name_bn": "শালগম", "name_ta": "டர்னிப்", "has_advice": false },
+        { "id": "elephant_foot_yam", "icon": "🥔", "name_en": "Elephant foot yam", "name_or": "ଓଲୁଅ", "name_hi": "जिमीकंद (सूरन)", "name_te": "కందगడ్డ", "name_bn": "ওল", "name_ta": "சேனைக்கிழங்கு", "has_advice": false },
+        { "id": "colocasia", "icon": "🥔", "name_en": "Colocasia", "name_or": "ସାରୁ", "name_hi": "अरबी", "name_te": "చామదుంప", "name_bn": "কচু", "name_ta": "சேப்பங்கிழங்கு", "has_advice": false },
+        { "id": "tapioca", "icon": "🥔", "name_en": "Tapioca", "name_or": "ଶାଗୁଦାଣା କନ୍ଦା (କାସାଭା)", "name_hi": "कसावा (टैपिओका)", "name_te": "కర్రపెండలం", "name_bn": "শিমুল আলু", "name_ta": "மரவள்ளிக்கிழங்கு", "has_advice": false },
+        { "id": "spinach", "icon": "🥬", "name_en": "Spinach", "name_or": "ପାଳଙ୍ଗ ଶାଗ", "name_hi": "पालक", "name_te": "పాలకూర", "name_bn": "পালং শাক", "name_ta": "பசலைக்கீரை", "has_advice": false },
+        { "id": "amaranth", "icon": "🌿", "name_en": "Amaranth", "name_or": "ଖଡ଼ା / କୋଶଳା ଶାଗ", "name_hi": "चौलाई साग", "name_te": "తోటకూర", "name_bn": "লাল শাক / ডাটা শাক", "name_ta": "முளைக்கீரை", "has_advice": false },
+        { "id": "fenugreek", "icon": "🌿", "name_en": "Fenugreek", "name_or": "ମେଥି ଶାଗ", "name_hi": "मेथी", "name_te": "మెంopకూర", "name_bn": "মেথি শাক", "name_ta": "வெந்தயக்கீரை", "has_advice": false },
+        { "id": "coriander", "icon": "🌿", "name_en": "Coriander", "name_or": "ଧନିଆ ପତ୍ର", "name_hi": "धनिया", "name_te": "కొత్తిమీర", "name_bn": "ধনে পাতা", "name_ta": "கொத்தமல்லி", "has_advice": false },
+        { "id": "lettuce", "icon": "🥬", "name_en": "Lettuce", "name_or": "ଲେଟ୍ୟୁସ୍", "name_hi": "सलाद पत्ता", "name_te": "లెట్యూస్", "name_bn": "লেটুস", "name_ta": "லெটুஸ்", "has_advice": false },
+        { "id": "cluster_beans", "icon": "🫘", "name_en": "Cluster beans", "name_or": "ଗୁଆଁର ଛୁଇଁ", "name_hi": "ग्वार फली", "name_te": "గోరుచిక్కుడు", "name_bn": "বরবটি (গোয়ার)", "name_ta": "கொத்தவரங்காய்", "has_advice": false },
+        { "id": "french_beans", "icon": "🫘", "name_en": "French beans", "name_or": "ଫ୍ରେଞ୍ଚ ବିନ୍ସ", "name_hi": "फ्रेंच बीन्स", "name_te": "ఫ్రెంచ్ బీన్స్", "name_bn": "বিনস", "name_ta": "பீன்ஸ்", "has_advice": false },
+        { "id": "cowpea", "icon": "🫘", "name_en": "Cowpea", "name_or": "ଝୁଡ଼ଙ୍ଗ", "name_hi": "लोबिया (बोड़ा)", "name_te": "అలసందలు", "name_bn": "বরবটি", "name_ta": "காராமணி", "has_advice": false },
+        { "id": "broad_beans", "icon": "🫘", "name_en": "Broad beans", "name_or": "ଶିମ୍ବ", "name_hi": "सेम", "name_te": "చిక్కుడు", "name_bn": "শিম", "name_ta": "அவரைக்காய்", "has_advice": false },
+        { "id": "garden_peas", "icon": "🫛", "name_en": "Garden peas", "name_or": "ମଟର ଛୁଇଁ", "name_hi": "हरी मटर", "name_te": "పచ్చి బఠానీ", "name_bn": "মটরশুঁটি", "name_ta": "பச்சை பட்டாணி", "has_advice": false },
+        { "id": "drumstick", "icon": "🌿", "name_en": "Drumstick", "name_or": "ସଜନା ଛୁଇଁ", "name_hi": "सहजन (मुनगा)", "name_te": "మునగకాయ", "name_bn": "সজনে ডাটা", "name_ta": "முருங்கைக்காய்", "has_advice": false },
+        { "id": "sweet_corn", "icon": "🌽", "name_en": "Sweet corn", "name_or": "ମିଠା ମକା", "name_hi": "स्वीट कॉर्न", "name_te": "స్వీట్ కార్న్", "name_bn": "সুইট কর্ন", "name_ta": "ஸ்வீட் கார்ன்", "has_advice": false },
+        { "id": "baby_corn", "icon": "🌽", "name_en": "Baby corn", "name_or": "ବେବି କର୍ଣ୍ଣ", "name_hi": "बेबी कॉर्न", "name_te": "బేబీ కార్న్", "name_bn": "বেবি কর্ন", "name_ta": "பேபி கார்ன்", "has_advice": false },
+        { "id": "raw_banana", "icon": "🍌", "name_en": "Raw banana", "name_or": "କଞ୍ଚା କଦଳୀ", "name_hi": "कच्चा केला", "name_te": "అరటికాయ", "name_bn": "কাঁচকলা", "name_ta": "வாழைக்காய்", "has_advice": false },
+        { "id": "raw_papaya", "icon": "🍈", "name_en": "Raw papaya", "name_or": "କଞ୍ଚା ଅମୃତଭଣ୍ଡା", "name_hi": "कच्चा पपीता", "name_te": "పచ్చి బొప్పాయి", "name_bn": "কাঁচা পেঁপে", "name_ta": "பச்சை பப்பாளி", "has_advice": false }
+      ]
+    },
+    {
+      "id": "fruits",
+      "icon": "🥭",
+      "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Fruits",
+        "hi": "फल",
+        "or": "ଫଳ ଚାଷ",
+        "te": "పండ్లు",
+        "bn": "ফল",
+        "ta": "பழங்கள்"
+      },
+      "items": [
+        { "id": "mango", "icon": "🥭", "name_en": "Mango", "name_or": "ଆମ୍ବ", "name_hi": "आम", "name_te": "మామిడి", "name_bn": "আম", "name_ta": "மாம்பழம்", "has_advice": true },
+        { "id": "banana", "icon": "🍌", "name_en": "Banana", "name_or": "କଦଳୀ", "name_hi": "केला", "name_te": "అరటి", "name_bn": "কলা", "name_ta": "வாழைப்பழம்", "has_advice": true },
+        { "id": "papaya", "icon": "🍈", "name_en": "Papaya", "name_or": "ଅମୃତଭଣ୍ଡା", "name_hi": "पपीता", "name_te": "బొప్పాయి", "name_bn": "পেঁপে", "name_ta": "பப்பாளி", "has_advice": true },
+        { "id": "guava", "icon": "🍐", "name_en": "Guava", "name_or": "ପିଜୁଳି", "name_hi": "अमरूद", "name_te": "జామ", "name_bn": "পেয়ারা", "name_ta": "கொய்யா", "has_advice": false },
+        { "id": "lemon", "icon": "🍋", "name_en": "Lemon", "name_or": "ଲେମ୍ବୁ", "name_hi": "नींबू", "name_te": "నిమ్మ", "name_bn": "লেবু", "name_ta": "எலுமிச்சை", "has_advice": false },
+        { "id": "orange", "icon": "🍊", "name_en": "Orange", "name_or": "କମଳା", "name_hi": "संतरा", "name_te": "నారింజ", "name_bn": "কমলালেবু", "name_ta": "ஆரஞ்சு", "has_advice": false },
+        { "id": "sweet_lime", "icon": "🍊", "name_en": "Sweet lime", "name_or": "ମୌସୁମୀ", "name_hi": "मौसंबी", "name_te": "బత్తాయి", "name_bn": "মোসাম্বি", "name_ta": "சாத்துக்குடி", "has_advice": false },
+        { "id": "pineapple", "icon": "🍍", "name_en": "Pineapple", "name_or": "ସପୁରୀ", "name_hi": "अनानास", "name_te": "అనాస", "name_bn": "আনারস", "name_ta": "அன்னாசி", "has_advice": false },
+        { "id": "watermelon", "icon": "🍉", "name_en": "Watermelon", "name_or": "ତରଭୁଜ", "name_hi": "तरबूज", "name_te": "పుచ్చకాయ", "name_bn": "তরমুজ", "name_ta": "தர்பூசணி", "has_advice": true },
+        { "id": "muskmelon", "icon": "🍈", "name_en": "Muskmelon", "name_or": "ଖରଭୁଜ", "name_hi": "खरबूजा", "name_te": "ఖర్బూజా", "name_bn": "খরমুজ", "name_ta": "முலாம்பழம்", "has_advice": false },
+        { "id": "pomegranate", "icon": "🍎", "name_en": "Pomegranate", "name_or": "ଡାଳିମ୍ବ", "name_hi": "अनार", "name_te": "దానిమ్మ", "name_bn": "বেদানা (ডালিম)", "name_ta": "மாதுளை", "has_advice": false },
+        { "id": "jackfruit", "icon": "🍈", "name_en": "Jackfruit", "name_or": "ପଣସ", "name_hi": "कटहल", "name_te": "పనస", "name_bn": "কাঁঠাল", "name_ta": "பலாப்பழம்", "has_advice": false },
+        { "id": "litchi", "icon": "🍒", "name_en": "Litchi", "name_or": "ଲିଚୁ", "name_hi": "लीची", "name_te": "লিచీ", "name_bn": "লিচু", "name_ta": "லிச்சி", "has_advice": false },
+        { "id": "grapes", "icon": "🍇", "name_en": "Grapes", "name_or": "ଅଙ୍ଗୁର", "name_hi": "अंगूर", "name_te": "ద్రాక్ష", "name_bn": "আঙুর", "name_ta": "திராட்சை", "has_advice": false },
+        { "id": "apple", "icon": "🍎", "name_en": "Apple", "name_or": "ସେଓ", "name_hi": "सेब", "name_te": "ఆపిల్", "name_bn": "আপেল", "name_ta": "ஆப்பிள்", "has_advice": false },
+        { "id": "sapota", "icon": "🥔", "name_en": "Sapota", "name_or": "ସପେଟା", "name_hi": "चीकू", "name_te": "సపోటా", "name_bn": "সবেদা", "name_ta": "சப்போட்டா", "has_advice": false },
+        { "id": "custard_apple", "icon": "🍈", "name_en": "Custard apple", "name_or": "ସୀତାଫଳ (ଆତ)", "name_hi": "शरीफा (सीताफल)", "name_te": "సీతాఫలం", "name_bn": "আতা", "name_ta": "சீதாப்பழம்", "has_advice": false },
+        { "id": "amla", "icon": "🟢", "name_en": "Amla", "name_or": "ଅଁଳା", "name_hi": "आंवला", "name_te": "ఉసిరి", "name_bn": "আমলকী", "name_ta": "நெல்லிக்காய்", "has_advice": false },
+        { "id": "ber", "icon": "🍒", "name_en": "Ber", "name_or": "ବରକୋଳି", "name_hi": "बेर", "name_te": "రేగు", "name_bn": "কুল (বরই)", "name_ta": "இலந்தைப்பழம்", "has_advice": false },
+        { "id": "strawberry", "icon": "🍓", "name_en": "Strawberry", "name_or": "ଷ୍ଟ୍ରବେରୀ", "name_hi": "स्ट्रॉबेरी", "name_te": "స్ట్రాబెర్రీ", "name_bn": "স্ট্রবেরি", "name_ta": "ஸ்ட்ராபெர்ரி", "has_advice": false },
+        { "id": "coconut", "icon": "🥥", "name_en": "Coconut", "name_or": "ନଡ଼ିଆ", "name_hi": "नारियल", "name_te": "కొబ్బరి", "name_bn": "নারকেল", "name_ta": "தேங்காய்", "has_advice": true }
+      ]
+    },
+    {
+      "id": "flowers",
+      "icon": "🌼",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Flowers",
+        "hi": "फूल",
+        "or": "ଫୁଲ ଚାଷ",
+        "te": "పువ్వులు",
+        "bn": "ফুল",
+        "ta": "பூக்கள்"
+      },
+      "items": [
+        { "id": "marigold", "icon": "🌼", "name_en": "Marigold", "name_or": "ଗେଣ୍ଡୁ ଫୁଲ", "name_hi": "गेंदा", "name_te": "బంతి పువ్వు", "name_bn": "গাঁদা ফুল", "name_ta": "சாமந்தி", "has_advice": false },
+        { "id": "rose", "icon": "🌹", "name_en": "Rose", "name_or": "ଗୋଲାପ", "name_hi": "गुलाब", "name_te": "గులాబీ", "name_bn": "গোলাপ", "name_ta": "ரோஜா", "has_advice": false },
+        { "id": "jasmine", "icon": "🌸", "name_en": "Jasmine", "name_or": "ମଲ୍ଲୀ", "name_hi": "चमेली (मोगरा)", "name_te": "మల్లె", "name_bn": "জুঁই (বেলি)", "name_ta": "மல்லிகை", "has_advice": false },
+        { "id": "chrysanthemum", "icon": "🌼", "name_en": "Chrysanthemum", "name_or": "ସେବତୀ", "name_hi": "गुलदाउदी", "name_te": "చామంతి", "name_bn": "চন্দ্রমল্লিকা", "name_ta": "செவ்வந்தி", "has_advice": false },
+        { "id": "tuberose", "icon": "💐", "name_en": "Tuberose", "name_or": "ରଜନୀଗନ୍ଧା", "name_hi": "रजनीगंधा", "name_te": "లిల్లీ (రజనీగంధ)", "name_bn": "রজনীগন্ধা", "name_ta": "சம்பங்கி", "has_advice": false },
+        { "id": "gladiolus", "icon": "🌷", "name_en": "Gladiolus", "name_or": "ଗ୍ଲାଡିଓലସ୍", "name_hi": "ग्लेडियोलस", "name_te": "గ్లాడియోలస్", "name_bn": "গ্ল্যাডিওলাস", "name_ta": "கிளாடியோலஸ்", "has_advice": false },
+        { "id": "hibiscus", "icon": "🌺", "name_en": "Hibiscus", "name_or": "ମନ୍ଦାର", "name_hi": "गुड़हल", "name_te": "మందార", "name_bn": "জবা", "name_ta": "செம்பருத்தி", "has_advice": false },
+        { "id": "crossandra", "icon": "🏵️", "name_en": "Crossandra", "name_or": "କನକମ୍ବରମ୍", "name_hi": "अबोली", "name_te": "కనకాంబరం", "name_bn": "কনকাম্বরম", "name_ta": "கனகாம்பரம்", "has_advice": false },
+        { "id": "gerbera", "icon": "🌼", "name_en": "Gerbera", "name_or": "ଜରବେରା", "name_hi": "जरबेरा", "name_te": "జెర్బెరా", "name_bn": "জারবেরা", "name_ta": "ஜெர்பெரா", "has_advice": false }
+      ]
+    },
+    {
+      "id": "cereals_millets",
+      "icon": "🌾",
+      "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Cereals and millets",
+        "hi": "अनाज और मिलेट्स",
+        "or": "ଧାନ ଓ ଶସ୍ୟ (ମିଲେଟ୍)",
+        "te": "ధాన్యాలు మరియు చిరుధాన్యాలు",
+        "bn": "দানাশস্য ও মিলেট",
+        "ta": "தானியங்கள் மற்றும் சிறுதானியங்கள்"
+      },
+      "items": [
+        { "id": "paddy", "icon": "🌾", "name_en": "Paddy", "name_or": "ଧାନ", "name_hi": "धान (चावल)", "name_te": "వరి", "name_bn": "ধান", "name_ta": "நெல்", "has_advice": true },
+        { "id": "wheat", "icon": "🌾", "name_en": "Wheat", "name_or": "ଗହମ", "name_hi": "गेहूं", "name_te": "గోధుమ", "name_bn": "গম", "name_ta": "கோதுமை", "has_advice": true },
+        { "id": "maize", "icon": "🌽", "name_en": "Maize", "name_or": "ମକା", "name_hi": "मक्का", "name_te": "మొక్కజొన్న", "name_bn": "ভুট্টা", "name_ta": "மக்காச்சோளம்", "has_advice": true },
+        { "id": "ragi", "icon": "🌾", "name_en": "Ragi", "name_or": "ମାଣ୍ଡିଆ", "name_hi": "रागी (मडुआ)", "name_te": "రాగులు", "name_bn": "রাগি", "name_ta": "கேழ்வரகு (ராகி)", "has_advice": true },
+        { "id": "bajra", "icon": "🌾", "name_en": "Bajra", "name_or": "ବାଜରା", "name_hi": "बाजरा", "name_te": "సజ్జలు", "name_bn": "বাজরা", "name_ta": "கம்பு", "has_advice": false },
+        { "id": "jowar", "icon": "🌾", "name_en": "Jowar", "name_or": "ଜୁଆର", "name_hi": "ज्वार", "name_te": "జొన్నలు", "name_bn": "জোয়ার", "name_ta": "சோளம்", "has_advice": false },
+        { "id": "barley", "icon": "🌾", "name_en": "Barley", "name_or": "যব (ବାର୍ଲି)", "name_hi": "जौ", "name_te": "బార్లీ", "name_bn": "যব", "name_ta": "பார்லி", "has_advice": false }
+      ]
+    },
+    {
+      "id": "pulses",
+      "icon": "🫘",
+      "image": "https://images.unsplash.com/photo-1515543904379-3d757afe72e4?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Pulses",
+        "hi": "दालें (दलहन)",
+        "or": "ଡାଲି ଜାତୀୟ ଫସଲ",
+        "te": "పప్పుధాన్యాలు",
+        "bn": "ডাল শস্য",
+        "ta": "பயறு வகைகள்"
+      },
+      "items": [
+        { "id": "arhar", "icon": "🫘", "name_en": "Arhar (tur)", "name_or": "ହରଡ଼", "name_hi": "अरहर (तूर)", "name_te": "కందులు", "name_bn": "অড়হর", "name_ta": "துவரை", "has_advice": true },
+        { "id": "moong", "icon": "🟢", "name_en": "Moong", "name_or": "ମୁଗ", "name_hi": "मूंग", "name_te": "పెసలు", "name_bn": "মুগ ডাল", "name_ta": "பாசிப்பயறு", "has_advice": true },
+        { "id": "urad", "icon": "⚫", "name_en": "Urad", "name_or": "ବିରି", "name_hi": "उड़द", "name_te": "మినుములు", "name_bn": "কলাই (বিউলি)", "name_ta": "உளுந்து", "has_advice": true },
+        { "id": "chickpea", "icon": "🫘", "name_en": "Chickpea", "name_or": "ବୁଟ (ଚଣା)", "name_hi": "चना", "name_te": "శనగలు", "name_bn": "ছোলা", "name_ta": "கொண்டைக்கடலை", "has_advice": true },
+        { "id": "lentil", "icon": "🟠", "name_en": "Lentil", "name_or": "ମସୁର", "name_hi": "मसूर", "name_te": "మసూర్ పప్పు", "name_bn": "মসুর", "name_ta": "மைசூர் பருப்பு", "has_advice": false },
+        { "id": "peas", "icon": "🫛", "name_en": "Peas", "name_or": "ମଟର", "name_hi": "मटर", "name_te": "బఠానీలు", "name_bn": "মটর", "name_ta": "பட்டாணி", "has_advice": false },
+        { "id": "horse_gram", "icon": "🫘", "name_en": "Horse gram", "name_or": "କୋଳଥ", "name_hi": "कुलथी", "name_te": "ఉలవలు", "name_bn": "কুলথি কলাই", "name_ta": "கொள்ளு", "has_advice": false },
+        { "id": "cowpea", "icon": "🫘", "name_en": "Cowpea", "name_or": "ଝୁଡ଼ଙ୍ଗ", "name_hi": "लोबिया", "name_te": "అలసందలు", "name_bn": "বরবটি", "name_ta": "காராமணி", "has_advice": false }
+      ]
+    },
+    {
+      "id": "oilseeds",
+      "icon": "🌻",
+      "image": "https://images.unsplash.com/photo-1470509037663-253afd7f0f51?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Oilseeds",
+        "hi": "तिलहन",
+        "or": "ତୈଳବୀଜ ଫସଲ",
+        "te": "నూనెగింజలు",
+        "bn": "তৈলবীজ",
+        "ta": "எண்ணெய் வித்துக்கள்"
+      },
+      "items": [
+        { "id": "groundnut", "icon": "🥜", "name_en": "Groundnut", "name_or": "ଚିନାବାଦାମ", "name_hi": "मूंगफली", "name_te": "వేరుశనగ", "name_bn": "চিনাবাদাম", "name_ta": "நிலக்கடலை", "has_advice": true },
+        { "id": "mustard", "icon": "🌼", "name_en": "Mustard", "name_or": "ସୋରିଷ", "name_hi": "सरसों", "name_te": "ఆవాలు", "name_bn": "সর্ষে", "name_ta": "கடுகு", "has_advice": true },
+        { "id": "sesame", "icon": "🌱", "name_en": "Sesame", "name_or": "ରାଶି", "name_hi": "तिल", "name_te": "నువ్వులు", "name_bn": "তিল", "name_ta": "எள்", "has_advice": false },
+        { "id": "sunflower", "icon": "🌻", "name_en": "Sunflower", "name_or": "ସୂର୍ଯ୍ୟମୁଖୀ", "name_hi": "सूरजमुखी", "name_te": "పొద్దుతిరుగుడు", "name_bn": "সূর্যমুখী", "name_ta": "சூரியகாந்தி", "has_advice": false },
+        { "id": "soybean", "icon": "🫘", "name_en": "Soybean", "name_or": "ସୋୟାବିନ୍", "name_hi": "सोयाबीन", "name_te": "సోయాబీన్", "name_bn": "সয়াবিন", "name_ta": "சோயாபீன்", "has_advice": false },
+        { "id": "castor", "icon": "🌿", "name_en": "Castor", "name_or": "ଜଡ଼ା", "name_hi": "अरंडी", "name_te": "ఆముదం", "name_bn": "রেড়ি", "name_ta": "ஆமணக்கு", "has_advice": false },
+        { "id": "niger", "icon": "🌼", "name_en": "Niger", "name_or": "ଅଳସୀ", "name_hi": "रामतिल", "name_te": "వెర్రి నువ్వులు", "name_bn": "গুজাতিল", "name_ta": "பேய் எள்", "has_advice": false }
+      ]
+    },
+    {
+      "id": "spices",
+      "icon": "🌶️",
+      "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Spices",
+        "hi": "मसाले",
+        "or": "ମସଲା ଜାତୀୟ ଫସଲ",
+        "te": "సుగంధ ద్రవ్యాలు",
+        "bn": "মশলা",
+        "ta": "வாசனைப் பயிர்கள்"
+      },
+      "items": [
+        { "id": "chilli", "icon": "🌶️", "name_en": "Chilli", "name_or": "ଲଙ୍କା (ମରିଚ)", "name_hi": "मिर्च", "name_te": "మిరప", "name_bn": "লঙ্কা", "name_ta": "மிளகாய்", "has_advice": true },
+        { "id": "turmeric", "icon": "🟡", "name_en": "Turmeric", "name_or": "ହଳଦୀ", "name_hi": "हल्दी", "name_te": "పసుపు", "name_bn": "হলুদ", "name_ta": "மஞ்சள்", "has_advice": true },
+        { "id": "ginger", "icon": "🫚", "name_en": "Ginger", "name_or": "ଅଦା", "name_hi": "अदरक", "name_te": "అల్లం", "name_bn": "আদা", "name_ta": "இஞ்சி", "has_advice": false },
+        { "id": "garlic", "icon": "🧄", "name_en": "Garlic", "name_or": "ରସୁଣ", "name_hi": "लहसुन", "name_te": "వెల్లుల్లి", "name_bn": "রসুন", "name_ta": "பூண்டு", "has_advice": false },
+        { "id": "coriander", "icon": "🌿", "name_en": "Coriander", "name_or": "ଧନିଆ", "name_hi": "धनिया", "name_te": "ధనియాలు", "name_bn": "ধনে", "name_ta": "மல்லி", "has_advice": false },
+        { "id": "cumin", "icon": "🌱", "name_en": "Cumin", "name_or": "ଜିରା", "name_hi": "जीरा", "name_te": "జీలకర్ర", "name_bn": "জিরে", "name_ta": "சீரகம்", "has_advice": false },
+        { "id": "black_pepper", "icon": "⚫", "name_en": "Black pepper", "name_or": "ଗୋଲମରିଚ", "name_hi": "काली मिर्च", "name_te": "మిరియాలు", "name_bn": "গোলমরিচ", "name_ta": "மிளகு", "has_advice": false },
+        { "id": "cardamom", "icon": "🟢", "name_en": "Cardamom", "name_or": "ଗୁଜୁରାତି (ଅଳେଇଚ)", "name_hi": "इलायची", "name_te": "యాలకులు", "name_bn": "এলাচ", "name_ta": "ஏலக்காய்", "has_advice": false }
+      ]
+    },
+    {
+      "id": "cash_plantation",
+      "icon": "🎋",
+      "image": "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Cash and plantation crops",
+        "hi": "नकदी और बागानी फसलें",
+        "or": "ଅର୍ଥକାରୀ ଓ ବଗିଚା ଫସଲ",
+        "te": "వాణిజ్య మరియు తోటల పంటలు",
+        "bn": "অর্থকরী ও বাগিচা ফসল",
+        "ta": "பணப்பயிர்கள் மற்றும் தோட்டப் பயிர்கள்"
+      },
+      "items": [
+        { "id": "sugarcane", "icon": "🎋", "name_en": "Sugarcane", "name_or": "ଆଖୁ", "name_hi": "गन्ना", "name_te": "చెరకు", "name_bn": "আখ", "name_ta": "கரும்பு", "has_advice": true },
+        { "id": "cotton", "icon": "☁️", "name_en": "Cotton", "name_or": "କପା", "name_hi": "कपास", "name_te": "పత్తి", "name_bn": "তুলা", "name_ta": "பருத்தி", "has_advice": true },
+        { "id": "jute", "icon": "🌿", "name_en": "Jute", "name_or": "ଝୋଟ", "name_hi": "जूट (पटसन)", "name_te": "జనపనార", "name_bn": "পাট", "name_ta": "சணல்", "has_advice": false },
+        { "id": "tobacco", "icon": "🍂", "name_en": "Tobacco", "name_or": "ଧୂଆଁପତ୍ର", "name_hi": "तंबाकू", "name_te": "పొగాకు", "name_bn": "তামাক", "name_ta": "புகையிலை", "has_advice": false },
+        { "id": "cashew", "icon": "🥜", "name_en": "Cashew", "name_or": "କାଜୁ ବାଦାମ", "name_hi": "काजू", "name_te": "జీడిపప్పు", "name_bn": "কাজুবাদাম", "name_ta": "முந்திரி", "has_advice": false },
+        { "id": "areca_nut", "icon": "🌴", "name_en": "Areca nut", "name_or": "ଗୁଆ", "name_hi": "सुपारी", "name_te": "పోక (వక్క)", "name_bn": "সুপারি", "name_ta": "பாக்கு", "has_advice": false },
+        { "id": "rubber", "icon": "🌳", "name_en": "Rubber", "name_or": "ରବର", "name_hi": "रबर", "name_te": "రబ్బరు", "name_bn": "রাবার", "name_ta": "ரப்பர்", "has_advice": false },
+        { "id": "tea", "icon": "🍵", "name_en": "Tea", "name_or": "ଚା", "name_hi": "चाय", "name_te": "తేయాకు", "name_bn": "চা", "name_ta": "தேயிலை", "has_advice": false },
+        { "id": "coffee", "icon": "☕", "name_en": "Coffee", "name_or": "କଫି", "name_hi": "कॉफी", "name_te": "కాఫీ", "name_bn": "কফি", "name_ta": "காபி", "has_advice": false }
+      ]
+    },
+    {
+      "id": "fodder_grass",
+      "icon": "🌿",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Fodder and grass",
+        "hi": "चारा और घास",
+        "or": "ଗୋ-ଖାଦ୍ୟ ଓ ଘାସ ଚାଷ",
+        "te": "పశుగ్రాసం మరియు గడ్డి",
+        "bn": "গো-খাদ্য ও ঘাস",
+        "ta": "தீவனப் பயிர்கள் மற்றும் புல்"
+      },
+      "items": [
+        { "id": "napier_grass", "icon": "🌿", "name_en": "Napier grass", "name_or": "ନେପିଅର ଘାସ", "name_hi": "नेपियर घास", "name_te": "నేపియర్ గడ్డి", "name_bn": "নেপিয়ার ঘাস", "name_ta": "நேப்பியர் புல்", "has_advice": false },
+        { "id": "guinea_grass", "icon": "🌿", "name_en": "Guinea grass", "name_or": "ଗିନି ଘାସ", "name_hi": "गिनी घास", "name_te": "గినియా గడ్డి", "name_bn": "গিনি ঘাস", "name_ta": "கினியா புல்", "has_advice": false },
+        { "id": "berseem", "icon": "🍀", "name_en": "Berseem", "name_or": "ବରସିମ୍ ଘାସ", "name_hi": "बरसीम", "name_te": "బర్సీమ్", "name_bn": "বারসিম", "name_ta": "பெர்சீம்", "has_advice": false },
+        { "id": "lucerne", "icon": "🍀", "name_en": "Lucerne", "name_or": "ଲୁସର୍ଣ୍ଣ ଘାସ", "name_hi": "रिजका (लूसर्न)", "name_te": "లూసర్న్", "name_bn": "লুসার্ন", "name_ta": "குதிரை மசால்", "has_advice": false },
+        { "id": "fodder_maize", "icon": "🌽", "name_en": "Fodder maize", "name_or": "ଗୋ-ଖାଦ୍ୟ ମକା", "name_hi": "चारा मक्का", "name_te": "పశుగ్రాస మొక్కజొన్న", "name_bn": "গো-খাদ্য ভুট্টা", "name_ta": "தீவன மக்காச்சோளம்", "has_advice": false },
+        { "id": "fodder_sorghum", "icon": "🌾", "name_en": "Fodder sorghum", "name_or": "ଗୋ-ଖାଦ୍ୟ ଜୁଆର", "name_hi": "चारा ज्वार (चरी)", "name_te": "పశుగ్రాస జొన్న", "name_bn": "গো-খাদ্য জোয়ার", "name_ta": "தீவன சோளம்", "has_advice": false },
+        { "id": "fodder_cowpea", "icon": "🫘", "name_en": "Fodder cowpea", "name_or": "ଗୋ-ଖାଦ୍ୟ ଝୁଡ଼ଙ୍ଗ", "name_hi": "चारा लोबिया", "name_te": "పశుగ్రాస అలసంద", "name_bn": "গো-খাদ্য বরবটি", "name_ta": "தீவன காராமணி", "has_advice": false },
+        { "id": "azolla", "icon": "🌱", "name_en": "Azolla", "name_or": "ଆଜୋଲା", "name_hi": "अजोला", "name_te": "అజొల్లా", "name_bn": "অ্যাজোলা", "name_ta": "அசோலா", "has_advice": false }
+      ]
+    },
+    {
+      "id": "medicinal_aromatic",
+      "icon": "🌿",
+      "image": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Medicinal and aromatic plants",
+        "hi": "औषधीय और सुगंधित पौधे",
+        "or": "ଔଷଧୀୟ ଓ ସୁଗନ୍ଧିତ ଉଦ୍ଭିଦ",
+        "te": "ఔషధ మరియు సుగంధ మొక్కలు",
+        "bn": "ভেষজ ও সুগন্ধি উদ্ভিদ",
+        "ta": "மூலிகை மற்றும் நறுமணப் பயிர்கள்"
+      },
+      "items": [
+        { "id": "aloe_vera", "icon": "🌵", "name_en": "Aloe vera", "name_or": "ଘିଅକୁଆଁରୀ", "name_hi": "एलोवेरा (घृतकुमारी)", "name_te": "కలబంద", "name_bn": "অ্যালোভেরা (ঘৃতকুমারী)", "name_ta": "கற்றாழை", "has_advice": false },
+        { "id": "tulsi", "icon": "🌿", "name_en": "Tulsi", "name_or": "ତୁଳସୀ", "name_hi": "तुलसी", "name_te": "తులసి", "name_bn": "তুলসী", "name_ta": "துளசி", "has_advice": false },
+        { "id": "ashwagandha", "icon": "🌱", "name_en": "Ashwagandha", "name_or": "ଅଶ୍ୱଗନ୍ଧା", "name_hi": "अश्वगंधा", "name_te": "అశ్వగంధ", "name_bn": "অশ্বগন্ধা", "name_ta": "அமுக்கிரா (அஸ்வகந்தா)", "has_advice": false },
+        { "id": "lemongrass", "icon": "🌾", "name_en": "Lemongrass", "name_or": "ଲେମନଗ୍ରାସ୍", "name_hi": "लेमनग्रास", "name_te": "నిమ్మగడ్డి", "name_bn": "লেমনগ্রাস", "name_ta": "எலுமிச்சைப் புல்", "has_advice": false },
+        { "id": "mentha", "icon": "🌿", "name_en": "Mentha", "name_or": "ପୋଦିନା (ମେନ୍ଥା)", "name_hi": "मेंथा (पुदीना)", "name_te": "పుదీనా (మెంథా)", "name_bn": "পুদিনা (মেন্থা)", "name_ta": "புதினா", "has_advice": false }
+      ]
+    },
+    {
+      "id": "trees_timber",
+      "icon": "🌳",
+      "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Trees and timber",
+        "hi": "पेड़ और इमारती लकड़ी",
+        "or": "ଗଛ ଓ କାଠ ଚାଷ",
+        "te": "చెట్లు మరియు కలప",
+        "bn": "গাছ ও কাঠ",
+        "ta": "மரங்கள் மற்றும் டிம்பர்"
+      },
+      "items": [
+        { "id": "bamboo", "icon": "🎍", "name_en": "Bamboo", "name_or": "ବାଉଁଶ", "name_hi": "बांस", "name_te": "వెదురు", "name_bn": "বাঁশ", "name_ta": "மூங்கில்", "has_advice": false },
+        { "id": "teak", "icon": "🌳", "name_en": "Teak", "name_or": "ଶାଗୁଆନ", "name_hi": "सागौन (टीक)", "name_te": "టేకు", "name_bn": "সেগুন", "name_ta": "தேக்கு", "has_advice": false },
+        { "id": "eucalyptus", "icon": "🌲", "name_en": "Eucalyptus", "name_or": "ନୀଳଗିରି", "name_hi": "यूकेलिप्टस (सफेदा)", "name_te": "నీలగిరి", "name_bn": "ইউক্যালিপটাস", "name_ta": "தைலமரம் (யூகலிப்டஸ்)", "has_advice": false },
+        { "id": "casuarina", "icon": "🌲", "name_en": "Casuarina", "name_or": "ଝାଉଁ ଗଛ", "name_hi": "कैजुअरिना (झाऊ)", "name_te": "సరుగుడు", "name_bn": "ঝাউ গাছ", "name_ta": "சவுக்கு", "has_advice": false },
+        { "id": "neem", "icon": "🌳", "name_en": "Neem", "name_or": "ନିମ୍ବ", "name_hi": "नीम", "name_te": "వేప", "name_bn": "নিম", "name_ta": "வேம்பு", "has_advice": false },
+        { "id": "acacia", "icon": "🌳", "name_en": "Acacia", "name_or": "ଆକାଶିଆ (ବବୁଲ)", "name_hi": "बबूल (अकेशिया)", "name_te": "తుమ్మ", "name_bn": "বাবলা (আকাশমণি)", "name_ta": "கருவேலம்", "has_advice": false },
+        { "id": "mahogany", "icon": "🌳", "name_en": "Mahogany", "name_or": "ମେହଗାନି", "name_hi": "महोगनी", "name_te": "మహోగని", "name_bn": "মেহগনি", "name_ta": "மகோகனி", "has_advice": false },
+        { "id": "subabul", "icon": "🌿", "name_en": "Subabul", "name_or": "ସୁବାବୁଲ", "name_hi": "सुबबूल", "name_te": "సుబాబుల్", "name_bn": "সুবাবুল", "name_ta": "சுபாபுல்", "has_advice": false }
+      ]
+    },
+    {
+      "id": "mushrooms",
+      "icon": "🍄",
+      "image": "https://images.unsplash.com/photo-1504545102780-26774c1bb073?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Mushrooms",
+        "hi": "मशरूम (छत्ता)",
+        "or": "ଛତୁ ଚାଷ",
+        "te": "పుట్టగొడుగులు (మష్రూమ్)",
+        "bn": "মাশরুম (ছাতু)",
+        "ta": "காளான்"
+      },
+      "items": [
+        { "id": "button_mushroom", "icon": "🍄", "name_en": "Button", "name_or": "ବଟନ୍ ଛତୁ", "name_hi": "बटन मशरूम", "name_te": "బటన్ మష్రూమ్", "name_bn": "বোতাম মাশরুম", "name_ta": "பட்டன் காளான்", "has_advice": false },
+        { "id": "oyster_mushroom", "icon": "🍄", "name_en": "Oyster", "name_or": "ଧିଙ୍ଗିରି (ଅଏଷ୍ଟର) ଛତୁ", "name_hi": "ऑयस्टर (ढींगरी) मशरूम", "name_te": "ఆయిస్టర్ మష్రూమ్", "name_bn": "অয়েস্টার (ঝিনুক) মাশরুম", "name_ta": "சிப்பி காளான்", "has_advice": false },
+        { "id": "paddy_straw_mushroom", "icon": "🍄", "name_en": "Paddy straw", "name_or": "ପାଳ ଛତୁ", "name_hi": "पैडी स्ट्रॉ (पुआल) मशरूम", "name_te": "వరి గడ్డి మష్రూమ్", "name_bn": "খড় মাশরুম", "name_ta": "வைக்கோல் காளான்", "has_advice": true }
+      ]
+    },
+    {
+      "id": "nursery_ornamental",
+      "icon": "🪴",
+      "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Nursery and ornamental plants",
+        "hi": "नर्सरी और सजावटी पौधे",
+        "or": "ନର୍ସରୀ ଓ ସୌନ୍ଦର୍ଯ୍ୟକରଣ ଗଛ",
+        "te": "నర్సరీ మరియు అలంకరణ మొక్కలు",
+        "bn": "নার্সারি ও বাহারি গাছ",
+        "ta": "நாற்றங்கால் மற்றும் அலங்காரச் செடிகள்"
+      },
+      "items": [
+        { "id": "fruit_saplings", "icon": "🌱", "name_en": "Fruit saplings", "name_or": "ଫଳ ଚାରା", "name_hi": "फलों के पौधे", "name_te": "పండ్ల మొక్కలు", "name_bn": "ফলের চারা", "name_ta": "பழ நாற்றுகள்", "has_advice": false },
+        { "id": "vegetable_seedlings", "icon": "🌱", "name_en": "Vegetable seedlings", "name_or": "ପନିପରିବା ତଳି", "name_hi": "सब्जियों की पौध", "name_te": "కూరగాయల నారు", "name_bn": "সবজির চারা", "name_ta": "காய்கறி நாற்றுகள்", "has_advice": false },
+        { "id": "ornamental_plants", "icon": "🪴", "name_en": "Ornamental plants", "name_or": "ସୌନ୍ଦର୍ଯ୍ୟକରଣ ଗଛ", "name_hi": "सजावटी पौधे", "name_te": "అలంకరణ మొక్కలు", "name_bn": "বাহারি গাছ", "name_ta": "அலங்காரச் செடிகள்", "has_advice": false },
+        { "id": "orchids", "icon": "🌸", "name_en": "Orchids", "name_or": "ଅର୍କିଡ୍", "name_hi": "ऑर्किड", "name_te": "ఆర్కిడ్లు", "name_bn": "অর্কিড", "name_ta": "ஆர்க்கிட்", "has_advice": false }
+      ]
+    },
+    {
+      "id": "other",
+      "icon": "🌾",
+      "image": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=400&q=80",
+      "name": {
+        "en": "Other",
+        "hi": "अन्य",
+        "or": "ଅନ୍ୟାନ୍ୟ",
+        "te": "ఇతర",
+        "bn": "অন্যান্য",
+        "ta": "மற்றவை"
+      },
+      "items": []
+    }
+  ]
+}

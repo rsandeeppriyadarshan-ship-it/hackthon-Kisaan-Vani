@@ -1,0 +1,11 @@
+{
+  "omnidimApiKey": "",
+  "omnidimAgentId": "krushak_bani_ai_agent",
+  "omnidimApiUrl": "https://omnidim.io/api/v1/calls/dispatch",
+  "omnidimFromNumber": "",
+  "twilioSid": "",
+  "twilioToken": "",
+  "twilioFrom": "",
+  "tollFreeNumber": "18008895787",
+  "kisanCallCentre": "1551"
+}

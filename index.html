@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="or">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      (function () {
+        var OrigWebSocket = window.WebSocket;
+        if (OrigWebSocket) {
+          var PatchedWebSocket = function (url, protocols) {
+            var isViteHmr =
+              protocols === 'vite-hmr' ||
+              (Array.isArray(protocols) && protocols.indexOf('vite-hmr') !== -1) ||
+              (typeof url === 'string' && url.indexOf('token=') !== -1 && !protocols);
+            if (isViteHmr) {
+              return {
+                url: url,
+                readyState: 1,
+                OPEN: 1,
+                CONNECTING: 0,
+                CLOSING: 2,
+                CLOSED: 3,
+                protocol: 'vite-hmr',
+                extensions: '',
+                bufferedAmount: 0,
+                binaryType: 'blob',
+                send: function () {},
+                close: function () {},
+                addEventListener: function () {},
+                removeEventListener: function () {},
+                dispatchEvent: function () { return true; }
+              };
+            }
+            return protocols !== undefined
+              ? new OrigWebSocket(url, protocols)
+              : new OrigWebSocket(url);
+          };
+          PatchedWebSocket.prototype = OrigWebSocket.prototype;
+          PatchedWebSocket.CONNECTING = OrigWebSocket.CONNECTING;
+          PatchedWebSocket.OPEN = OrigWebSocket.OPEN;
+          PatchedWebSocket.CLOSING = OrigWebSocket.CLOSING;
+          PatchedWebSocket.CLOSED = OrigWebSocket.CLOSED;
+          window.WebSocket = PatchedWebSocket;
+        }
+        var suppressWsError = function (e) {
+          var msg = e && (e.message || (e.reason && (e.reason.message || String(e.reason)))) || '';
+          if (typeof msg === 'string' && (msg.indexOf('WebSocket closed without opened') !== -1 || msg.indexOf('failed to connect to websocket') !== -1)) {
+            if (e.preventDefault) e.preventDefault();
+            if (e.stopImmediatePropagation) e.stopImmediatePropagation();
+            return true;
+          }
+          return false;
+        };
+        window.addEventListener('error', suppressWsError, true);
+        window.addEventListener('unhandledrejection', suppressWsError, true);
+      })();
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Krushak Bani Odisha</title>
+    <meta name="description" content="କୃଷକ ବାଣୀ ଓଡ଼ିଶା - ଓଡ଼ିଶା ଚାଷୀଙ୍କ ପାଇଁ କୃଷି ପରାମର୍ଶ, ଫସଲ ରୋଗ ନିରୂପଣ, କୀଟନାଶକ ପରିଚାଳନା ଓ ଜରୁରୀକାଳୀନ ସୁରକ୍ଷା ପୋର୍ଟାଲ।" />
+    
+    <meta name="theme-color" content="#15803d" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="KrushakBani" />
+    
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+
+    <meta property="og:title" content="Krushak Bani Odisha" />
+    <meta property="og:description" content="କୃଷକ ବାଣୀ ଓଡ଼ିଶା - ଓଡ଼ିଶା ଚାଷୀଙ୍କ ପାଇଁ କୃଷି ପରାମର୍ଶ, ଫସଲ ରୋଗ ନିରୂପଣ, କୀଟନାଶକ ପରିଚାଳନା ଓ ଜରୁରୀକାଳୀନ ସୁରକ୍ଷା ପୋର୍ଟାଲ।" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/pwa-512x512.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Google Fonts for Odia, Hindi, Telugu, Bengali, Tamil & English -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700;800&family=Noto+Sans+Devanagari:wght@400;600;700;800&family=Noto+Sans+Oriya:wght@400;500;600;700;800&family=Noto+Sans+Tamil:wght@400;600;700;800&family=Noto+Sans+Telugu:wght@400;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-stone-50 text-stone-900 antialiased selection:bg-emerald-200 selection:text-emerald-900">
+    <div id="root">
+      <div style="position: fixed; inset: 0; display: flex; flex-direction: column; items-center: center; justify-content: center; background: linear-gradient(to bottom, #022c22, #064e3b, #042f2e); color: white; text-align: center; font-family: system-ui, -apple-system, sans-serif; padding: 24px;">
+        <div style="position: relative; margin: 0 auto 24px auto;">
+          <img src="/pwa-512x512.png" alt="Krushak Bani Odisha Logo" style="width: 150px; height: 150px; border-radius: 32px; border: 4px solid #facc15; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 0 25px rgba(250, 204, 21, 0.3); background-color: #fefce8; object-fit: contain;" />
+        </div>
+        <h1 style="font-size: 24px; font-weight: 900; margin: 0 0 8px 0; color: #ffffff;">କୃଷକ ବାଣୀ ଓଡ଼ିଶା</h1>
+        <p style="font-size: 13px; color: #fde68a; font-weight: 700; margin: 0 0 24px 0;">Krushak Bani Odisha — Agricultural Advisory</p>
+        <div style="width: 160px; height: 4px; background: rgba(250, 204, 21, 0.2); border-radius: 9999px; margin: 0 auto; overflow: hidden;">
+          <div style="width: 60%; height: 100%; background: #facc15; border-radius: 9999px;"></div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

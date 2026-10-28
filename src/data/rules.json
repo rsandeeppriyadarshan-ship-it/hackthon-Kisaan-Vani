@@ -1,0 +1,373 @@
+{
+  "crops": {
+    "paddy": {
+      "name_en": "Paddy (Rice)",
+      "name_or": "ଧାନ (Paddy)",
+      "irrigate_every_days": {
+        "transplanting": 2,
+        "tillering": 4,
+        "panicle_initiation": 3,
+        "flowering": 3,
+        "grain_filling": 5,
+        "maturity": 10
+      },
+      "fertiliser_doses": {
+        "basal": {
+          "stage_en": "Basal (At final puddling/transplanting)",
+          "stage_or": "ମୂଳ ସାର (ରୁଆ ସମୟରେ)",
+          "urea_kg_per_acre": 18,
+          "dap_kg_per_acre": 44,
+          "mop_kg_per_acre": 27,
+          "zinc_kg_per_acre": 10,
+          "notes_en": "Apply all DAP, 1/3rd Urea, and 75% MOP at last puddling.",
+          "notes_or": "ରୁଆ ବେଳେ ସମସ୍ତ ଡି.ଏ.ପି., ଏକ ତୃତୀୟାଂଶ ୟୁରିଆ ଏବଂ ୭୫% ପଟାସ ଦିଅନ୍ତୁ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        "tillering": {
+          "stage_en": "Tillering (21-25 days after transplanting)",
+          "stage_or": "ପିଲ ବାହାରିବା ସମୟରେ (୨୧-୨୫ ଦିନ)",
+          "urea_kg_per_acre": 18,
+          "dap_kg_per_acre": 0,
+          "mop_kg_per_acre": 0,
+          "zinc_kg_per_acre": 0,
+          "notes_en": "Top dress 1/3rd Urea when water is drained or soil is moist.",
+          "notes_or": "ଜମିରୁ ଅତିରିକ୍ତ ପାଣି କାଢ଼ି ଏକ ତୃତୀୟାଂଶ ୟୁରିଆ ପ୍ରୟୋଗ କରନ୍ତୁ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        "panicle_initiation": {
+          "stage_en": "Panicle Initiation (PI stage - 45-50 DAT)",
+          "stage_or": "ଥୋଡ଼ ବାହାରିବା ପୂର୍ବରୁ (୪୫-୫୦ ଦିନ)",
+          "urea_kg_per_acre": 18,
+          "dap_kg_per_acre": 0,
+          "mop_kg_per_acre": 9,
+          "zinc_kg_per_acre": 0,
+          "notes_en": "Apply remaining Urea and remaining 25% MOP for sound grain filling.",
+          "notes_or": "ବାକି ୟୁରିଆ ଏବଂ ୨୫% ପଟାସ ପ୍ରୟୋଗ କରନ୍ତୁ। ଭଲ ଦାନା ପୂରଣ ହେବ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      },
+      "diseases_pests": [
+        {
+          "id": "rice_blast",
+          "name_en": "Rice Blast (Pyricularia oryzae)",
+          "name_or": "ଧାନ ଚିଟା / ବ୍ଲାଷ୍ଟ ରୋଗ",
+          "symptoms_en": "Spindle-shaped spots with grey centers and brown margins on leaves and neck rot.",
+          "symptoms_or": "ପତ୍ରରେ ଆଖି ଭଳି ଧୂସର ମଝି ଏବଂ ବାଦାମୀ ଧାର ଥିବା ଦାଗ, ବେକ ପଚା।",
+          "chemical": "Tricyclazole 75% WP",
+          "chemical_or": "ଟ୍ରାଇସାଇକ୍ଲାଜୋଲ ୭୫% WP",
+          "dose_per_litre": "0.6 g",
+          "dose_per_acre": "120 g in 200 L water",
+          "phi_days": 30,
+          "safety_class": "Class III (Slightly hazardous - Blue)",
+          "alternative": "Isoprothiolane 40% EC @ 1.5 ml/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        {
+          "id": "bacterial_leaf_blight",
+          "name_en": "Bacterial Leaf Blight (BLB)",
+          "name_or": "ଜୀବାଣୁ ଜନିତ ପତ୍ରପୋଡ଼ା (BLB)",
+          "symptoms_en": "Wavy yellowish margins along leaf blades turning straw yellow and drying from tips.",
+          "symptoms_or": "ପତ୍ରର ଧାର ତରଙ୍ଗାୟିତ ହଳଦିଆ ହୋଇ ଉପରୁ ତଳକୁ ଶୁଖିଯାଏ।",
+          "chemical": "Copper Oxychloride 50% WP + Streptocycline",
+          "chemical_or": "କପର ଅକ୍ସିକ୍ଲୋରାଇଡ୍ + ଷ୍ଟ୍ରେପ୍ଟୋସାଇକ୍ଲିନ୍",
+          "dose_per_litre": "2.5 g COC + 0.1 g Streptocycline",
+          "dose_per_acre": "500 g COC + 12 g Streptocycline in 200 L water",
+          "phi_days": 21,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Plantomycin @ 1 g/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        {
+          "id": "brown_spot",
+          "name_en": "Brown Spot (Bipolaris oryzae)",
+          "name_or": "ବାଦାମୀ ଚିତା ରୋଗ",
+          "symptoms_en": "Oval reddish-brown spots with yellow halo all over leaves, common in nutrient deficient soils.",
+          "symptoms_or": "ପତ୍ର ଉପରେ ଛୋଟ ଗୋଲାକାର ବାଦାମୀ ଦାଗ, ପୋଟାସିୟମ ଅଭାବରେ ଅଧିକ ହୁଏ।",
+          "chemical": "Mancozeb 75% WP or Propiconazole 25% EC",
+          "chemical_or": "ମାଙ୍କୋଜେବ୍ ୭୫% WP କିମ୍ବା ପ୍ରୋପିକୋନାଜୋଲ ୨୫% EC",
+          "dose_per_litre": "2.0 g Mancozeb OR 1 ml Propiconazole",
+          "dose_per_acre": "400 g Mancozeb in 200 L water",
+          "phi_days": 25,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Carbendazim 12% + Mancozeb 63% WP @ 2 g/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        {
+          "id": "yellow_stem_borer",
+          "name_en": "Yellow Stem Borer",
+          "name_or": "କାଣ୍ଡବିନ୍ଧା ପୋକ (ଶୁଖିଲା ମଜା / ଧଳା କେଣ୍ଡା)",
+          "symptoms_en": "Dead heart in vegetative stage, White ear head (chaffy grain) in reproductive stage.",
+          "symptoms_or": "ଗଛର ମଜା ଶୁଖିଯିବା (ଡେଡ୍ ହାର୍ଟ) ଏବଂ ବାହାରୁଥିବା ଧାନ କେଣ୍ଡା ଧଳା ହୋଇ ଫମ୍ପା ହେବା।",
+          "chemical": "Chlorantraniliprole 18.5% SC (Coragen)",
+          "chemical_or": "କ୍ଲୋରାନଟ୍ରାନିଲିପ୍ରୋଲ ୧୮.୫% SC (କୋରାଜେନ୍)",
+          "dose_per_litre": "0.3 ml",
+          "dose_per_acre": "60 ml in 200 L water",
+          "phi_days": 14,
+          "safety_class": "Class IV (Caution - Green)",
+          "alternative": "Cartap Hydrochloride 4% G @ 7.5 kg/acre in standing water",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        {
+          "id": "brown_plant_hopper",
+          "name_en": "Brown Plant Hopper (BPH)",
+          "name_or": "ମହିଷା ପୋକ / ବି.ପି.ଏଚ୍ (BPH)",
+          "symptoms_en": "Circular patches of dry scorched plants (hopper burn) appearing from field center.",
+          "symptoms_or": "ବିଲ ମଝିରେ ଗୋଲ ହୋଇ ଗଛ ଶୁଖି ଜଳିଗଲା ଭଳି ଦିଶିବା (ହପର ବର୍ଣ୍ଣ)।",
+          "chemical": "Triflumuron + Ethiprole OR Pymetrozine 50% WDG",
+          "chemical_or": "ପାଇମେଟ୍ରୋଜିନ୍ ୫୦% WDG (ଚେସ୍) କିମ୍ବା ଡାଇନୋଟେଫୁରାନ୍",
+          "dose_per_litre": "0.6 g Pymetrozine OR 0.4 g Dinotefuran 20% SG",
+          "dose_per_acre": "120 g in 200 L water directed at plant base",
+          "phi_days": 19,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Neem oil 1500 ppm @ 3 ml/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    "brinjal": {
+      "name_en": "Brinjal (Eggplant)",
+      "name_or": "ବାଇଗଣ (Brinjal)",
+      "irrigate_every_days": {
+        "transplanting": 3,
+        "vegetative": 5,
+        "flowering": 4,
+        "fruiting": 4
+      },
+      "fertiliser_doses": {
+        "basal": {
+          "stage_en": "Basal (Transplanting)",
+          "stage_or": "ମୂଳ ସାର (ଚାରା ରୋପଣ)",
+          "urea_kg_per_acre": 20,
+          "dap_kg_per_acre": 50,
+          "mop_kg_per_acre": 30,
+          "zinc_kg_per_acre": 5,
+          "notes_en": "Well-rotted FYM 5-8 tonnes/acre mixed with DAP and Potash.",
+          "notes_or": "ଚାରା ଲଗାଇବା ସମୟରେ ଖତ ସହ ଡିଏପି ଓ ପଟାସ ପ୍ରୟୋଗ କରନ୍ତୁ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        "vegetative": {
+          "stage_en": "30 Days after planting",
+          "stage_or": "୩୦ ଦିନ ପରେ",
+          "urea_kg_per_acre": 25,
+          "dap_kg_per_acre": 0,
+          "mop_kg_per_acre": 15,
+          "zinc_kg_per_acre": 0,
+          "notes_en": "Side dress Urea and Potash followed by earthing up.",
+          "notes_or": "ଗଛ ମୂଳରେ ୟୁରିଆ ଓ ପଟାସ ଦେଇ ମାଟି ଟେକନ୍ତୁ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      },
+      "diseases_pests": [
+        {
+          "id": "brinjal_shoot_fruit_borer",
+          "name_en": "Shoot & Fruit Borer (Leucinodes orbonalis)",
+          "name_or": "ଡଗ ଓ ଫଳ ବିନ୍ଧା ପୋକ",
+          "symptoms_en": "Wilting and drooping of tender terminal shoots, bore holes plugged with excreta in fruits.",
+          "symptoms_or": "କଅଁଳ ଡଗ ମଉଳି ଝାଉଁଳି ପଡ଼ିବା ଏବଂ ବାଇଗଣ ଫଳରେ କଣା ହୋଇ ମଳ ବାହାରିବା।",
+          "chemical": "Emamectin Benzoate 5% SG",
+          "chemical_or": "ଏମାମେକ୍ଟିନ୍ ବେଞ୍ଜୋଏଟ୍ ୫% SG",
+          "dose_per_litre": "0.4 g",
+          "dose_per_acre": "80 g in 200 L water",
+          "phi_days": 3,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Spinosad 45% SC @ 0.3 ml/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        {
+          "id": "phomopsis_blight",
+          "name_en": "Phomopsis Blight & Fruit Rot",
+          "name_or": "ଫୋମୋପସିସ୍ ପତ୍ରପୋଡ଼ା ଓ ଫଳପଚା ରୋଗ",
+          "symptoms_en": "Dark brown circular spots on leaves and soft watery rotting of fruits.",
+          "symptoms_or": "ପତ୍ରରେ ବାଦାମୀ ଦାଗ ଏବଂ ବାଇଗଣ ପଚି ନଷ୍ଟ ହୋଇଯିବା।",
+          "chemical": "Copper Oxychloride 50% WP",
+          "chemical_or": "କପର ଅକ୍ସିକ୍ଲୋରାଇଡ୍ ୫୦% WP",
+          "dose_per_litre": "2.5 g",
+          "dose_per_acre": "500 g in 200 L water",
+          "phi_days": 7,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Carbendazim 50% WP @ 1 g/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    "tomato": {
+      "name_en": "Tomato",
+      "name_or": "ବିଲାତି ବାଇଗଣ (Tomato)",
+      "irrigate_every_days": {
+        "transplanting": 3,
+        "vegetative": 5,
+        "flowering": 4,
+        "fruiting": 4
+      },
+      "fertiliser_doses": {
+        "basal": {
+          "stage_en": "Basal (Transplanting)",
+          "stage_or": "ମୂଳ ସାର",
+          "urea_kg_per_acre": 22,
+          "dap_kg_per_acre": 55,
+          "mop_kg_per_acre": 35,
+          "zinc_kg_per_acre": 5,
+          "notes_en": "Mix well in soil ridges before transplanting seedlings.",
+          "notes_or": "ଧାଡ଼ି ମଧ୍ୟରେ ସାର ମିଶାଇ ଚାରା ଲଗାନ୍ତୁ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      },
+      "diseases_pests": [
+        {
+          "id": "tomato_early_blight",
+          "name_en": "Early Blight (Alternaria solani)",
+          "name_or": "ଆଗୁଆ ପତ୍ରପୋଡ଼ା (ଟାର୍ଗେଟ୍ ଦାଗ)",
+          "symptoms_en": "Concentric rings like target board on lower leaves, yellowing and dropping of leaves.",
+          "symptoms_or": "ତଳ ପତ୍ରରେ ଲକ୍ଷ୍ୟବିନ୍ଦୁ ଭଳି ଗୋଲାକାର ଚକ୍ର ଦାଗ, ପତ୍ର ଝଡ଼ିବା।",
+          "chemical": "Mancozeb 75% WP or Chlorothalonil 75% WP",
+          "chemical_or": "ମାଙ୍କୋଜେବ୍ ୭୫% WP କିମ୍ବା କ୍ଲୋରୋଥାଲୋନିଲ୍",
+          "dose_per_litre": "2.0 g",
+          "dose_per_acre": "400 g in 200 L water",
+          "phi_days": 5,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Azoxystrobin 23% SC @ 1 ml/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        },
+        {
+          "id": "tomato_leaf_curl",
+          "name_en": "Tomato Leaf Curl Virus (transmitted by Whitefly)",
+          "name_or": "ପତ୍ର କୁଞ୍ଚନ ଭୂତାଣୁ (ଧଳାମାଛି ବାହକ)",
+          "symptoms_en": "Severe upward rolling and curling of leaves, stunted bushy growth with no fruit set.",
+          "symptoms_or": "ପତ୍ର ଉପର ମୁହାଁ କୁଞ୍ଚିତ ହୋଇ ଛୋଟ ହୋଇଯିବା, ଗଛ ବଢେ ନାହିଁ।",
+          "chemical": "Diafenthiuron 50% WP or Acetamiprid 20% SP (controls whitefly vector)",
+          "chemical_or": "ଡାୟାଫେନଥିଉରନ୍ ୫୦% WP କିମ୍ବା ଏସିଟାମିପ୍ରିଡ୍",
+          "dose_per_litre": "1.0 g Diafenthiuron OR 0.4 g Acetamiprid",
+          "dose_per_acre": "200 g in 200 L water",
+          "phi_days": 7,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Yellow sticky traps @ 15/acre + Neem 1500ppm",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    "groundnut": {
+      "name_en": "Groundnut",
+      "name_or": "ଚିନାବାଦାମ (Groundnut)",
+      "irrigate_every_days": {
+        "sowing": 7,
+        "flowering": 8,
+        "pegging": 6,
+        "pod_formation": 7
+      },
+      "fertiliser_doses": {
+        "basal": {
+          "stage_en": "Basal Sowing",
+          "stage_or": "ବୁଣା ସମୟରେ",
+          "urea_kg_per_acre": 10,
+          "dap_kg_per_acre": 40,
+          "mop_kg_per_acre": 25,
+          "zinc_kg_per_acre": 10,
+          "notes_en": "Apply Gypsum @ 100 kg/acre at pegging stage for oil content and shell filling.",
+          "notes_or": "ଫଳ ବାହାରିବା (ପେଗିଙ୍ଗ) ବେଳେ ଏକର ପିଛା ୧୦୦ କେଜି ଜିପସମ ପ୍ରୟୋଗ କରନ୍ତୁ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      },
+      "diseases_pests": [
+        {
+          "id": "tikka_disease",
+          "name_en": "Tikka Leaf Spot (Cercospora arachidicola)",
+          "name_or": "ଟିକ୍କା ପତ୍ର ଦାଗ ରୋଗ",
+          "symptoms_en": "Circular dark spots with bright yellow rings on upper leaf surface, causing defoliation.",
+          "symptoms_or": "ପତ୍ରରେ କଳା ଗୋଲ ଦାଗ ଓ ଚାରିପାଖେ ହଳଦିଆ ବଳୟ, ପତ୍ର ଝଡ଼ିଯାଏ।",
+          "chemical": "Carbendazim 12% + Mancozeb 63% WP (SAAF)",
+          "chemical_or": "ସାଫ୍ (କାର୍ବେଣ୍ଡାଜିମ୍ + ମାଙ୍କୋଜେବ୍)",
+          "dose_per_litre": "2.0 g",
+          "dose_per_acre": "400 g in 200 L water",
+          "phi_days": 21,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Hexaconazole 5% SC @ 2 ml/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    "pulses": {
+      "name_en": "Green Gram / Black Gram (Moong/Biri)",
+      "name_or": "ମୁଗ / ବିରି (Pulses)",
+      "irrigate_every_days": {
+        "sowing": 10,
+        "branching": 15,
+        "flowering": 12,
+        "pod_filling": 12
+      },
+      "fertiliser_doses": {
+        "basal": {
+          "stage_en": "Basal",
+          "stage_or": "ମୂଳ ସାର",
+          "urea_kg_per_acre": 8,
+          "dap_kg_per_acre": 35,
+          "mop_kg_per_acre": 15,
+          "zinc_kg_per_acre": 5,
+          "notes_en": "Treat seeds with Rhizobium and PSB culture before sowing.",
+          "notes_or": "ବୁଣିବା ପୂର୍ବରୁ ବିହନକୁ ରାଇଜୋବିୟମ୍ ଜୀବାଣୁରେ ବିଶୋଧନ କରନ୍ତୁ।",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      },
+      "diseases_pests": [
+        {
+          "id": "yellow_mosaic_virus",
+          "name_en": "Yellow Mosaic Virus (MYMV)",
+          "name_or": "ହଳଦିଆ ମୋଜାଇକ୍ ରୋଗ",
+          "symptoms_en": "Bright yellow patches interspersed with green on leaves, stunted pods with shriveled seeds.",
+          "symptoms_or": "ପତ୍ରରେ ହଳଦିଆ ଓ ସବୁଜ ମିଶ୍ରିତ ଦାଗ, ଛୁଇଁଗୁଡ଼ିକ ଛୋଟ ହୋଇଯାଏ।",
+          "chemical": "Thiamethoxam 25% WG",
+          "chemical_or": "ଥିଆମେଥୋକ୍ସାମ୍ ୨୫% WG",
+          "dose_per_litre": "0.3 g",
+          "dose_per_acre": "60 g in 200 L water",
+          "phi_days": 14,
+          "safety_class": "Class III (Blue)",
+          "alternative": "Imidacloprid 17.8% SL @ 0.5 ml/L",
+          "source": "OUAT / ICAR Package of Practices",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    }
+  },
+  "weather_thresholds": {
+    "max_wind_kmh_for_spray": 15,
+    "max_rain_probability_for_spray": 30,
+    "min_temp_celsius": 12,
+    "max_temp_celsius": 36
+  }
+}

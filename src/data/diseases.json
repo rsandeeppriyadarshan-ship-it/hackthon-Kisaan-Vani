@@ -1,0 +1,3728 @@
+{
+  "schema_version": "2.0.0",
+  "rights_policy": "Only field photos captured by the team or openly licensed images (CC0 or CC BY 4.0) with licence and credit recorded below are permitted. Set verified_by and verified_date only after an expert has checked the photo.",
+  "diseases": [
+    {
+      "id": "paddy_blast",
+      "aliases": [
+        "rice_blast"
+      ],
+      "crop_id": "paddy",
+      "crop_name_en": "Paddy (Rice)",
+      "crop_name_or": "ଧାନ (Paddy)",
+      "type": "disease",
+      "name_en": "Rice Blast (Magnaporthe oryzae)",
+      "name_or": "ଧାନ ଚିଟା ରୋଗ (ବ୍ଲାଷ୍ଟ)",
+      "symptoms_en": "Spindle-shaped brown lesions with grey center on leaf blades and neck rot at heading stage.",
+      "symptoms_or": "ପତ୍ରରେ ତ୍ରିକୋଣିଆ କିମ୍ବା ଡଙ୍ଗା ଆକାରର ବାଦାମୀ ଚିତା ଦାଗ, ଶିଁଷା ମୂଳ କଳା ପଡ଼ି ଭାଙ୍ଗିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paddy_blast.jpg",
+          "alt": "Rice Blast (Magnaporthe oryzae): Spindle-shaped brown lesions with grey center on leaf blades and neck rot at heading stage. | ଧାନ ଚିଟା ରୋଗ (ବ୍ଲାଷ୍ଟ): ପତ୍ରରେ ତ୍ରିକୋଣିଆ କିମ୍ବା ଡଙ୍ଗା ଆକାରର ବାଦାମୀ ଚିତା ଦାଗ, ଶିଁଷା ମୂଳ କଳା ପଡ଼ି ଭାଙ୍ଗିଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "paddy_stem_borer",
+      "aliases": [
+        "yellow_stem_borer"
+      ],
+      "crop_id": "paddy",
+      "crop_name_en": "Paddy (Rice)",
+      "crop_name_or": "ଧାନ (Paddy)",
+      "type": "pest",
+      "name_en": "Yellow Stem Borer (Scirpophaga incertulas)",
+      "name_or": "ହଳଦିଆ କାଣ୍ଡବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Dead heart at vegetative stage and white earheads (chaffy grain) at maturity.",
+      "symptoms_or": "ଗଛ ବୃଦ୍ଧି ସମୟରେ ମଝି ଡାଳ ଶୁଖିବା (ମଲାଡିଲ) ଓ ପାଚିଲା ବେଳେ ଧଳା ଶିଁଷା (ଶୂନ୍ୟ ଧାନ)।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paddy_stem_borer.jpg",
+          "alt": "Yellow Stem Borer (Scirpophaga incertulas): Dead heart at vegetative stage and white earheads (chaffy grain) at maturity. | ହଳଦିଆ କାଣ୍ଡବିନ୍ଧା ପୋକ: ଗଛ ବୃଦ୍ଧି ସମୟରେ ମଝି ଡାଳ ଶୁଖିବା (ମଲାଡିଲ) ଓ ପାଚିଲା ବେଳେ ଧଳା ଶିଁଷା (ଶୂନ୍ୟ ଧାନ)।",
+          "licence": "CC BY 4.0",
+          "credit": "Donald Hobern",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "paddy_bacterial_leaf_blight",
+      "aliases": [
+        "bacterial_leaf_blight"
+      ],
+      "crop_id": "paddy",
+      "crop_name_en": "Paddy (Rice)",
+      "crop_name_or": "ଧାନ (Paddy)",
+      "type": "disease",
+      "name_en": "Bacterial Leaf Blight (BLB)",
+      "name_or": "ଜୀବାଣୁ ଜନିତ ପତ୍ରପୋଡ଼ା (BLB)",
+      "symptoms_en": "Water-soaked wavy yellow to translucent lesions along leaf margins starting from tip.",
+      "symptoms_or": "ପତ୍ରର ଧାର ଧାର ହଳଦିଆରୁ ପାଉଁଶିଆ ହୋଇ କୁଞ୍ଚିତ ହେବା ଓ ପତ୍ର ଶୁଖିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paddy_bacterial_leaf_blight.jpg",
+          "alt": "Bacterial Leaf Blight (BLB): Water-soaked wavy yellow to translucent lesions along leaf margins starting from tip. | ଜୀବାଣୁ ଜନିତ ପତ୍ରପୋଡ଼ା (BLB): ପତ୍ରର ଧାର ଧାର ହଳଦିଆରୁ ପାଉଁଶିଆ ହୋଇ କୁଞ୍ଚିତ ହେବା ଓ ପତ୍ର ଶୁଖିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "An SQ, Potnis N, Dow M, Vorhölter FJ, He YQ, Becker A, Teper D, Li Y, Wang N, Bl",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "paddy_zinc_deficiency",
+      "aliases": [],
+      "crop_id": "paddy",
+      "crop_name_en": "Paddy (Rice)",
+      "crop_name_or": "ଧାନ (Paddy)",
+      "type": "nutrient",
+      "name_en": "Zinc Deficiency (Khaira Disease)",
+      "name_or": "ଜିଙ୍କ ଅଭାବ (ଖଇରା ରୋଗ)",
+      "symptoms_en": "Rusty reddish-brown discoloration on lower leaves, stunted plant height.",
+      "symptoms_or": "ତଳ ପତ୍ରରେ ତମ୍ବାଳିଆ ଖଇରା ରଙ୍ଗର ଦାଗ, ଗଛ ଡେଙ୍ଗା ନହୋଇ ବୁଦୁବୁଦିକା ରହିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paddy_zinc_deficiency.jpg",
+          "alt": "Zinc Deficiency (Khaira Disease): Rusty reddish-brown discoloration on lower leaves, stunted plant height. | ଜିଙ୍କ ଅଭାବ (ଖଇରା ରୋଗ): ତଳ ପତ୍ରରେ ତମ୍ବାଳିଆ ଖଇରା ରଙ୍ଗର ଦାଗ, ଗଛ ଡେଙ୍ଗା ନହୋଇ ବୁଦୁବୁଦିକା ରହିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "William M. Brown Jr., Bugwood.org",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "wheat_rust",
+      "aliases": [],
+      "crop_id": "wheat",
+      "crop_name_en": "Wheat",
+      "crop_name_or": "ଗହମ (Wheat)",
+      "type": "disease",
+      "name_en": "Yellow / Brown Rust (Puccinia spp.)",
+      "name_or": "ଗହମ ହଳଦିଆ ଓ ବାଦାମୀ ଗେରୁଆ ରୋଗ",
+      "symptoms_en": "Yellow linear stripes of powdery pustules on leaves resembling turmeric powder.",
+      "symptoms_or": "ପତ୍ର ଉପରେ ହଳଦି ଗୁଣ୍ଡ ଭଳି ଧାଡ଼ି ଧାଡ଼ି ହଳଦିଆ ଗୁଣ୍ଡ ଦାଗ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/wheat_rust.jpg",
+          "alt": "Yellow / Brown Rust (Puccinia spp.): Yellow linear stripes of powdery pustules on leaves resembling turmeric powder. | ଗହମ ହଳଦିଆ ଓ ବାଦାମୀ ଗେରୁଆ ରୋଗ: ପତ୍ର ଉପରେ ହଳଦି ଗୁଣ୍ଡ ଭଳି ଧାଡ଼ି ଧାଡ଼ି ହଳଦିଆ ଗୁଣ୍ଡ ଦାଗ।",
+          "licence": "CC BY 4.0",
+          "credit": "Cesar Calderon, Cesar Calderon Pathology Collection, USDA APHIS PPQ, Bugwood.org",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "wheat_aphid",
+      "aliases": [],
+      "crop_id": "wheat",
+      "crop_name_en": "Wheat",
+      "crop_name_or": "ଗହମ (Wheat)",
+      "type": "pest",
+      "name_en": "Wheat Aphid (Sitobion avenae)",
+      "name_or": "ଗହମ ଜାବପୋକ (ମାହୁ)",
+      "symptoms_en": "Sucking sap from leaves and young earheads, secreting sticky honeydew.",
+      "symptoms_or": "ପତ୍ର ଓ କଅଁଳ ଶିଁଷାରୁ ରସ ଶୋଷିବା, ଅଠାଳିଆ ମହୁ ଭଳି ଝାଳ ଛାଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/wheat_aphid.jpg",
+          "alt": "Wheat Aphid (Sitobion avenae): Sucking sap from leaves and young earheads, secreting sticky honeydew. | ଗହମ ଜାବପୋକ (ମାହୁ): ପତ୍ର ଓ କଅଁଳ ଶିଁଷାରୁ ରସ ଶୋଷିବା, ଅଠାଳିଆ ମହୁ ଭଳି ଝାଳ ଛାଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Bildoj",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "wheat_loose_smut",
+      "aliases": [],
+      "crop_id": "wheat",
+      "crop_name_en": "Wheat",
+      "crop_name_or": "ଗହମ (Wheat)",
+      "type": "disease",
+      "name_en": "Loose Smut (Ustilago tritici)",
+      "name_or": "ଗହମ କଳା ଅଙ୍ଗାରୁଆ ରୋଗ",
+      "symptoms_en": "Entire earhead transformed into black sooty mass of fungal spores.",
+      "symptoms_or": "ଗହମ ଶିଁଷା ସମ୍ପୂର୍ଣ୍ଣ କଳା ଅଙ୍ଗାର ପାଉଁଶରେ ପରିଣତ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/wheat_loose_smut.jpg",
+          "alt": "Loose Smut (Ustilago tritici): Entire earhead transformed into black sooty mass of fungal spores. | ଗହମ କଳା ଅଙ୍ଗାରୁଆ ରୋଗ: ଗହମ ଶିଁଷା ସମ୍ପୂର୍ଣ୍ଣ କଳା ଅଙ୍ଗାର ପାଉଁଶରେ ପରିଣତ ହୋଇଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "wheat_phalaris_minor",
+      "aliases": [],
+      "crop_id": "wheat",
+      "crop_name_en": "Wheat",
+      "crop_name_or": "ଗହମ (Wheat)",
+      "type": "weed",
+      "name_en": "Canary Grass Weed (Phalaris minor / Mandusi)",
+      "name_or": "ଗୁଲି ଡଣ୍ଡା / ମାଣ୍ଡୁସି ଘାସ (ଅନାବନା)",
+      "symptoms_en": "Mimics wheat plants in early stage, smothers crop canopy reducing yield by 50%.",
+      "symptoms_or": "ଗହମ ଭଳି ଦିଶୁଥିବା କ୍ଷତିକାରକ ଘାସ, ଗହମର ଖାଦ୍ୟ ଓ ପାଣି ଛଡ଼ାଇ ନେଇ ଉଜୁଡ଼ି ଦିଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/wheat_phalaris_minor.jpg",
+          "alt": "Canary Grass Weed (Phalaris minor / Mandusi): Mimics wheat plants in early stage, smothers crop canopy reducing yield by 50%. | ଗୁଲି ଡଣ୍ଡା / ମାଣ୍ଡୁସି ଘାସ (ଅନାବନା): ଗହମ ଭଳି ଦିଶୁଥିବା କ୍ଷତିକାରକ ଘାସ, ଗହମର ଖାଦ୍ୟ ଓ ପାଣି ଛଡ଼ାଇ ନେଇ ଉଜୁଡ଼ି ଦିଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "maize_fall_armyworm",
+      "aliases": [],
+      "crop_id": "maize",
+      "crop_name_en": "Maize (Corn)",
+      "crop_name_or": "ମକା (Maize)",
+      "type": "pest",
+      "name_en": "Fall Armyworm - FAW (Spodoptera frugiperda)",
+      "name_or": "ମକା ଫଲ୍ ଆର୍ମିୱାର୍ମ ପୋକ (FAW)",
+      "symptoms_en": "Papery window pane feeding on whorls with sawdust-like frass and deep holes.",
+      "symptoms_or": "ମକା ଡାଳର ମୁକୁଟ ଭିତରେ ବସି ପତ୍ର କଣା କରି କରତ ଗୁଣ୍ଡ ଭଳି ମଳ ପକାଇବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/maize_fall_armyworm.jpg",
+          "alt": "Fall Armyworm - FAW (Spodoptera frugiperda): Papery window pane feeding on whorls with sawdust-like frass and deep holes. | ମକା ଫଲ୍ ଆର୍ମିୱାର୍ମ ପୋକ (FAW): ମକା ଡାଳର ମୁକୁଟ ଭିତରେ ବସି ପତ୍ର କଣା କରି କରତ ଗୁଣ୍ଡ ଭଳି ମଳ ପକାଇବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "maize_turcicum_blight",
+      "aliases": [],
+      "crop_id": "maize",
+      "crop_name_en": "Maize (Corn)",
+      "crop_name_or": "ମକା (Maize)",
+      "type": "disease",
+      "name_en": "Turcicum Leaf Blight (Exserohilum turcicum)",
+      "name_or": "ମକା ଟରସିକମ୍ ପତ୍ରପୋଡ଼ା ରୋଗ",
+      "symptoms_en": "Long elliptical grayish-green boat-shaped lesions on leaves.",
+      "symptoms_or": "ପତ୍ର ଉପରେ ଲମ୍ବା ଡଙ୍ଗା ଭଳି ପାଉଁଶିଆ ବାଦାମୀ ଦାଗ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/maize_turcicum_blight.jpg",
+          "alt": "Turcicum Leaf Blight (Exserohilum turcicum): Long elliptical grayish-green boat-shaped lesions on leaves. | ମକା ଟରସିକମ୍ ପତ୍ରପୋଡ଼ା ରୋଗ: ପତ୍ର ଉପରେ ଲମ୍ବା ଡଙ୍ଗା ଭଳି ପାଉଁଶିଆ ବାଦାମୀ ଦାଗ।",
+          "licence": "CC BY 4.0",
+          "credit": "GeorgJander",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "maize_stem_borer",
+      "aliases": [],
+      "crop_id": "maize",
+      "crop_name_en": "Maize (Corn)",
+      "crop_name_or": "ମକା (Maize)",
+      "type": "pest",
+      "name_en": "Maize Stem Borer (Chilo partellus)",
+      "name_or": "ମକା କାଣ୍ଡବିନ୍ଧା ପୋକ (ଚିଲୋ)",
+      "symptoms_en": "Shot holes across leaves in parallel lines, dead heart in young plants.",
+      "symptoms_or": "ପତ୍ରରେ ଧାଡ଼ି ଧାଡ଼ି ବନ୍ଧୁକ ଗୁଳି ଭଳି ଗୋଲ କଣା, ମଝି ଡାଳ ଶୁଖିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/maize_stem_borer.jpg",
+          "alt": "Maize Stem Borer (Chilo partellus): Shot holes across leaves in parallel lines, dead heart in young plants. | ମକା କାଣ୍ଡବିନ୍ଧା ପୋକ (ଚିଲୋ): ପତ୍ରରେ ଧାଡ଼ି ଧାଡ଼ି ବନ୍ଧୁକ ଗୁଳି ଭଳି ଗୋଲ କଣା, ମଝି ଡାଳ ଶୁଖିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Komal et al. (2021)",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "maize_nitrogen_deficiency",
+      "aliases": [],
+      "crop_id": "maize",
+      "crop_name_en": "Maize (Corn)",
+      "crop_name_or": "ମକା (Maize)",
+      "type": "nutrient",
+      "name_en": "Nitrogen Deficiency",
+      "name_or": "ଯବକ୍ଷାରଜାନ ଅଭାବ (V-ଆକାର ହଳଦିଆ)",
+      "symptoms_en": "V-shaped yellowing starting from tip of older leaves along the midrib.",
+      "symptoms_or": "ତଳ ପତ୍ରର ଅଗରୁ ଆରମ୍ଭ ହୋଇ ଶିରା ବାଟେ V-ଆକାରରେ ହଳଦିଆ ପଡ଼ି ଶୁଖିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/maize_nitrogen_deficiency.jpg",
+          "alt": "Nitrogen Deficiency: V-shaped yellowing starting from tip of older leaves along the midrib. | ଯବକ୍ଷାରଜାନ ଅଭାବ (V-ଆକାର ହଳଦିଆ): ତଳ ପତ୍ରର ଅଗରୁ ଆରମ୍ଭ ହୋଇ ଶିରା ବାଟେ V-ଆକାରରେ ହଳଦିଆ ପଡ଼ି ଶୁଖିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Chandler, William Henry, 1878-1970; Brown, Dillon S., 1912-1998",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ragi_blast",
+      "aliases": [],
+      "crop_id": "ragi",
+      "crop_name_en": "Finger Millet (Ragi / Mandia)",
+      "crop_name_or": "ମାଣ୍ଡିଆ (Ragi / Mandia)",
+      "type": "disease",
+      "name_en": "Finger Millet Blast (Pyricularia grisea)",
+      "name_or": "ମାଣ୍ଡିଆ ଚିଟା ରୋଗ (ବ୍ଲାଷ୍ଟ)",
+      "symptoms_en": "Diamond-shaped spots on leaves, finger and neck blast causing chaffy finger heads.",
+      "symptoms_or": "ପତ୍ରରେ ହୀରା ଆକାରର ବାଦାମୀ ଚିତା ଦାଗ, ମାଣ୍ଡିଆ ଆଙ୍ଗୁଠି ଶିଁଷା କଳା ପଡ଼ି ମରିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ragi_blast.jpg",
+          "alt": "Finger Millet Blast (Pyricularia grisea): Diamond-shaped spots on leaves, finger and neck blast causing chaffy finger heads. | ମାଣ୍ଡିଆ ଚିଟା ରୋଗ (ବ୍ଲାଷ୍ଟ): ପତ୍ରରେ ହୀରା ଆକାରର ବାଦାମୀ ଚିତା ଦାଗ, ମାଣ୍ଡିଆ ଆଙ୍ଗୁଠି ଶିଁଷା କଳା ପଡ଼ି ମରିଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ragi_stem_borer",
+      "aliases": [],
+      "crop_id": "ragi",
+      "crop_name_en": "Finger Millet (Ragi / Mandia)",
+      "crop_name_or": "ମାଣ୍ଡିଆ (Ragi / Mandia)",
+      "type": "pest",
+      "name_en": "Ragi Stem Borer (Sesamia inferens)",
+      "name_or": "ମାଣ୍ଡିଆ ଗୋଲାପୀ କାଣ୍ଡବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Pinkish larvae boring into tillers causing central shoot drying (dead heart).",
+      "symptoms_or": "ଗୋଲାପୀ ଶୁକପୋକ କାଣ୍ଡ କଣା କରି ଭିତରେ ପଶିବା, ମଝି ଡାଳ ଶୁଖିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ragi_stem_borer.jpg",
+          "alt": "Ragi Stem Borer (Sesamia inferens): Pinkish larvae boring into tillers causing central shoot drying (dead heart). | ମାଣ୍ଡିଆ ଗୋଲାପୀ କାଣ୍ଡବିନ୍ଧା ପୋକ: ଗୋଲାପୀ ଶୁକପୋକ କାଣ୍ଡ କଣା କରି ଭିତରେ ପଶିବା, ମଝି ଡାଳ ଶୁଖିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Roger Culos",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ragi_caterpillar",
+      "aliases": [],
+      "crop_id": "ragi",
+      "crop_name_en": "Finger Millet (Ragi / Mandia)",
+      "crop_name_or": "ମାଣ୍ଡିଆ (Ragi / Mandia)",
+      "type": "pest",
+      "name_en": "Hairy Caterpillar (Amsacta albistriga)",
+      "name_or": "ମାଣ୍ଡିଆ ବାଳୁଙ୍ଗା ପୋକ",
+      "symptoms_en": "Gregarious red hairy caterpillars voraciously defoliating entire seedlings.",
+      "symptoms_or": "ଲାଲ୍ ରୁଆଁଳିଆ ପୋକ ଦଳବଦ୍ଧ ଭାବେ ଚାରା ଗଛର ସବୁ ପତ୍ର ଖାଇ ଡାଳ ଖାଲି କରିଦିଅନ୍ତି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ragi_caterpillar.jpg",
+          "alt": "Hairy Caterpillar (Amsacta albistriga): Gregarious red hairy caterpillars voraciously defoliating entire seedlings. | ମାଣ୍ଡିଆ ବାଳୁଙ୍ଗା ପୋକ: ଲାଲ୍ ରୁଆଁଳିଆ ପୋକ ଦଳବଦ୍ଧ ଭାବେ ଚାରା ଗଛର ସବୁ ପତ୍ର ଖାଇ ଡାଳ ଖାଲି କରିଦିଅନ୍ତି।",
+          "licence": "CC BY 4.0",
+          "credit": "L. Shyamal",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ragi_downy_mildew",
+      "aliases": [],
+      "crop_id": "ragi",
+      "crop_name_en": "Finger Millet (Ragi / Mandia)",
+      "crop_name_or": "ମାଣ୍ଡିଆ (Ragi / Mandia)",
+      "type": "disease",
+      "name_en": "Downy Mildew / Green Ear (Sclerophthora macrospora)",
+      "name_or": "ମାଣ୍ଡିଆ ଡାଉନି ମିଲ୍ଡ୍ୟୁ (ସବୁଜ ଶିଁଷା ରୋଗ)",
+      "symptoms_en": "Floral heads turn into bushy leaf-like structures without seed setting.",
+      "symptoms_or": "ମାଣ୍ଡିଆ ଶିଁଷାରେ ଦାନା ନହୋଇ ଝାଙ୍କ ଭଳି ଛୋଟ ଛୋଟ ପତ୍ରରେ ପରିଣତ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ragi_downy_mildew.jpg",
+          "alt": "Downy Mildew / Green Ear (Sclerophthora macrospora): Floral heads turn into bushy leaf-like structures without seed setting. | ମାଣ୍ଡିଆ ଡାଉନି ମିଲ୍ଡ୍ୟୁ (ସବୁଜ ଶିଁଷା ରୋଗ): ମାଣ୍ଡିଆ ଶିଁଷାରେ ଦାନା ନହୋଇ ଝାଙ୍କ ଭଳି ଛୋଟ ଛୋଟ ପତ୍ରରେ ପରିଣତ ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Kavali Chandrakanth KCK",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "bajra_ergot",
+      "aliases": [],
+      "crop_id": "bajra",
+      "crop_name_en": "Pearl Millet (Bajra)",
+      "crop_name_or": "ବାଜରା (Bajra)",
+      "type": "disease",
+      "name_en": "Ergot of Bajra (Claviceps fusiformis)",
+      "name_or": "ବାଜରା ଅର୍ଗଟ୍ (ମହୁଆ ରୋଗ)",
+      "symptoms_en": "Pinkish sweet honeydew droplets oozing from florets, later forming dark sclerotia poisonous to cattle.",
+      "symptoms_or": "ଶିଁଷାରୁ ଗୋଲାପୀ ମହୁ ଭଳି ତେଲିଆ ରସ ଝରିବା, ପରେ ବିଷାକ୍ତ କଳା ଦାନା ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/bajra_ergot.jpg",
+          "alt": "Ergot of Bajra (Claviceps fusiformis): Pinkish sweet honeydew droplets oozing from florets, later forming dark sclerotia poisonous to cattle. | ବାଜରା ଅର୍ଗଟ୍ (ମହୁଆ ରୋଗ): ଶିଁଷାରୁ ଗୋଲାପୀ ମହୁ ଭଳି ତେଲିଆ ରସ ଝରିବା, ପରେ ବିଷାକ୍ତ କଳା ଦାନା ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "अंशुल गौतम",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "bajra_smut",
+      "aliases": [],
+      "crop_id": "bajra",
+      "crop_name_en": "Pearl Millet (Bajra)",
+      "crop_name_or": "ବାଜରା (Bajra)",
+      "type": "disease",
+      "name_en": "Bajra Smut (Tolyposporium penicillariae)",
+      "name_or": "ବାଜରା କଳା ଟିକା ରୋଗ (ସ୍ମଟ୍)",
+      "symptoms_en": "Ovaries converted into bright green turning brown-black fungal sori.",
+      "symptoms_or": "ବାଜରା ଦାନା ସ୍ଥାନରେ କଳା ପାଉଁଶ ଭରା ବଡ଼ ବଡ଼ ଦାନା ସୃଷ୍ଟି ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/bajra_smut.jpg",
+          "alt": "Bajra Smut (Tolyposporium penicillariae): Ovaries converted into bright green turning brown-black fungal sori. | ବାଜରା କଳା ଟିକା ରୋଗ (ସ୍ମଟ୍): ବାଜରା ଦାନା ସ୍ଥାନରେ କଳା ପାଉଁଶ ଭରା ବଡ଼ ବଡ଼ ଦାନା ସୃଷ୍ଟି ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "bjoerns",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "bajra_shoot_fly",
+      "aliases": [],
+      "crop_id": "bajra",
+      "crop_name_en": "Pearl Millet (Bajra)",
+      "crop_name_or": "ବାଜରା (Bajra)",
+      "type": "pest",
+      "name_en": "Shoot Fly (Atherigona soccata)",
+      "name_or": "ବାଜରା ଡାଳମାଛି (ସୁଟ୍ ଫ୍ଲାଇ)",
+      "symptoms_en": "Maggots cut seedling growing point within 3 weeks causing dead hearts with rotting smell.",
+      "symptoms_or": "୩ ସପ୍ତାହ ଭିତରେ ଚାରା ଗଛର ମଝି କାଣ୍ଡ କାଟିଦିଏ, ମଝି ଡାଳ ପଚି ଦୁର୍ଗନ୍ଧ ହୁଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/bajra_shoot_fly.jpg",
+          "alt": "Shoot Fly (Atherigona soccata): Maggots cut seedling growing point within 3 weeks causing dead hearts with rotting smell. | ବାଜରା ଡାଳମାଛି (ସୁଟ୍ ଫ୍ଲାଇ): ୩ ସପ୍ତାହ ଭିତରେ ଚାରା ଗଛର ମଝି କାଣ୍ଡ କାଟିଦିଏ, ମଝି ଡାଳ ପଚି ଦୁର୍ଗନ୍ଧ ହୁଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Khan, Kakar &amp; Kamran (2024)",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "bajra_striga_weed",
+      "aliases": [],
+      "crop_id": "bajra",
+      "crop_name_en": "Pearl Millet (Bajra)",
+      "crop_name_or": "ବାଜରା (Bajra)",
+      "type": "weed",
+      "name_en": "Witchweed Parasitic Weed (Striga asiatica)",
+      "name_or": "ବାଜରା ଷ୍ଟ୍ରାଇଗା ପରଜୀବୀ ଘାସ",
+      "symptoms_en": "Root parasite attaching to bajra roots causing wilting and chlorosis.",
+      "symptoms_or": "ବାଜରା ଚେରକୁ ମାଡ଼ି ବସି ଗଛର ସବୁ ରସ ଶୋଷିନିଏ, ଗଛ ହଳଦିଆ ହୋଇ ଶୁଖିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/bajra_striga_weed.jpg",
+          "alt": "Witchweed Parasitic Weed (Striga asiatica): Root parasite attaching to bajra roots causing wilting and chlorosis. | ବାଜରା ଷ୍ଟ୍ରାଇଗା ପରଜୀବୀ ଘାସ: ବାଜରା ଚେରକୁ ମାଡ଼ି ବସି ଗଛର ସବୁ ରସ ଶୋଷିନିଏ, ଗଛ ହଳଦିଆ ହୋଇ ଶୁଖିଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Florida Division of Plant Industry Archive, Florida Department of Agriculture an",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "arhar_fusarium_wilt",
+      "aliases": [],
+      "crop_id": "arhar",
+      "crop_name_en": "Pigeon Pea (Arhar / Harada)",
+      "crop_name_or": "ହରଡ଼ (Arhar / Pigeon Pea)",
+      "type": "disease",
+      "name_en": "Fusarium Wilt (Fusarium udum)",
+      "name_or": "ହରଡ଼ ଝାଉଁଳା ରୋଗ (ଫ୍ୟୁଜାରିୟମ ୱିଲ୍ଟ)",
+      "symptoms_en": "Sudden drooping and drying of leaves, black vascular band inside split stem.",
+      "symptoms_or": "ହଠାତ୍ ଗଛର ସବୁ ପତ୍ର ଝାଉଁଳି ଶୁଖିଯିବା, କାଣ୍ଡ ଚିରିଲେ ଭିତରେ କଳା ଦାଗ ଦେଖାଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/arhar_fusarium_wilt.jpg",
+          "alt": "Fusarium Wilt (Fusarium udum): Sudden drooping and drying of leaves, black vascular band inside split stem. | ହରଡ଼ ଝାଉଁଳା ରୋଗ (ଫ୍ୟୁଜାରିୟମ ୱିଲ୍ଟ): ହଠାତ୍ ଗଛର ସବୁ ପତ୍ର ଝାଉଁଳି ଶୁଖିଯିବା, କାଣ୍ଡ ଚିରିଲେ ଭିତରେ କଳା ଦାଗ ଦେଖାଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "arhar_pod_borer",
+      "aliases": [],
+      "crop_id": "arhar",
+      "crop_name_en": "Pigeon Pea (Arhar / Harada)",
+      "crop_name_or": "ହରଡ଼ (Arhar / Pigeon Pea)",
+      "type": "pest",
+      "name_en": "Gram Pod Borer (Helicoverpa armigera)",
+      "name_or": "ହରଡ଼ ଛୁଇଁ ବିନ୍ଧା ପୋକ (ହେଲିକୋଭର୍ପା)",
+      "symptoms_en": "Caterpillars feed on flower buds and bore circular holes into developing pods.",
+      "symptoms_or": "ଶୁକପୋକ ଫୁଲ କଢ଼ ଖାଏ ଏବଂ ଛୁଇଁରେ ଗୋଲ କଣା କରି ଭିତର ମଞ୍ଜି ଖାଇଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/arhar_pod_borer.jpg",
+          "alt": "Gram Pod Borer (Helicoverpa armigera): Caterpillars feed on flower buds and bore circular holes into developing pods. | ହରଡ଼ ଛୁଇଁ ବିନ୍ଧା ପୋକ (ହେଲିକୋଭର୍ପା): ଶୁକପୋକ ଫୁଲ କଢ଼ ଖାଏ ଏବଂ ଛୁଇଁରେ ଗୋଲ କଣା କରି ଭିତର ମଞ୍ଜି ଖାଇଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Eric SYLVESTRE",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "arhar_sterility_mosaic",
+      "aliases": [],
+      "crop_id": "arhar",
+      "crop_name_en": "Pigeon Pea (Arhar / Harada)",
+      "crop_name_or": "ହରଡ଼ (Arhar / Pigeon Pea)",
+      "type": "disease",
+      "name_en": "Sterility Mosaic Disease - SMD (Eriophyid Mite vector)",
+      "name_or": "ହରଡ଼ ବନ୍ଧ୍ୟା ରୋଗ (SMD - ମାଇଟ୍ ବାହକ)",
+      "symptoms_en": "Bushy stunted growth, green mosaic leaves, complete lack of flower and pod formation.",
+      "symptoms_or": "ଗଛ ବୁଦୁବୁଦିକା ହୋଇ ବଢ଼େ, ଫୁଲ ବା ଛୁଇଁ ଆଦୌ ଧରେ ନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/arhar_sterility_mosaic.jpg",
+          "alt": "Sterility Mosaic Disease - SMD (Eriophyid Mite vector): Bushy stunted growth, green mosaic leaves, complete lack of flower and pod formation. | ହରଡ଼ ବନ୍ଧ୍ୟା ରୋଗ (SMD - ମାଇଟ୍ ବାହକ): ଗଛ ବୁଦୁବୁଦିକା ହୋଇ ବଢ଼େ, ଫୁଲ ବା ଛୁଇଁ ଆଦୌ ଧରେ ନାହିଁ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "arhar_pod_fly",
+      "aliases": [],
+      "crop_id": "arhar",
+      "crop_name_en": "Pigeon Pea (Arhar / Harada)",
+      "crop_name_or": "ହରଡ଼ (Arhar / Pigeon Pea)",
+      "type": "pest",
+      "name_en": "Pod Fly (Melanagromyza obtusa)",
+      "name_or": "ହରଡ଼ ଛୁଇଁ ମାଛି (ପଡ୍ ଫ୍ଲାଇ)",
+      "symptoms_en": "Maggots feed internally on seeds without external holes until adult emergence windows appear.",
+      "symptoms_or": "ଛୁଇଁ ବାହାରୁ ଭଲ ଦିଶେ କିନ୍ତୁ ଭିତରେ ପୋକ ମଞ୍ଜି ଖାଇ ପତଳା ଝିଲ୍ଲୀ ଛାଡ଼ିଦିଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/arhar_pod_fly.jpg",
+          "alt": "Pod Fly (Melanagromyza obtusa): Maggots feed internally on seeds without external holes until adult emergence windows appear. | ହରଡ଼ ଛୁଇଁ ମାଛି (ପଡ୍ ଫ୍ଲାଇ): ଛୁଇଁ ବାହାରୁ ଭଲ ଦିଶେ କିନ୍ତୁ ଭିତରେ ପୋକ ମଞ୍ଜି ଖାଇ ପତଳା ଝିଲ୍ଲୀ ଛାଡ଼ିଦିଏ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "moong_mymv",
+      "aliases": [],
+      "crop_id": "moong",
+      "crop_name_en": "Green Gram (Moong)",
+      "crop_name_or": "ମୁଗ (Green Gram / Moong)",
+      "type": "disease",
+      "name_en": "Yellow Mosaic Virus - MYMV (Whitefly Vector)",
+      "name_or": "ମୁଗ ହଳଦିଆ ଶିରା ମୋଜାଇକ୍ ରୋଗ (ଧଳାମାଛି)",
+      "symptoms_en": "Bright yellow patches on leaves alternating with green, small distorted pods with shrivelled seeds.",
+      "symptoms_or": "ପତ୍ରରେ ଉଜ୍ଜ୍ୱଳ ହଳଦିଆ ଦାଗ ମିଶ୍ରିତ ହୋଇ ରହିବା, ଛୁଇଁରେ ଦାନା ପୂରେ ନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/moong_mymv.jpg",
+          "alt": "Yellow Mosaic Virus - MYMV (Whitefly Vector): Bright yellow patches on leaves alternating with green, small distorted pods with shrivelled seeds. | ମୁଗ ହଳଦିଆ ଶିରା ମୋଜାଇକ୍ ରୋଗ (ଧଳାମାଛି): ପତ୍ରରେ ଉଜ୍ଜ୍ୱଳ ହଳଦିଆ ଦାଗ ମିଶ୍ରିତ ହୋଇ ରହିବା, ଛୁଇଁରେ ଦାନା ପୂରେ ନାହିଁ।",
+          "licence": "CC BY 4.0",
+          "credit": "Wee Hong",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "moong_powdery_mildew",
+      "aliases": [],
+      "crop_id": "moong",
+      "crop_name_en": "Green Gram (Moong)",
+      "crop_name_or": "ମୁଗ (Green Gram / Moong)",
+      "type": "disease",
+      "name_en": "Powdery Mildew (Erysiphe polygoni)",
+      "name_or": "ମୁଗ ଧଳା ପାଉଁଶିଆ ରୋଗ (ପାଉଡରି ମିଲ୍ଡ୍ୟୁ)",
+      "symptoms_en": "White floury powdery talcum-like patches covering leaves, stems, and pods.",
+      "symptoms_or": "ପତ୍ର, କାଣ୍ଡ ଓ ଛୁଇଁ ଉପରେ ଅଟା ବା ଧଳା ପାଉଡର ଭଳି କବକ ଆସ୍ତରଣ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/moong_powdery_mildew.jpg",
+          "alt": "Powdery Mildew (Erysiphe polygoni): White floury powdery talcum-like patches covering leaves, stems, and pods. | ମୁଗ ଧଳା ପାଉଁଶିଆ ରୋଗ (ପାଉଡରି ମିଲ୍ଡ୍ୟୁ): ପତ୍ର, କାଣ୍ଡ ଓ ଛୁଇଁ ଉପରେ ଅଟା ବା ଧଳା ପାଉଡର ଭଳି କବକ ଆସ୍ତରଣ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "moong_aphid",
+      "aliases": [],
+      "crop_id": "moong",
+      "crop_name_en": "Green Gram (Moong)",
+      "crop_name_or": "ମୁଗ (Green Gram / Moong)",
+      "type": "pest",
+      "name_en": "Black Bean Aphid (Aphis craccivora)",
+      "name_or": "ମୁଗ କଳା ଜାବପୋକ (ମାହୁ)",
+      "symptoms_en": "Colonies of black aphids cluster on tender shoots, flowers, and pods sucking sap.",
+      "symptoms_or": "କଅଁଳ ଡାଳ, ଫୁଲ ଓ ଛୁଇଁ ଉପରେ କଳା ପୋକ ଜମି ରସ ଶୋଷି ଗଛ ଶୁଖାଇବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/moong_aphid.jpg",
+          "alt": "Black Bean Aphid (Aphis craccivora): Colonies of black aphids cluster on tender shoots, flowers, and pods sucking sap. | ମୁଗ କଳା ଜାବପୋକ (ମାହୁ): କଅଁଳ ଡାଳ, ଫୁଲ ଓ ଛୁଇଁ ଉପରେ କଳା ପୋକ ଜମି ରସ ଶୋଷି ଗଛ ଶୁଖାଇବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Simon Hinkley &amp; Ken Walker Museum Victoria",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "moong_cercospora",
+      "aliases": [],
+      "crop_id": "moong",
+      "crop_name_en": "Green Gram (Moong)",
+      "crop_name_or": "ମୁଗ (Green Gram / Moong)",
+      "type": "disease",
+      "name_en": "Cercospora Leaf Spot (Cercospora canescens)",
+      "name_or": "ମୁଗ ସର୍କୋସ୍ପୋରା ପତ୍ର ଚିତା ରୋଗ",
+      "symptoms_en": "Circular to irregular brown spots with grayish centers and dark borders on leaves.",
+      "symptoms_or": "ପତ୍ର ଉପରେ ଗୋଲାକାର ଧୂସର-ବାଦାମୀ ଚିତା ଦାଗ, ପତ୍ର ଅକାଳରେ ଝଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/moong_cercospora.jpg",
+          "alt": "Cercospora Leaf Spot (Cercospora canescens): Circular to irregular brown spots with grayish centers and dark borders on leaves. | ମୁଗ ସର୍କୋସ୍ପୋରା ପତ୍ର ଚିତା ରୋଗ: ପତ୍ର ଉପରେ ଗୋଲାକାର ଧୂସର-ବାଦାମୀ ଚିତା ଦାଗ, ପତ୍ର ଅକାଳରେ ଝଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Meswaet Y, Mangelsdorff R, Yorou NS, Piepenbring M (2021) Unravelling unexplored",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "urad_leaf_crinkle",
+      "aliases": [],
+      "crop_id": "urad",
+      "crop_name_en": "Black Gram (Urad / Biri)",
+      "crop_name_or": "ବିରି (Black Gram / Urad)",
+      "type": "disease",
+      "name_en": "Urad Leaf Crinkle Virus (ULCV)",
+      "name_or": "ବିରି ପତ୍ର କୁଞ୍ଚନ ରୋଗ (କ୍ରିଙ୍କଲ୍ ଭୂତାଣୁ)",
+      "symptoms_en": "Severe crinkling, curling, and thickening of third leaf, bushy growth and no pod set.",
+      "symptoms_or": "ପତ୍ର ମୋଟା ହୋଇ କୁଞ୍ଚିତ ହେବା, ଗଛ ଛୋଟ ରହି ଫୁଲ ଓ ଛୁଇଁ ନହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/urad_leaf_crinkle.jpg",
+          "alt": "Urad Leaf Crinkle Virus (ULCV): Severe crinkling, curling, and thickening of third leaf, bushy growth and no pod set. | ବିରି ପତ୍ର କୁଞ୍ଚନ ରୋଗ (କ୍ରିଙ୍କଲ୍ ଭୂତାଣୁ): ପତ୍ର ମୋଟା ହୋଇ କୁଞ୍ଚିତ ହେବା, ଗଛ ଛୋଟ ରହି ଫୁଲ ଓ ଛୁଇଁ ନହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Joehawkins",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "urad_pod_borer",
+      "aliases": [],
+      "crop_id": "urad",
+      "crop_name_en": "Black Gram (Urad / Biri)",
+      "crop_name_or": "ବିରି (Black Gram / Urad)",
+      "type": "pest",
+      "name_en": "Spotted Pod Borer (Maruca vitrata)",
+      "name_or": "ବିରି ଚିତ୍ରିତ ଛୁଇଁ ବିନ୍ଧା ପୋକ (ମାରୁକା)",
+      "symptoms_en": "Caterpillars web together flowers, leaves, and pods with silk, feeding within the web.",
+      "symptoms_or": "ଫୁଲ, ପତ୍ର ଓ ଛୁଇଁକୁ ଜାଲ କରି ଗୁଡ଼ାଇ ଦିଏ ଏବଂ ଭିତରେ ବସି ସବୁ କୋରି ଖାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/urad_pod_borer.jpg",
+          "alt": "Spotted Pod Borer (Maruca vitrata): Caterpillars web together flowers, leaves, and pods with silk, feeding within the web. | ବିରି ଚିତ୍ରିତ ଛୁଇଁ ବିନ୍ଧା ପୋକ (ମାରୁକା): ଫୁଲ, ପତ୍ର ଓ ଛୁଇଁକୁ ଜାଲ କରି ଗୁଡ଼ାଇ ଦିଏ ଏବଂ ଭିତରେ ବସି ସବୁ କୋରି ଖାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Charles J. Sharp",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "urad_root_rot",
+      "aliases": [],
+      "crop_id": "urad",
+      "crop_name_en": "Black Gram (Urad / Biri)",
+      "crop_name_or": "ବିରି (Black Gram / Urad)",
+      "type": "disease",
+      "name_en": "Dry Root Rot / Macrophomina (Rhizoctonia bataticola)",
+      "name_or": "ବିରି ଶୁଖିଲା ଚେରପଚା ରୋଗ",
+      "symptoms_en": "Lower leaves yellow and drop, tap root becomes shredded, dark, and brittle with tiny sclerotia.",
+      "symptoms_or": "ତଳ ପତ୍ର ହଳଦିଆ ହୋଇ ଝଡ଼ିବା, ଚେର କଳା ପଡ଼ି ଛେଚା ହୋଇ ଭାଙ୍ଗିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/urad_root_rot.jpg",
+          "alt": "Dry Root Rot / Macrophomina (Rhizoctonia bataticola): Lower leaves yellow and drop, tap root becomes shredded, dark, and brittle with tiny sclerotia. | ବିରି ଶୁଖିଲା ଚେରପଚା ରୋଗ: ତଳ ପତ୍ର ହଳଦିଆ ହୋଇ ଝଡ଼ିବା, ଚେର କଳା ପଡ଼ି ଛେଚା ହୋଇ ଭାଙ୍ଗିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Edward L. Barnard, Florida Department of Agriculture and Consumer Services",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "urad_iron_chlorosis",
+      "aliases": [],
+      "crop_id": "urad",
+      "crop_name_en": "Black Gram (Urad / Biri)",
+      "crop_name_or": "ବିରି (Black Gram / Urad)",
+      "type": "nutrient",
+      "name_en": "Iron Chlorosis (Calcareous Soil Induced)",
+      "name_or": "ଲୁହା (Iron) ଅଭାବ - ପତ୍ର ଧଳା ପଡ଼ିବା",
+      "symptoms_en": "Interveinal yellowing of youngest leaves turning ivory white in severe cases.",
+      "symptoms_or": "ନୂଆ କଅଁଳ ପତ୍ରର ଶିରା ସବୁଜ ରହି ବାକି ଅଂଶ ହଳଦିଆ ଓ ଶେଷରେ ଧଳା କାଗଜ ଭଳି ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/urad_iron_chlorosis.jpg",
+          "alt": "Iron Chlorosis (Calcareous Soil Induced): Interveinal yellowing of youngest leaves turning ivory white in severe cases. | ଲୁହା (Iron) ଅଭାବ - ପତ୍ର ଧଳା ପଡ଼ିବା: ନୂଆ କଅଁଳ ପତ୍ରର ଶିରା ସବୁଜ ରହି ବାକି ଅଂଶ ହଳଦିଆ ଓ ଶେଷରେ ଧଳା କାଗଜ ଭଳି ହେବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chana_aschochyta_blight",
+      "aliases": [],
+      "crop_id": "chana",
+      "crop_name_en": "Chickpea (Chana / Bengal Gram)",
+      "crop_name_or": "ବୁଟ / ଚଣା (Chickpea / Chana)",
+      "type": "disease",
+      "name_en": "Ascochyta Blight (Ascochyta rabiei)",
+      "name_or": "ଚଣା ଆସ୍କୋକାଇଟା ଝାଉଁଳା ରୋଗ",
+      "symptoms_en": "Circular lesions on leaves and pods with dark brown concentric rings, stem girdling.",
+      "symptoms_or": "ପତ୍ର ଓ ଛୁଇଁ ଉପରେ ଚକ୍ରାକାର ଗାଢ଼ ବାଦାମୀ ଦାଗ, ଡାଳ ଭାଙ୍ଗିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chana_aschochyta_blight.jpg",
+          "alt": "Ascochyta Blight (Ascochyta rabiei): Circular lesions on leaves and pods with dark brown concentric rings, stem girdling. | ଚଣା ଆସ୍କୋକାଇଟା ଝାଉଁଳା ରୋଗ: ପତ୍ର ଓ ଛୁଇଁ ଉପରେ ଚକ୍ରାକାର ଗାଢ଼ ବାଦାମୀ ଦାଗ, ଡାଳ ଭାଙ୍ଗିଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chana_pod_borer",
+      "aliases": [],
+      "crop_id": "chana",
+      "crop_name_en": "Chickpea (Chana / Bengal Gram)",
+      "crop_name_or": "ବୁଟ / ଚଣା (Chickpea / Chana)",
+      "type": "pest",
+      "name_en": "Chickpea Pod Borer (Helicoverpa armigera)",
+      "name_or": "ଚଣା ଛୁଇଁ ବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Larvae eat leaves and bore round holes into pods inserting half body inside.",
+      "symptoms_or": "ଶୁକପୋକ ଛୁଇଁ ଭିତରେ ମୁଣ୍ଡ ପୂରାଇ ମଞ୍ଜି ଖାଇ କଣା କରିଦିଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chana_pod_borer.jpg",
+          "alt": "Chickpea Pod Borer (Helicoverpa armigera): Larvae eat leaves and bore round holes into pods inserting half body inside. | ଚଣା ଛୁଇଁ ବିନ୍ଧା ପୋକ: ଶୁକପୋକ ଛୁଇଁ ଭିତରେ ମୁଣ୍ଡ ପୂରାଇ ମଞ୍ଜି ଖାଇ କଣା କରିଦିଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Bernard DUPONT from FRANCE",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chana_fusarium_wilt",
+      "aliases": [],
+      "crop_id": "chana",
+      "crop_name_en": "Chickpea (Chana / Bengal Gram)",
+      "crop_name_or": "ବୁଟ / ଚଣା (Chickpea / Chana)",
+      "type": "disease",
+      "name_en": "Chickpea Wilt (Fusarium oxysporum f. sp. ciceris)",
+      "name_or": "ଚଣା ୱିଲ୍ଟ ଝାଉଁଳା ରୋଗ",
+      "symptoms_en": "Drooping of petioles and rachis, internal xylem browning visible when stem is split vertically.",
+      "symptoms_or": "କଅଁଳ ଡାଳ ଓ ପତ୍ର ମଉଳି ଶୁଖିବା, କାଣ୍ଡ ଭିତରେ ବାଦାମୀ ରଙ୍ଗର ଶିରା ଦେଖାଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chana_fusarium_wilt.jpg",
+          "alt": "Chickpea Wilt (Fusarium oxysporum f. sp. ciceris): Drooping of petioles and rachis, internal xylem browning visible when stem is split vertically. | ଚଣା ୱିଲ୍ଟ ଝାଉଁଳା ରୋଗ: କଅଁଳ ଡାଳ ଓ ପତ୍ର ମଉଳି ଶୁଖିବା, କାଣ୍ଡ ଭିତରେ ବାଦାମୀ ରଙ୍ଗର ଶିରା ଦେଖାଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chana_cutworm",
+      "aliases": [],
+      "crop_id": "chana",
+      "crop_name_en": "Chickpea (Chana / Bengal Gram)",
+      "crop_name_or": "ବୁଟ / ଚଣା (Chickpea / Chana)",
+      "type": "pest",
+      "name_en": "Black Cutworm (Agrotis ipsilon)",
+      "name_or": "ଚଣା କାଣ୍ଡକଟା ପୋକ (କଟ୍-ୱାର୍ମ)",
+      "symptoms_en": "Nocturnal greasy black caterpillars cut young seedlings at soil level at night.",
+      "symptoms_or": "ରାତିରେ ମାଟିରୁ ବାହାରି ଛୋଟ ଚାରା ଗଛର ଗୋଡ଼ କାଟିଦିଏ, ସକାଳେ ଗଛ ପଡ଼ି ରହେ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chana_cutworm.jpg",
+          "alt": "Black Cutworm (Agrotis ipsilon): Nocturnal greasy black caterpillars cut young seedlings at soil level at night. | ଚଣା କାଣ୍ଡକଟା ପୋକ (କଟ୍-ୱାର୍ମ): ରାତିରେ ମାଟିରୁ ବାହାରି ଛୋଟ ଚାରା ଗଛର ଗୋଡ଼ କାଟିଦିଏ, ସକାଳେ ଗଛ ପଡ଼ି ରହେ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "groundnut_tikka",
+      "aliases": [
+        "tikka_disease"
+      ],
+      "crop_id": "groundnut",
+      "crop_name_en": "Groundnut (Peanut / Chinabadam)",
+      "crop_name_or": "ଚିନାବାଦାମ (Groundnut)",
+      "type": "disease",
+      "name_en": "Tikka Disease / Leaf Spot (Cercospora arachidicola)",
+      "name_or": "ଚିନାବାଦାମ ଟିକା ରୋଗ (ପତ୍ର ଚିତା)",
+      "symptoms_en": "Early and late leaf spots: circular dark brown spots with bright yellow halo causing severe defoliation.",
+      "symptoms_or": "ପତ୍ରରେ ଗାଢ଼ କଳା-ବାଦାମୀ ଦାଗ ଏବଂ ଚାରିପାଖରେ ହଳଦିଆ ବଳୟ, ପତ୍ର ଝଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/groundnut_tikka.jpg",
+          "alt": "Tikka Disease / Leaf Spot (Cercospora arachidicola): Early and late leaf spots: circular dark brown spots with bright yellow halo causing severe defoliation. | ଚିନାବାଦାମ ଟିକା ରୋଗ (ପତ୍ର ଚିତା): ପତ୍ରରେ ଗାଢ଼ କଳା-ବାଦାମୀ ଦାଗ ଏବଂ ଚାରିପାଖରେ ହଳଦିଆ ବଳୟ, ପତ୍ର ଝଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Meswaet Y, Mangelsdorff R, Yorou NS, Piepenbring M (2021) Unravelling unexplored",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "groundnut_collar_rot",
+      "aliases": [],
+      "crop_id": "groundnut",
+      "crop_name_en": "Groundnut (Peanut / Chinabadam)",
+      "crop_name_or": "ଚିନାବାଦାମ (Groundnut)",
+      "type": "disease",
+      "name_en": "Collar Rot / Crown Rot (Aspergillus niger)",
+      "name_or": "ଚିନାବାଦାମ କଲାର ରଟ୍ (ମୂଳପଚା ରୋଗ)",
+      "symptoms_en": "Black fungal spore masses on collar region at ground level causing seedling collapse.",
+      "symptoms_or": "ମାଟି ସଂଲଗ୍ନ କାଣ୍ଡରେ କଳା ପାଉଡର ଭଳି କବକ ହୋଇ ଚାରା ଗଛ ଢଳି ପଡ଼ି ମରିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/groundnut_collar_rot.jpg",
+          "alt": "Collar Rot / Crown Rot (Aspergillus niger): Black fungal spore masses on collar region at ground level causing seedling collapse. | ଚିନାବାଦାମ କଲାର ରଟ୍ (ମୂଳପଚା ରୋଗ): ମାଟି ସଂଲଗ୍ନ କାଣ୍ଡରେ କଳା ପାଉଡର ଭଳି କବକ ହୋଇ ଚାରା ଗଛ ଢଳି ପଡ଼ି ମରିଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "groundnut_white_grub",
+      "aliases": [],
+      "crop_id": "groundnut",
+      "crop_name_en": "Groundnut (Peanut / Chinabadam)",
+      "crop_name_or": "ଚିନାବାଦାମ (Groundnut)",
+      "type": "pest",
+      "name_en": "White Grub (Holotrichia consanguinea)",
+      "name_or": "ଧଳା ଶୁକପୋକ (ହ୍ୱାଇଟ୍ ଗ୍ରବ୍ / ମାଟିପୋକ)",
+      "symptoms_en": "C-shaped fat white larvae chew tap roots and pods underground causing patches of dead wilted plants.",
+      "symptoms_or": "ମାଟି ତଳେ ରହି ଗଛର ଚେର ଓ କଞ୍ଚା ବାଦାମ ଛୁଇଁ ଖାଇଦିଏ, ଜମିରେ ତାଳି ତାଳି ଗଛ ମରିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/groundnut_white_grub.jpg",
+          "alt": "White Grub (Holotrichia consanguinea): C-shaped fat white larvae chew tap roots and pods underground causing patches of dead wilted plants. | ଧଳା ଶୁକପୋକ (ହ୍ୱାଇଟ୍ ଗ୍ରବ୍ / ମାଟିପୋକ): ମାଟି ତଳେ ରହି ଗଛର ଚେର ଓ କଞ୍ଚା ବାଦାମ ଛୁଇଁ ଖାଇଦିଏ, ଜମିରେ ତାଳି ତାଳି ଗଛ ମରିଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Ibn Dagara",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "groundnut_leaf_miner",
+      "aliases": [],
+      "crop_id": "groundnut",
+      "crop_name_en": "Groundnut (Peanut / Chinabadam)",
+      "crop_name_or": "ଚିନାବାଦାମ (Groundnut)",
+      "type": "pest",
+      "name_en": "Groundnut Leaf Miner (Aproaerema modicella)",
+      "name_or": "ଚିନାବାଦାମ ପତ୍ରସୁଡ଼ଙ୍ଗୀ ପୋକ (ଲିଫ୍ ମାଇନର)",
+      "symptoms_en": "Small blister mines on leaves, leaflets folded and webbed together, turning brown and burnt.",
+      "symptoms_or": "ପତ୍ର ଭିତରେ ଧଳା ସୁଡ଼ଙ୍ଗ କରି ପତ୍ର ଯୋଡ଼ି ଦିଏ, ପତ୍ର ପୋଡ଼ିଗଲା ଭଳି ଶୁଖିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/groundnut_leaf_miner.jpg",
+          "alt": "Groundnut Leaf Miner (Aproaerema modicella): Small blister mines on leaves, leaflets folded and webbed together, turning brown and burnt. | ଚିନାବାଦାମ ପତ୍ରସୁଡ଼ଙ୍ଗୀ ପୋକ (ଲିଫ୍ ମାଇନର): ପତ୍ର ଭିତରେ ଧଳା ସୁଡ଼ଙ୍ଗ କରି ପତ୍ର ଯୋଡ଼ି ଦିଏ, ପତ୍ର ପୋଡ଼ିଗଲା ଭଳି ଶୁଖିଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "H. Zell",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mustard_aphid",
+      "aliases": [],
+      "crop_id": "mustard",
+      "crop_name_en": "Mustard (Sarson / Sorisa)",
+      "crop_name_or": "ସୋରିଷ (Mustard / Sarson)",
+      "type": "pest",
+      "name_en": "Mustard Aphid (Lipaphis erysimi)",
+      "name_or": "ସୋରିଷ ଜାବପୋକ (ମାହୁ)",
+      "symptoms_en": "Dense colonies of green aphids sucking sap from inflorescence, curling pods, halting seed development.",
+      "symptoms_or": "ଫୁଲ କେନ୍ଦା ଓ ଛୁଇଁରେ ହଜାର ହଜାର ସବୁଜ ଜାବପୋକ ବସି ରସ ଶୋଷି ଫସଲ ନଷ୍ଟ କରନ୍ତି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mustard_aphid.jpg",
+          "alt": "Mustard Aphid (Lipaphis erysimi): Dense colonies of green aphids sucking sap from inflorescence, curling pods, halting seed development. | ସୋରିଷ ଜାବପୋକ (ମାହୁ): ଫୁଲ କେନ୍ଦା ଓ ଛୁଇଁରେ ହଜାର ହଜାର ସବୁଜ ଜାବପୋକ ବସି ରସ ଶୋଷି ଫସଲ ନଷ୍ଟ କରନ୍ତି।",
+          "licence": "CC BY 4.0",
+          "credit": "Alton N. Sparks, Jr., University of Georgia, Bugwood.org",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mustard_white_rust",
+      "aliases": [],
+      "crop_id": "mustard",
+      "crop_name_en": "Mustard (Sarson / Sorisa)",
+      "crop_name_or": "ସୋରିଷ (Mustard / Sarson)",
+      "type": "disease",
+      "name_en": "White Rust / Blister (Albugo candida)",
+      "name_or": "ସୋରିଷ ଧଳା ଗେରୁଆ ରୋଗ (ହ୍ୱାଇଟ୍ ରଷ୍ଟ)",
+      "symptoms_en": "White to creamy shiny blisters on undersurface of leaves, floral malformation (staghead).",
+      "symptoms_or": "ପତ୍ର ତଳେ ଧଳା ଚକ୍ଚକ୍ ଫୋଟକା ଦାଗ, ଫୁଲ କେନ୍ଦା ବଙ୍କା ହୋଇ ହରିଣ ଶିଙ୍ଗ ଭଳି ବିକୃତ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mustard_white_rust.jpg",
+          "alt": "White Rust / Blister (Albugo candida): White to creamy shiny blisters on undersurface of leaves, floral malformation (staghead). | ସୋରିଷ ଧଳା ଗେରୁଆ ରୋଗ (ହ୍ୱାଇଟ୍ ରଷ୍ଟ): ପତ୍ର ତଳେ ଧଳା ଚକ୍ଚକ୍ ଫୋଟକା ଦାଗ, ଫୁଲ କେନ୍ଦା ବଙ୍କା ହୋଇ ହରିଣ ଶିଙ୍ଗ ଭଳି ବିକୃତ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mustard_alternaria_blight",
+      "aliases": [],
+      "crop_id": "mustard",
+      "crop_name_en": "Mustard (Sarson / Sorisa)",
+      "crop_name_or": "ସୋରିଷ (Mustard / Sarson)",
+      "type": "disease",
+      "name_en": "Alternaria Blight (Alternaria brassicae)",
+      "name_or": "ସୋରିଷ ଅଲଟରନାରିଆ ପତ୍ରପୋଡ଼ା ରୋଗ",
+      "symptoms_en": "Concentric target-board rings on leaves, black linear spots on siliquae pods causing seed shattering.",
+      "symptoms_or": "ପତ୍ରରେ ଚକ୍ରାକାର ବାଦାମୀ ଦାଗ, ଛୁଇଁ ଉପରେ କଳା ଦାଗ ହୋଇ ମଞ୍ଜି ପୂରିବା ଆଗରୁ ଫାଟିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mustard_alternaria_blight.jpg",
+          "alt": "Alternaria Blight (Alternaria brassicae): Concentric target-board rings on leaves, black linear spots on siliquae pods causing seed shattering. | ସୋରିଷ ଅଲଟରନାରିଆ ପତ୍ରପୋଡ଼ା ରୋଗ: ପତ୍ରରେ ଚକ୍ରାକାର ବାଦାମୀ ଦାଗ, ଛୁଇଁ ଉପରେ କଳା ଦାଗ ହୋଇ ମଞ୍ଜି ପୂରିବା ଆଗରୁ ଫାଟିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Agronom",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mustard_sawfly",
+      "aliases": [],
+      "crop_id": "mustard",
+      "crop_name_en": "Mustard (Sarson / Sorisa)",
+      "crop_name_or": "ସୋରିଷ (Mustard / Sarson)",
+      "type": "pest",
+      "name_en": "Mustard Sawfly (Athalia lugens proxima)",
+      "name_or": "ସୋରିଷ କରତମାଛି ଶୁକପୋକ",
+      "symptoms_en": "Dark greenish-black cylindrical larvae skeletonize leaves by nibbling margins into jagged tears.",
+      "symptoms_or": "ଗାଢ଼ ସବୁଜ-କଳା ପୋକ କରତ ଭଳି ପତ୍ରର ଧାର କାଟି କଣା କରି ଖାଆନ୍ତି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mustard_sawfly.jpg",
+          "alt": "Mustard Sawfly (Athalia lugens proxima): Dark greenish-black cylindrical larvae skeletonize leaves by nibbling margins into jagged tears. | ସୋରିଷ କରତମାଛି ଶୁକପୋକ: ଗାଢ଼ ସବୁଜ-କଳା ପୋକ କରତ ଭଳି ପତ୍ରର ଧାର କାଟି କଣା କରି ଖାଆନ୍ତି।",
+          "licence": "CC BY 4.0",
+          "credit": "Kuldeepburjbhalaike",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sesame_phyllody",
+      "aliases": [],
+      "crop_id": "sesame",
+      "crop_name_en": "Sesame (Rasi / Til)",
+      "crop_name_or": "ରାଶି (Sesame / Til)",
+      "type": "disease",
+      "name_en": "Sesame Phyllody (Phytoplasma - Leafhopper vector)",
+      "name_or": "ରାଶି ଫିଲୋଡି ରୋଗ (ପତ୍ରଭରା ଶିଁଷା)",
+      "symptoms_en": "Floral parts transformed into green leafy structures, profuse clustering, zero seed capsule formation.",
+      "symptoms_or": "ଫୁଲ ନହୋଇ ଗୁଚ୍ଛ ଗୁଚ୍ଛ ସବୁଜ ପତ୍ର ହୋଇଯିବା, ରାଶି ଛୁଇଁ ଆଦୌ ଧରେ ନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sesame_phyllody.jpg",
+          "alt": "Sesame Phyllody (Phytoplasma - Leafhopper vector): Floral parts transformed into green leafy structures, profuse clustering, zero seed capsule formation. | ରାଶି ଫିଲୋଡି ରୋଗ (ପତ୍ରଭରା ଶିଁଷା): ଫୁଲ ନହୋଇ ଗୁଚ୍ଛ ଗୁଚ୍ଛ ସବୁଜ ପତ୍ର ହୋଇଯିବା, ରାଶି ଛୁଇଁ ଆଦୌ ଧରେ ନାହିଁ।",
+          "licence": "CC BY 4.0",
+          "credit": "Carlos Eduardo Joos",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sesame_antigastra",
+      "aliases": [],
+      "crop_id": "sesame",
+      "crop_name_en": "Sesame (Rasi / Til)",
+      "crop_name_or": "ରାଶି (Sesame / Til)",
+      "type": "pest",
+      "name_en": "Shoot & Leaf Webber (Antigastra catalaunalis)",
+      "name_or": "ରାଶି ଡଗ ଓ ପତ୍ରଗୁଡ଼ା ପୋକ",
+      "symptoms_en": "Caterpillars web together tender top leaves, flowers, and bore into developing capsules.",
+      "symptoms_or": "ଡଗ ଓ ପତ୍ରକୁ ଜାଲ କରି ଗୁଡ଼ାଇ ଦିଏ ଏବଂ ରାଶି ଛୁଇଁ କଣା କରି ଭିତର ମଞ୍ଜି ଖାଇଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sesame_antigastra.jpg",
+          "alt": "Shoot & Leaf Webber (Antigastra catalaunalis): Caterpillars web together tender top leaves, flowers, and bore into developing capsules. | ରାଶି ଡଗ ଓ ପତ୍ରଗୁଡ଼ା ପୋକ: ଡଗ ଓ ପତ୍ରକୁ ଜାଲ କରି ଗୁଡ଼ାଇ ଦିଏ ଏବଂ ରାଶି ଛୁଇଁ କଣା କରି ଭିତର ମଞ୍ଜି ଖାଇଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Duncan, P. Martin (Peter Martin), 1821-1891; Blanchard, Émile, 1819-1900. Metamo",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sesame_bacterial_leaf_spot",
+      "aliases": [],
+      "crop_id": "sesame",
+      "crop_name_en": "Sesame (Rasi / Til)",
+      "crop_name_or": "ରାଶି (Sesame / Til)",
+      "type": "disease",
+      "name_en": "Bacterial Leaf Spot (Pseudomonas sesami)",
+      "name_or": "ରାଶି ଜୀବାଣୁ ଜନିତ ପତ୍ରଚିତା ରୋଗ",
+      "symptoms_en": "Dark brown to black angular water-soaked lesions on leaves and stem streaks.",
+      "symptoms_or": "ପତ୍ରରେ କଳା କୋଣିଆ ଭିଜା ଭିଜା ଦାଗ ଓ କାଣ୍ଡରେ କଳା ଗାର।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sesame_bacterial_leaf_spot.jpg",
+          "alt": "Bacterial Leaf Spot (Pseudomonas sesami): Dark brown to black angular water-soaked lesions on leaves and stem streaks. | ରାଶି ଜୀବାଣୁ ଜନିତ ପତ୍ରଚିତା ରୋଗ: ପତ୍ରରେ କଳା କୋଣିଆ ଭିଜା ଭିଜା ଦାଗ ଓ କାଣ୍ଡରେ କଳା ଗାର।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sesame_macrophomina_stem_rot",
+      "aliases": [],
+      "crop_id": "sesame",
+      "crop_name_en": "Sesame (Rasi / Til)",
+      "crop_name_or": "ରାଶି (Sesame / Til)",
+      "type": "disease",
+      "name_en": "Charcoal Rot / Stem Rot (Macrophomina phaseolina)",
+      "name_or": "ରାଶି ଅଙ୍ଗାରୁଆ କାଣ୍ଡପଚା ରୋଗ",
+      "symptoms_en": "Blackening of stem from soil level, internal pith disintegrates showing tiny black microsclerotia.",
+      "symptoms_or": "କାଣ୍ଡ ମୂଳରୁ କଳା ପଡ଼ି କୋଇଲା ଭଳି ପାଉଁଶିଆ ହେବା, ଗଛ ଶୁଖି ଝଡ଼ିପଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sesame_macrophomina_stem_rot.jpg",
+          "alt": "Charcoal Rot / Stem Rot (Macrophomina phaseolina): Blackening of stem from soil level, internal pith disintegrates showing tiny black microsclerotia. | ରାଶି ଅଙ୍ଗାରୁଆ କାଣ୍ଡପଚା ରୋଗ: କାଣ୍ଡ ମୂଳରୁ କଳା ପଡ଼ି କୋଇଲା ଭଳି ପାଉଁଶିଆ ହେବା, ଗଛ ଶୁଖି ଝଡ଼ିପଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Joydeep",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sunflower_head_rot",
+      "aliases": [],
+      "crop_id": "sunflower",
+      "crop_name_en": "Sunflower (Surjamukhi)",
+      "crop_name_or": "ସୂର୍ଯ୍ୟମୁଖୀ (Sunflower)",
+      "type": "disease",
+      "name_en": "Head Rot / Rhizopus Rot (Rhizopus oryzae)",
+      "name_or": "ସୂର୍ଯ୍ୟମୁଖୀ ଫୁଲମୁଣ୍ଡ ପଚା ରୋଗ",
+      "symptoms_en": "Soft watery brown rot on back of flower head, black mold growth, seeds turning rotten.",
+      "symptoms_or": "ଫୁଲର ପଛପଟ ନରମ ହୋଇ ପଚିଯିବା ଏବଂ କଳା ଫିମ୍ପି ମାଡ଼ି ମଞ୍ଜି ପଚିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sunflower_head_rot.jpg",
+          "alt": "Head Rot / Rhizopus Rot (Rhizopus oryzae): Soft watery brown rot on back of flower head, black mold growth, seeds turning rotten. | ସୂର୍ଯ୍ୟମୁଖୀ ଫୁଲମୁଣ୍ଡ ପଚା ରୋଗ: ଫୁଲର ପଛପଟ ନରମ ହୋଇ ପଚିଯିବା ଏବଂ କଳା ଫିମ୍ପି ମାଡ଼ି ମଞ୍ଜି ପଚିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Uranassbandit",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sunflower_borer",
+      "aliases": [],
+      "crop_id": "sunflower",
+      "crop_name_en": "Sunflower (Surjamukhi)",
+      "crop_name_or": "ସୂର୍ଯ୍ୟମୁଖୀ (Sunflower)",
+      "type": "pest",
+      "name_en": "Capitulum Borer (Helicoverpa armigera)",
+      "name_or": "ସୂର୍ଯ୍ୟମୁଖୀ ଫୁଲବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Larvae feed directly on disc florets and bore into developing seed achenes.",
+      "symptoms_or": "ଶୁକପୋକ ଫୁଲ ଭିତରେ ବସି ନୂଆ ମଞ୍ଜି କୋରି ଖାଇ ପୋଲା କରିଦିଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sunflower_borer.jpg",
+          "alt": "Capitulum Borer (Helicoverpa armigera): Larvae feed directly on disc florets and bore into developing seed achenes. | ସୂର୍ଯ୍ୟମୁଖୀ ଫୁଲବିନ୍ଧା ପୋକ: ଶୁକପୋକ ଫୁଲ ଭିତରେ ବସି ନୂଆ ମଞ୍ଜି କୋରି ଖାଇ ପୋଲା କରିଦିଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "LiCheng Shih",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sunflower_alternaria",
+      "aliases": [],
+      "crop_id": "sunflower",
+      "crop_name_en": "Sunflower (Surjamukhi)",
+      "crop_name_or": "ସୂର୍ଯ୍ୟମୁଖୀ (Sunflower)",
+      "type": "disease",
+      "name_en": "Alternaria Leaf & Head Blight (Alternaria helianthi)",
+      "name_or": "ସୂର୍ଯ୍ୟମୁଖୀ ପତ୍ରପୋଡ଼ା ରୋଗ",
+      "symptoms_en": "Dark brown circular necrotic spots on leaves surrounded by chlorotic yellow zone.",
+      "symptoms_or": "ପତ୍ର ଉପରେ କଳା-ବାଦାମୀ ଗୋଲ ଦାଗ ଓ ହଳଦିଆ ଘେର, ପତ୍ର ଜଳିଗଲା ଭଳି ଶୁଖିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sunflower_alternaria.jpg",
+          "alt": "Alternaria Leaf & Head Blight (Alternaria helianthi): Dark brown circular necrotic spots on leaves surrounded by chlorotic yellow zone. | ସୂର୍ଯ୍ୟମୁଖୀ ପତ୍ରପୋଡ଼ା ରୋଗ: ପତ୍ର ଉପରେ କଳା-ବାଦାମୀ ଗୋଲ ଦାଗ ଓ ହଳଦିଆ ଘେର, ପତ୍ର ଜଳିଗଲା ଭଳି ଶୁଖିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "DDennisM",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sunflower_boron_deficiency",
+      "aliases": [],
+      "crop_id": "sunflower",
+      "crop_name_en": "Sunflower (Surjamukhi)",
+      "crop_name_or": "ସୂର୍ଯ୍ୟମୁଖୀ (Sunflower)",
+      "type": "nutrient",
+      "name_en": "Boron Deficiency (Chaffy Seed / Empty Head)",
+      "name_or": "ବୋରୋନ୍ ଅଭାବ (ପୋଲା ମଞ୍ଜି ଓ ଫୁଲ ଫାଟିବା)",
+      "symptoms_en": "Poor seed filling, hollow chaffy seeds in center of flower head, cracked stems.",
+      "symptoms_or": "ଫୁଲର ମଝି ଭାଗରେ ମଞ୍ଜି ନହୋଇ ପୋଲା ହେବା, କାଣ୍ଡ ଫାଟି ରସ ବାହାରିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sunflower_boron_deficiency.jpg",
+          "alt": "Boron Deficiency (Chaffy Seed / Empty Head): Poor seed filling, hollow chaffy seeds in center of flower head, cracked stems. | ବୋରୋନ୍ ଅଭାବ (ପୋଲା ମଞ୍ଜି ଓ ଫୁଲ ଫାଟିବା): ଫୁଲର ମଝି ଭାଗରେ ମଞ୍ଜି ନହୋଇ ପୋଲା ହେବା, କାଣ୍ଡ ଫାଟି ରସ ବାହାରିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tomato_early_blight",
+      "aliases": [
+        "early_blight"
+      ],
+      "crop_id": "tomato",
+      "crop_name_en": "Tomato",
+      "crop_name_or": "ବିଲାତି ବାଇଗଣ (Tomato)",
+      "type": "disease",
+      "name_en": "Early Blight (Alternaria solani)",
+      "name_or": "ଟମାଟୋ ଆଗୁଆ ପତ୍ରପୋଡ଼ା (ଟାର୍ଗେଟ୍ ଦାଗ)",
+      "symptoms_en": "Concentric brown rings like target board on lower leaves, defoliation.",
+      "symptoms_or": "ତଳ ପତ୍ରରେ ଲକ୍ଷ୍ୟବିନ୍ଦୁ ଭଳି ବାଦାମୀ ଚକ୍ର ଦାଗ, ପତ୍ର ହଳଦିଆ ହୋଇ ଝଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tomato_early_blight.jpg",
+          "alt": "Early Blight (Alternaria solani): Concentric brown rings like target board on lower leaves, defoliation. | ଟମାଟୋ ଆଗୁଆ ପତ୍ରପୋଡ଼ା (ଟାର୍ଗେଟ୍ ଦାଗ): ତଳ ପତ୍ରରେ ଲକ୍ଷ୍ୟବିନ୍ଦୁ ଭଳି ବାଦାମୀ ଚକ୍ର ଦାଗ, ପତ୍ର ହଳଦିଆ ହୋଇ ଝଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Clemson University - USDA Cooperative Extension Slide Series",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tomato_leaf_curl",
+      "aliases": [
+        "tomato_tolcv"
+      ],
+      "crop_id": "tomato",
+      "crop_name_en": "Tomato",
+      "crop_name_or": "ବିଲାତି ବାଇଗଣ (Tomato)",
+      "type": "disease",
+      "name_en": "Tomato Leaf Curl Virus (Whitefly Vector)",
+      "name_or": "ଟମାଟୋ ପତ୍ର କୁଞ୍ଚନ ଭୂତାଣୁ ରୋଗ (ଧଳାମାଛି)",
+      "symptoms_en": "Upward curling and thickening of leaves, dwarfing, bushy growth, no fruit set.",
+      "symptoms_or": "ପତ୍ର ଉପରକୁ କୁଞ୍ଚିତ ହୋଇ ଛୋଟ ମୋଟା ହେବା, ଗଛ ବୁଦୁବୁଦିକା ହୋଇ ଫଳ ନଧରିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tomato_leaf_curl.jpg",
+          "alt": "Tomato Leaf Curl Virus (Whitefly Vector): Upward curling and thickening of leaves, dwarfing, bushy growth, no fruit set. | ଟମାଟୋ ପତ୍ର କୁଞ୍ଚନ ଭୂତାଣୁ ରୋଗ (ଧଳାମାଛି): ପତ୍ର ଉପରକୁ କୁଞ୍ଚିତ ହୋଇ ଛୋଟ ମୋଟା ହେବା, ଗଛ ବୁଦୁବୁଦିକା ହୋଇ ଫଳ ନଧରିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Cindyhsieh",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tomato_fruit_borer",
+      "aliases": [],
+      "crop_id": "tomato",
+      "crop_name_en": "Tomato",
+      "crop_name_or": "ବିଲାତି ବାଇଗଣ (Tomato)",
+      "type": "pest",
+      "name_en": "Tomato Fruit Borer (Helicoverpa armigera)",
+      "name_or": "ଟମାଟୋ ଫଳବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Circular entry holes into green and ripening fruits, inner pulp eaten, watery rot.",
+      "symptoms_or": "ଫଳରେ ଗୋଲାକାର କଣା କରି ଭିତର ଅଂଶ ଖାଇବା, ଟମାଟୋ ପଚି ନଷ୍ଟ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tomato_fruit_borer.jpg",
+          "alt": "Tomato Fruit Borer (Helicoverpa armigera): Circular entry holes into green and ripening fruits, inner pulp eaten, watery rot. | ଟମାଟୋ ଫଳବିନ୍ଧା ପୋକ: ଫଳରେ ଗୋଲାକାର କଣା କରି ଭିତର ଅଂଶ ଖାଇବା, ଟମାଟୋ ପଚି ନଷ୍ଟ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Ilia Ustyantsev from Russia",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tomato_bacterial_wilt",
+      "aliases": [],
+      "crop_id": "tomato",
+      "crop_name_en": "Tomato",
+      "crop_name_or": "ବିଲାତି ବାଇଗଣ (Tomato)",
+      "type": "disease",
+      "name_en": "Bacterial Wilt (Ralstonia solanacearum)",
+      "name_or": "ଟମାଟୋ ଜୀବାଣୁ ଜନିତ ଝାଉଁଳା ରୋଗ (ପାଣି ପରୀକ୍ଷା)",
+      "symptoms_en": "Rapid wilting of entire plant while green, white bacterial streaming in water glass test.",
+      "symptoms_or": "ଗଛ ସବୁଜ ଥାଇ ହଠାତ୍ ମଉଳି ଶୁଖିଯିବା, କାଣ୍ଡ କାଟି ଗ୍ଲାସ ପାଣିରେ ବୁଡ଼ାଇଲେ ଧଳା ସୂତା ଭଳି ବାହାରିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tomato_bacterial_wilt.jpg",
+          "alt": "Bacterial Wilt (Ralstonia solanacearum): Rapid wilting of entire plant while green, white bacterial streaming in water glass test. | ଟମାଟୋ ଜୀବାଣୁ ଜନିତ ଝାଉଁଳା ରୋଗ (ପାଣି ପରୀକ୍ଷା): ଗଛ ସବୁଜ ଥାଇ ହଠାତ୍ ମଉଳି ଶୁଖିଯିବା, କାଣ୍ଡ କାଟି ଗ୍ଲାସ ପାଣିରେ ବୁଡ଼ାଇଲେ ଧଳା ସୂତା ଭଳି ବାହାରିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "brinjal_shoot_fruit_borer",
+      "aliases": [
+        "brinjal_borer"
+      ],
+      "crop_id": "brinjal",
+      "crop_name_en": "Brinjal (Eggplant / Baigana)",
+      "crop_name_or": "ବାଇଗଣ (Brinjal / Eggplant)",
+      "type": "pest",
+      "name_en": "Shoot & Fruit Borer (Leucinodes orbonalis)",
+      "name_or": "ବାଇଗଣ ଡଗ ଓ ଫଳ ବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Wilting tender shoots droop down, bored fruits with holes plugged with dark frass.",
+      "symptoms_or": "କଅଁଳ ଡଗ ମଉଳି ଝାଉଁଳିବା, ଫଳରେ କଣା ହୋଇ କଳା ମଳ ବାହାରିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/brinjal_shoot_fruit_borer.jpg",
+          "alt": "Shoot & Fruit Borer (Leucinodes orbonalis): Wilting tender shoots droop down, bored fruits with holes plugged with dark frass. | ବାଇଗଣ ଡଗ ଓ ଫଳ ବିନ୍ଧା ପୋକ: କଅଁଳ ଡଗ ମଉଳି ଝାଉଁଳିବା, ଫଳରେ କଣା ହୋଇ କଳା ମଳ ବାହାରିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Donald Hobern",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "brinjal_little_leaf",
+      "aliases": [],
+      "crop_id": "brinjal",
+      "crop_name_en": "Brinjal (Eggplant / Baigana)",
+      "crop_name_or": "ବାଇଗଣ (Brinjal / Eggplant)",
+      "type": "disease",
+      "name_en": "Little Leaf of Brinjal (Phytoplasma - Leafhopper vector)",
+      "name_or": "ବାଇଗଣ ଛୋଟ ପତ୍ର ରୋଗ (ଲିଟିଲ୍ ଲିଫ୍)",
+      "symptoms_en": "Leaves severely reduced in size forming tiny rosette clusters, bush without fruit setting.",
+      "symptoms_or": "ପତ୍ର ଅତି ଛୋଟ ହୋଇ ଗଛ ଘଞ୍ଚ ବୁଦା ଭଳି ହେବା, ଫୁଲ ବା ଫଳ ଆଦୌ ନହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/brinjal_little_leaf.jpg",
+          "alt": "Little Leaf of Brinjal (Phytoplasma - Leafhopper vector): Leaves severely reduced in size forming tiny rosette clusters, bush without fruit setting. | ବାଇଗଣ ଛୋଟ ପତ୍ର ରୋଗ (ଲିଟିଲ୍ ଲିଫ୍): ପତ୍ର ଅତି ଛୋଟ ହୋଇ ଗଛ ଘଞ୍ଚ ବୁଦା ଭଳି ହେବା, ଫୁଲ ବା ଫଳ ଆଦୌ ନହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Carlos Eduardo Joos",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "brinjal_phomopsis_blight",
+      "aliases": [],
+      "crop_id": "brinjal",
+      "crop_name_en": "Brinjal (Eggplant / Baigana)",
+      "crop_name_or": "ବାଇଗଣ (Brinjal / Eggplant)",
+      "type": "disease",
+      "name_en": "Phomopsis Blight & Fruit Rot (Phomopsis vexans)",
+      "name_or": "ବାଇଗଣ ଫୋମୋପସିସ୍ ପତ୍ରପୋଡ଼ା ଓ ଫଳପଚା",
+      "symptoms_en": "Brown circular spots on leaves, soft watery fruit rot turning into mummified black fruits.",
+      "symptoms_or": "ପତ୍ରରେ ଗୋଲାକାର ବାଦାମୀ ଦାଗ, ବାଇଗଣ ପଚି କଳା ପଡ଼ି ଶୁଖି ଝୁଲି ରହିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/brinjal_phomopsis_blight.jpg",
+          "alt": "Phomopsis Blight & Fruit Rot (Phomopsis vexans): Brown circular spots on leaves, soft watery fruit rot turning into mummified black fruits. | ବାଇଗଣ ଫୋମୋପସିସ୍ ପତ୍ରପୋଡ଼ା ଓ ଫଳପଚା: ପତ୍ରରେ ଗୋଲାକାର ବାଦାମୀ ଦାଗ, ବାଇଗଣ ପଚି କଳା ପଡ଼ି ଶୁଖି ଝୁଲି ରହିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Viswaprabha",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "brinjal_root_knot_nematode",
+      "aliases": [],
+      "crop_id": "brinjal",
+      "crop_name_en": "Brinjal (Eggplant / Baigana)",
+      "crop_name_or": "ବାଇଗଣ (Brinjal / Eggplant)",
+      "type": "nematode",
+      "name_en": "Root Knot Nematode (Meloidogyne incognita)",
+      "name_or": "ବାଇଗଣ ଗଣ୍ଠି ଚେର କୃମି ରୋଗ (ନେମାଟୋଡ୍)",
+      "symptoms_en": "Galls or knots on root system, stunted yellowing plants wilting in midday heat.",
+      "symptoms_or": "ଚେରରେ ଛୋଟ ବଡ଼ ଗଣ୍ଠି ହୋଇଯିବା, ମଧ୍ୟାହ୍ନ ଖରାରେ ଗଛ ନଇଁ ପଡ଼ିବା ଓ ଉପୁଜିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/brinjal_root_knot_nematode.jpg",
+          "alt": "Root Knot Nematode (Meloidogyne incognita): Galls or knots on root system, stunted yellowing plants wilting in midday heat. | ବାଇଗଣ ଗଣ୍ଠି ଚେର କୃମି ରୋଗ (ନେମାଟୋଡ୍): ଚେରରେ ଛୋଟ ବଡ଼ ଗଣ୍ଠି ହୋଇଯିବା, ମଧ୍ୟାହ୍ନ ଖରାରେ ଗଛ ନଇଁ ପଡ଼ିବା ଓ ଉପୁଜିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Elaine Ward, Brian R. Kerry, Rosa H. Manzanilla-López,Gerald Mutua, Jean Devonsh",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chilli_thrips",
+      "aliases": [],
+      "crop_id": "chilli",
+      "crop_name_en": "Chilli (Mirchi)",
+      "crop_name_or": "ଲଙ୍କା / ମରିଚ (Chilli)",
+      "type": "pest",
+      "name_en": "Chilli Thrips (Scirtothrips dorsalis)",
+      "name_or": "ଲଙ୍କା ଚିପୁଡ଼ା ପୋକ (ପତ୍ର ଉପରକୁ ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ)",
+      "symptoms_en": "Upward cup-shaped curling of leaves, brownish bronze underside, brittle crinkled foliage.",
+      "symptoms_or": "ପତ୍ର ଉପର ମୁହାଁ ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ ହେବା, ପତ୍ର ତଳପଟ ତମ୍ବାଳିଆ ଦିଶିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chilli_thrips.jpg",
+          "alt": "Chilli Thrips (Scirtothrips dorsalis): Upward cup-shaped curling of leaves, brownish bronze underside, brittle crinkled foliage. | ଲଙ୍କା ଚିପୁଡ଼ା ପୋକ (ପତ୍ର ଉପରକୁ ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ): ପତ୍ର ଉପର ମୁହାଁ ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ ହେବା, ପତ୍ର ତଳପଟ ତମ୍ବାଳିଆ ଦିଶିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Rotadefterim",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chilli_yellow_mite",
+      "aliases": [],
+      "crop_id": "chilli",
+      "crop_name_en": "Chilli (Mirchi)",
+      "crop_name_or": "ଲଙ୍କା / ମରିଚ (Chilli)",
+      "type": "pest",
+      "name_en": "Yellow Mite (Polyphagotarsonemus latus)",
+      "name_or": "ଲଙ୍କା ହଳଦିଆ ମାଇଟ୍ (ପତ୍ର ତଳକୁ ଓଲଟା ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ)",
+      "symptoms_en": "Downward curling and elongation of leaves (inverted boat shape), elongated petioles.",
+      "symptoms_or": "ପତ୍ର ତଳ ମୁହାଁ ଓଲଟା ଡଙ୍ଗା ଭଳି ବଙ୍କା ହୋଇ ଲମ୍ବା ଡେମ୍ଫ ହେବା, ଗଛ ନିସ୍ତେଜ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chilli_yellow_mite.jpg",
+          "alt": "Yellow Mite (Polyphagotarsonemus latus): Downward curling and elongation of leaves (inverted boat shape), elongated petioles. | ଲଙ୍କା ହଳଦିଆ ମାଇଟ୍ (ପତ୍ର ତଳକୁ ଓଲଟା ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ): ପତ୍ର ତଳ ମୁହାଁ ଓଲଟା ଡଙ୍ଗା ଭଳି ବଙ୍କା ହୋଇ ଲମ୍ବା ଡେମ୍ଫ ହେବା, ଗଛ ନିସ୍ତେଜ ହେବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chilli_anthracnose_dieback",
+      "aliases": [],
+      "crop_id": "chilli",
+      "crop_name_en": "Chilli (Mirchi)",
+      "crop_name_or": "ଲଙ୍କା / ମରିଚ (Chilli)",
+      "type": "disease",
+      "name_en": "Anthracnose & Dieback (Colletotrichum capsici)",
+      "name_or": "ଲଙ୍କା ଡାଳମୁହଁ ଶୁଖିବା (ଡାଇବ୍ୟାକ୍) ଓ ଫଳପଚା",
+      "symptoms_en": "Twigs dry from tip downwards, sunken circular necrotic spots on ripe red fruits.",
+      "symptoms_or": "ଡାଳ ଉପରୁ ତଳକୁ ଶୁଖିବା, ପାଚିଲା ଲଙ୍କାରେ ଗାଢ଼ କଳା ଖାଲୁଆ ଦାଗ ହୋଇ ପଚିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chilli_anthracnose_dieback.jpg",
+          "alt": "Anthracnose & Dieback (Colletotrichum capsici): Twigs dry from tip downwards, sunken circular necrotic spots on ripe red fruits. | ଲଙ୍କା ଡାଳମୁହଁ ଶୁଖିବା (ଡାଇବ୍ୟାକ୍) ଓ ଫଳପଚା: ଡାଳ ଉପରୁ ତଳକୁ ଶୁଖିବା, ପାଚିଲା ଲଙ୍କାରେ ଗାଢ଼ କଳା ଖାଲୁଆ ଦାଗ ହୋଇ ପଚିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "DannykhorskhiLXII",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chilli_damping_off",
+      "aliases": [],
+      "crop_id": "chilli",
+      "crop_name_en": "Chilli (Mirchi)",
+      "crop_name_or": "ଲଙ୍କା / ମରିଚ (Chilli)",
+      "type": "disease",
+      "name_en": "Damping Off in Nursery (Pythium aphanidermatum)",
+      "name_or": "ଲଙ୍କା ତଳିଘରା ଡ୍ୟାମ୍ପିଙ୍ଗ୍ ଅଫ୍ (ଚାରାପଚା ରୋଗ)",
+      "symptoms_en": "Water-soaked soft rotting of collar at nursery soil surface causing young seedlings to topple over.",
+      "symptoms_or": "ତଳିଘରାରେ ଚାରା ଗଛର ମୂଳ ପଚିଯାଇ ଢଳି ପଡ଼ିବା ଓ ଦଳଦଳ ଚାରା ମରିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chilli_damping_off.jpg",
+          "alt": "Damping Off in Nursery (Pythium aphanidermatum): Water-soaked soft rotting of collar at nursery soil surface causing young seedlings to topple over. | ଲଙ୍କା ତଳିଘରା ଡ୍ୟାମ୍ପିଙ୍ଗ୍ ଅଫ୍ (ଚାରାପଚା ରୋଗ): ତଳିଘରାରେ ଚାରା ଗଛର ମୂଳ ପଚିଯାଇ ଢଳି ପଡ଼ିବା ଓ ଦଳଦଳ ଚାରା ମରିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Sorauer, Paul, 1839-1916; Lindau, Gustav, 1866-1923; Reh, L. (Ludwig), 1867-1940",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "okra_yvmv",
+      "aliases": [],
+      "crop_id": "okra",
+      "crop_name_en": "Okra (Bhindi / Ladyfinger)",
+      "crop_name_or": "ଭେଣ୍ଡି (Okra / Bhindi)",
+      "type": "disease",
+      "name_en": "Yellow Vein Mosaic Virus - YVMV (Whitefly Vector)",
+      "name_or": "ଭେଣ୍ଡି ହଳଦିଆ ଶିରା ମୋଜାଇକ୍ ରୋଗ",
+      "symptoms_en": "Intricate network of yellow veins on deep green leaf blade, stunted chlorotic fibrous small fruits.",
+      "symptoms_or": "ପତ୍ରର ଶିରାଗୁଡ଼ିକ ହଳଦିଆ ହୋଇ ଜାଲ ଭଳି ଦିଶିବା, ଭେଣ୍ଡି ଟାଣ ଓ ଛୋଟ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/okra_yvmv.jpg",
+          "alt": "Yellow Vein Mosaic Virus - YVMV (Whitefly Vector): Intricate network of yellow veins on deep green leaf blade, stunted chlorotic fibrous small fruits. | ଭେଣ୍ଡି ହଳଦିଆ ଶିରା ମୋଜାଇକ୍ ରୋଗ: ପତ୍ରର ଶିରାଗୁଡ଼ିକ ହଳଦିଆ ହୋଇ ଜାଲ ଭଳି ଦିଶିବା, ଭେଣ୍ଡି ଟାଣ ଓ ଛୋଟ ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Adityamadhav83",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "okra_shoot_fruit_borer",
+      "aliases": [],
+      "crop_id": "okra",
+      "crop_name_en": "Okra (Bhindi / Ladyfinger)",
+      "crop_name_or": "ଭେଣ୍ଡି (Okra / Bhindi)",
+      "type": "pest",
+      "name_en": "Shoot & Fruit Borer (Earias vittella)",
+      "name_or": "ଭେଣ୍ଡି ଡଗ ଓ ଫଳ ବିନ୍ଧା ପୋକ (ଇରିଆସ୍)",
+      "symptoms_en": "Wilted shoots, deformed bent crooked fruits with caterpillars inside.",
+      "symptoms_or": "ଡଗ ଶୁଖି ନଇଁ ପଡ଼ିବା, ଭେଣ୍ଡି ବଙ୍କା ଟଙ୍କା ହୋଇ ଭିତରେ ପୋକ ରହିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/okra_shoot_fruit_borer.jpg",
+          "alt": "Shoot & Fruit Borer (Earias vittella): Wilted shoots, deformed bent crooked fruits with caterpillars inside. | ଭେଣ୍ଡି ଡଗ ଓ ଫଳ ବିନ୍ଧା ପୋକ (ଇରିଆସ୍): ଡଗ ଶୁଖି ନଇଁ ପଡ଼ିବା, ଭେଣ୍ଡି ବଙ୍କା ଟଙ୍କା ହୋଇ ଭିତରେ ପୋକ ରହିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "okra_powdery_mildew",
+      "aliases": [],
+      "crop_id": "okra",
+      "crop_name_en": "Okra (Bhindi / Ladyfinger)",
+      "crop_name_or": "ଭେଣ୍ଡି (Okra / Bhindi)",
+      "type": "disease",
+      "name_en": "Powdery Mildew (Erysiphe cichoracearum)",
+      "name_or": "ଭେଣ୍ଡି ଧଳା ପାଉଁଶିଆ ରୋଗ",
+      "symptoms_en": "White powdery fungal growth covering both surfaces of leaves, leaves turn brown and dry.",
+      "symptoms_or": "ପତ୍ରର ଉପର ଓ ତଳ ଭାଗରେ ଧଳା ପାଉଡର ଭଳି କବକ ମାଡ଼ିବା, ପତ୍ର ଶୁଖି ଝଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/okra_powdery_mildew.jpg",
+          "alt": "Powdery Mildew (Erysiphe cichoracearum): White powdery fungal growth covering both surfaces of leaves, leaves turn brown and dry. | ଭେଣ୍ଡି ଧଳା ପାଉଁଶିଆ ରୋଗ: ପତ୍ରର ଉପର ଓ ତଳ ଭାଗରେ ଧଳା ପାଉଡର ଭଳି କବକ ମାଡ଼ିବା, ପତ୍ର ଶୁଖି ଝଡ଼ିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "okra_jassid",
+      "aliases": [],
+      "crop_id": "okra",
+      "crop_name_en": "Okra (Bhindi / Ladyfinger)",
+      "crop_name_or": "ଭେଣ୍ଡି (Okra / Bhindi)",
+      "type": "pest",
+      "name_en": "Cotton Jassid / Leafhopper (Amrasca biguttula biguttula)",
+      "name_or": "ଭେଣ୍ଡି ଡେଇଁପୋକ (ଜାସିଡ୍ / ପତ୍ରଡିଆଁ)",
+      "symptoms_en": "Leaves curl downwards at edges, yellow margins turning brown burnt hopperburn.",
+      "symptoms_or": "ପତ୍ର ତଳକୁ ମୋଡ଼ି ହେବା, ପତ୍ରର ଧାର ହଳଦିଆରୁ ପୋଡ଼ିଗଲା ଭଳି ବାଦାମୀ ହେବା (ହପରବର୍ଣ୍ଣ)।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/okra_jassid.jpg",
+          "alt": "Cotton Jassid / Leafhopper (Amrasca biguttula biguttula): Leaves curl downwards at edges, yellow margins turning brown burnt hopperburn. | ଭେଣ୍ଡି ଡେଇଁପୋକ (ଜାସିଡ୍ / ପତ୍ରଡିଆଁ): ପତ୍ର ତଳକୁ ମୋଡ଼ି ହେବା, ପତ୍ରର ଧାର ହଳଦିଆରୁ ପୋଡ଼ିଗଲା ଭଳି ବାଦାମୀ ହେବା (ହପରବର୍ଣ୍ଣ)।",
+          "licence": "CC BY 4.0",
+          "credit": "P1898",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mango_hopper",
+      "aliases": [],
+      "crop_id": "mango",
+      "crop_name_en": "Mango (Amba)",
+      "crop_name_or": "ଆମ୍ବ (Mango)",
+      "type": "pest",
+      "name_en": "Mango Hopper (Amritodus atkinsoni / Idioscopus spp.)",
+      "name_or": "ଆମ୍ବ ବଉଳ ଡେଇଁପୋକ (ହପର)",
+      "symptoms_en": "Nymphs and adults suck sap from tender panicles causing blossom withering and sooty mold.",
+      "symptoms_or": "ଆମ୍ବ ବଉଳରୁ ରସ ଶୋଷି ବଉଳ କଳା ପକାଇ ଝଡ଼ାଇ ଦିଏ, ଗଛ ଅଠାଳିଆ କଳା ପଡ଼ିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mango_hopper.jpg",
+          "alt": "Mango Hopper (Amritodus atkinsoni / Idioscopus spp.): Nymphs and adults suck sap from tender panicles causing blossom withering and sooty mold. | ଆମ୍ବ ବଉଳ ଡେଇଁପୋକ (ହପର): ଆମ୍ବ ବଉଳରୁ ରସ ଶୋଷି ବଉଳ କଳା ପକାଇ ଝଡ଼ାଇ ଦିଏ, ଗଛ ଅଠାଳିଆ କଳା ପଡ଼ିଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Elayabharathi Saravanan",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mango_powdery_mildew",
+      "aliases": [],
+      "crop_id": "mango",
+      "crop_name_en": "Mango (Amba)",
+      "crop_name_or": "ଆମ୍ବ (Mango)",
+      "type": "disease",
+      "name_en": "Powdery Mildew of Mango (Oidium mangiferae)",
+      "name_or": "ଆମ୍ବ ବଉଳ ଧଳା ପାଉଁଶିଆ ରୋଗ",
+      "symptoms_en": "White powdery coating covering panicles, young leaves, and tiny fruitlets causing drop.",
+      "symptoms_or": "ବଉଳ ଓ କଅଁଳ ଆମ୍ବିଳି ଉପରେ ଧଳା ପାଉଡର ଭଳି କବକ ମାଡ଼ି ବଉଳ ଝଡ଼ିପଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mango_powdery_mildew.jpg",
+          "alt": "Powdery Mildew of Mango (Oidium mangiferae): White powdery coating covering panicles, young leaves, and tiny fruitlets causing drop. | ଆମ୍ବ ବଉଳ ଧଳା ପାଉଁଶିଆ ରୋଗ: ବଉଳ ଓ କଅଁଳ ଆମ୍ବିଳି ଉପରେ ଧଳା ପାଉଡର ଭଳି କବକ ମାଡ଼ି ବଉଳ ଝଡ଼ିପଡ଼ିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mango_anthracnose",
+      "aliases": [],
+      "crop_id": "mango",
+      "crop_name_en": "Mango (Amba)",
+      "crop_name_or": "ଆମ୍ବ (Mango)",
+      "type": "disease",
+      "name_en": "Anthracnose & Black Spot (Colletotrichum gloeosporioides)",
+      "name_or": "ଆମ୍ବ କଳାଜାମୁଆ ରୋଗ (ଆନ୍ଥ୍ରାକ୍ନୋଜ୍)",
+      "symptoms_en": "Dark brown to black tear stains on fruit peel and sunken spots expanding during ripening.",
+      "symptoms_or": "ପାଚିଲା ବେଳେ ଆମ୍ବ ଚୋପା ଉପରେ କଳା ଲୁହ ଧାର ଭଳି ଖାଲୁଆ ଦାଗ ହୋଇ ପଚିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mango_anthracnose.jpg",
+          "alt": "Anthracnose & Black Spot (Colletotrichum gloeosporioides): Dark brown to black tear stains on fruit peel and sunken spots expanding during ripening. | ଆମ୍ବ କଳାଜାମୁଆ ରୋଗ (ଆନ୍ଥ୍ରାକ୍ନୋଜ୍): ପାଚିଲା ବେଳେ ଆମ୍ବ ଚୋପା ଉପରେ କଳା ଲୁହ ଧାର ଭଳି ଖାଲୁଆ ଦାଗ ହୋଇ ପଚିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Knowledge Center",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mango_fruit_fly",
+      "aliases": [],
+      "crop_id": "mango",
+      "crop_name_en": "Mango (Amba)",
+      "crop_name_or": "ଆମ୍ବ (Mango)",
+      "type": "pest",
+      "name_en": "Oriental Fruit Fly (Bactrocera dorsalis)",
+      "name_or": "ଆମ୍ବ ଫଳମାଛି (ମ୍ୟାଗଟ୍ ପୋକ)",
+      "symptoms_en": "Female fly lays eggs beneath skin; maggots feed inside causing premature fruit drop and rot.",
+      "symptoms_or": "ଆମ୍ବ ଚୋପା ତଳେ ଅଣ୍ଡା ଦିଏ, ଭିତରେ ଧଳା ପୋକ ମାଂସ ଖାଇ ଆମ୍ବ ପଚାଇ ତଳେ ଖସାଇ ଦିଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mango_fruit_fly.jpg",
+          "alt": "Oriental Fruit Fly (Bactrocera dorsalis): Female fly lays eggs beneath skin; maggots feed inside causing premature fruit drop and rot. | ଆମ୍ବ ଫଳମାଛି (ମ୍ୟାଗଟ୍ ପୋକ): ଆମ୍ବ ଚୋପା ତଳେ ଅଣ୍ଡା ଦିଏ, ଭିତରେ ଧଳା ପୋକ ମାଂସ ଖାଇ ଆମ୍ବ ପଚାଇ ତଳେ ଖସାଇ ଦିଏ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "banana_sigatoka",
+      "aliases": [],
+      "crop_id": "banana",
+      "crop_name_en": "Banana (Kadali)",
+      "crop_name_or": "କଦଳୀ (Banana / Kadali)",
+      "type": "disease",
+      "name_en": "Sigatoka Leaf Spot (Pseudocercospora fijiensis)",
+      "name_or": "କଦଳୀ ସିଗାଟୋକା ପତ୍ରପୋଡ଼ା ରୋଗ",
+      "symptoms_en": "Spindle-shaped brown streaks with greyish white centers surrounded by yellow halo on leaf blade.",
+      "symptoms_or": "ପତ୍ରରେ ବାଦାମୀ ଗାର ହୋଇ ପରେ ପାଉଁଶିଆ କେନ୍ଦ୍ର ବିଶିଷ୍ଟ ବଡ଼ ବଡ଼ ପୋଡ଼ା ଦାଗ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/banana_sigatoka.jpg",
+          "alt": "Sigatoka Leaf Spot (Pseudocercospora fijiensis): Spindle-shaped brown streaks with greyish white centers surrounded by yellow halo on leaf blade. | କଦଳୀ ସିଗାଟୋକା ପତ୍ରପୋଡ଼ା ରୋଗ: ପତ୍ରରେ ବାଦାମୀ ଗାର ହୋଇ ପରେ ପାଉଁଶିଆ କେନ୍ଦ୍ର ବିଶିଷ୍ଟ ବଡ଼ ବଡ଼ ପୋଡ଼ା ଦାଗ ହେବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "banana_panama_wilt",
+      "aliases": [],
+      "crop_id": "banana",
+      "crop_name_en": "Banana (Kadali)",
+      "crop_name_or": "କଦଳୀ (Banana / Kadali)",
+      "type": "disease",
+      "name_en": "Panama Wilt (Fusarium oxysporum f. sp. cubense - TR4)",
+      "name_or": "କଦଳୀ ପାନାମା ଝାଉଁଳା ରୋଗ (କାଣ୍ଡ ଫାଟିବା)",
+      "symptoms_en": "Yellowing of lower leaves hanging around pseudostem like a skirt, longitudinal split of trunk base.",
+      "symptoms_or": "ତଳ ପତ୍ରଗୁଡ଼ିକ ହଳଦିଆ ହୋଇ ତଳକୁ ଝୁଲି ପଡ଼ିବା, କାଣ୍ଡର ମୂଳ ଲମ୍ବାଳିଆ ଭାବେ ଫାଟିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/banana_panama_wilt.jpg",
+          "alt": "Panama Wilt (Fusarium oxysporum f. sp. cubense - TR4): Yellowing of lower leaves hanging around pseudostem like a skirt, longitudinal split of trunk base. | କଦଳୀ ପାନାମା ଝାଉଁଳା ରୋଗ (କାଣ୍ଡ ଫାଟିବା): ତଳ ପତ୍ରଗୁଡ଼ିକ ହଳଦିଆ ହୋଇ ତଳକୁ ଝୁଲି ପଡ଼ିବା, କାଣ୍ଡର ମୂଳ ଲମ୍ବାଳିଆ ଭାବେ ଫାଟିଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "banana_pseudostem_weevil",
+      "aliases": [],
+      "crop_id": "banana",
+      "crop_name_en": "Banana (Kadali)",
+      "crop_name_or": "କଦଳୀ (Banana / Kadali)",
+      "type": "pest",
+      "name_en": "Pseudostem Borer Weevil (Odoiporus longicollis)",
+      "name_or": "କଦଳୀ କାଣ୍ଡବିନ୍ଧା ଶୁଣ୍ଢିଆ ପୋକ",
+      "symptoms_en": "Jelly-like exudation on pseudostem, boreholes with frass, trunk snaps in wind.",
+      "symptoms_or": "କାଣ୍ଡରୁ ଜେଲି ଭଳି ଅଠା ବାହାରିବା, ଭିତର ପୋଲା ହୋଇ ପବନରେ କଦଳୀ ଗଛ ଭାଙ୍ଗିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/banana_pseudostem_weevil.jpg",
+          "alt": "Pseudostem Borer Weevil (Odoiporus longicollis): Jelly-like exudation on pseudostem, boreholes with frass, trunk snaps in wind. | କଦଳୀ କାଣ୍ଡବିନ୍ଧା ଶୁଣ୍ଢିଆ ପୋକ: କାଣ୍ଡରୁ ଜେଲି ଭଳି ଅଠା ବାହାରିବା, ଭିତର ପୋଲା ହୋଇ ପବନରେ କଦଳୀ ଗଛ ଭାଙ୍ଗିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Udo Schmidt from Deutschland",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "banana_bunchy_top",
+      "aliases": [],
+      "crop_id": "banana",
+      "crop_name_en": "Banana (Kadali)",
+      "crop_name_or": "କଦଳୀ (Banana / Kadali)",
+      "type": "disease",
+      "name_en": "Banana Bunchy Top Virus - BBTV (Aphid vector)",
+      "name_or": "କଦଳୀ ମୁକୁଟ ବୁଦା ରୋଗ (ବଞ୍ଚି ଟପ୍ ଭୂତାଣୁ)",
+      "symptoms_en": "Dark green \"Morse code\" dots and dashes along leaf veins, stunted leaves crowded at top like rosette.",
+      "symptoms_or": "ପତ୍ର ଶିରାରେ ମୋର୍ସ କୋଡ୍ ଭଳି କଳା ବିନ୍ଦୁ ଗାର, ଡେଙ୍ଗା ନହୋଇ ମୁଣ୍ଡରେ ଛୋଟ ଛୋଟ ପତ୍ର ଜମି ରହିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/banana_bunchy_top.jpg",
+          "alt": "Banana Bunchy Top Virus - BBTV (Aphid vector): Dark green \"Morse code\" dots and dashes along leaf veins, stunted leaves crowded at top like rosette. | କଦଳୀ ମୁକୁଟ ବୁଦା ରୋଗ (ବଞ୍ଚି ଟପ୍ ଭୂତାଣୁ): ପତ୍ର ଶିରାରେ ମୋର୍ସ କୋଡ୍ ଭଳି କଳା ବିନ୍ଦୁ ଗାର, ଡେଙ୍ଗା ନହୋଇ ମୁଣ୍ଡରେ ଛୋଟ ଛୋଟ ପତ୍ର ଜମି ରହିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "papaya_ring_spot",
+      "aliases": [],
+      "crop_id": "papaya",
+      "crop_name_en": "Papaya (Amrutabhanda)",
+      "crop_name_or": "ଅମୃତଭଣ୍ଡା (Papaya)",
+      "type": "disease",
+      "name_en": "Papaya Ring Spot Virus - PRSV (Aphid Vector)",
+      "name_or": "ଅମୃତଭଣ୍ଡା ରିଙ୍ଗ୍ ସ୍ପଟ୍ ଭୂତାଣୁ ରୋଗ",
+      "symptoms_en": "Shoestring narrow leaves, yellow mosaic, oily circular dark rings on fruit peel.",
+      "symptoms_or": "ପତ୍ର ଦଉଡ଼ି ଭଳି ପତଳା ହୋଇଯିବା, ଫଳ ଚୋପା ଉପରେ ଗୋଲ ଗୋଲ ତେଲିଆ ଚିତା ଦାଗ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/papaya_ring_spot.jpg",
+          "alt": "Papaya Ring Spot Virus - PRSV (Aphid Vector): Shoestring narrow leaves, yellow mosaic, oily circular dark rings on fruit peel. | ଅମୃତଭଣ୍ଡା ରିଙ୍ଗ୍ ସ୍ପଟ୍ ଭୂତାଣୁ ରୋଗ: ପତ୍ର ଦଉଡ଼ି ଭଳି ପତଳା ହୋଇଯିବା, ଫଳ ଚୋପା ଉପରେ ଗୋଲ ଗୋଲ ତେଲିଆ ଚିତା ଦାଗ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "papaya_foot_rot",
+      "aliases": [],
+      "crop_id": "papaya",
+      "crop_name_en": "Papaya (Amrutabhanda)",
+      "crop_name_or": "ଅମୃତଭଣ୍ଡା (Papaya)",
+      "type": "disease",
+      "name_en": "Foot Rot & Stem Rot (Pythium aphanidermatum)",
+      "name_or": "ଅମୃତଭଣ୍ଡା ମୂଳପଚା ଓ କାଣ୍ଡପଚା ରୋଗ",
+      "symptoms_en": "Water-soaked soft patches at soil collar, bark sloughs off, tree snaps in breeze.",
+      "symptoms_or": "ମାଟି ପାଖ କାଣ୍ଡ ନରମ ହୋଇ ପଚିଯିବା, ଗଛର ଛାଲ ଛାଡ଼ି ପବନରେ ଭାଙ୍ଗି ପଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/papaya_foot_rot.jpg",
+          "alt": "Foot Rot & Stem Rot (Pythium aphanidermatum): Water-soaked soft patches at soil collar, bark sloughs off, tree snaps in breeze. | ଅମୃତଭଣ୍ଡା ମୂଳପଚା ଓ କାଣ୍ଡପଚା ରୋଗ: ମାଟି ପାଖ କାଣ୍ଡ ନରମ ହୋଇ ପଚିଯିବା, ଗଛର ଛାଲ ଛାଡ଼ି ପବନରେ ଭାଙ୍ଗି ପଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "papaya_mealybug",
+      "aliases": [],
+      "crop_id": "papaya",
+      "crop_name_en": "Papaya (Amrutabhanda)",
+      "crop_name_or": "ଅମୃତଭଣ୍ଡା (Papaya)",
+      "type": "pest",
+      "name_en": "Papaya Mealybug (Paracoccus marginatus)",
+      "name_or": "ଅମୃତଭଣ୍ଡା ଧଳା ପାଉଡର ପୋକ (ମିଲିବଗ୍)",
+      "symptoms_en": "White cottony waxy clusters covering leaves and fruit surface, yellowing, stunted crinkled leaves.",
+      "symptoms_or": "ପତ୍ର ଓ ଫଳ ଉପରେ ତୁଳା ଭଳି ଧଳା ପୋକ ଘଞ୍ଚ ହୋଇ ମାଡ଼ିବା, କଳା ଫିମ୍ପି ଜମିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/papaya_mealybug.jpg",
+          "alt": "Papaya Mealybug (Paracoccus marginatus): White cottony waxy clusters covering leaves and fruit surface, yellowing, stunted crinkled leaves. | ଅମୃତଭଣ୍ଡା ଧଳା ପାଉଡର ପୋକ (ମିଲିବଗ୍): ପତ୍ର ଓ ଫଳ ଉପରେ ତୁଳା ଭଳି ଧଳା ପୋକ ଘଞ୍ଚ ହୋଇ ମାଡ଼ିବା, କଳା ଫିମ୍ପି ଜମିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Filo gèn'",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "papaya_anthracnose",
+      "aliases": [],
+      "crop_id": "papaya",
+      "crop_name_en": "Papaya (Amrutabhanda)",
+      "crop_name_or": "ଅମୃତଭଣ୍ଡା (Papaya)",
+      "type": "disease",
+      "name_en": "Fruit Anthracnose (Colletotrichum gloeosporioides)",
+      "name_or": "ଅମୃତଭଣ୍ଡା ଫଳପଚା ରୋଗ",
+      "symptoms_en": "Small round water-soaked sunken spots on ripening fruit surface enlarging into pink fungal centers.",
+      "symptoms_or": "ପାଚିଲା ଅମୃତଭଣ୍ଡା ଉପରେ ଗୋଲ ଖାଲୁଆ ଦାଗ ଓ ମଝିରେ ଗୋଲାପୀ ଫିମ୍ପି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/papaya_anthracnose.jpg",
+          "alt": "Fruit Anthracnose (Colletotrichum gloeosporioides): Small round water-soaked sunken spots on ripening fruit surface enlarging into pink fungal centers. | ଅମୃତଭଣ୍ଡା ଫଳପଚା ରୋଗ: ପାଚିଲା ଅମୃତଭଣ୍ଡା ଉପରେ ଗୋଲ ଖାଲୁଆ ଦାଗ ଓ ମଝିରେ ଗୋଲାପୀ ଫିମ୍ପି।",
+          "licence": "CC BY 4.0",
+          "credit": "Joydeep",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "guava_wilt",
+      "aliases": [],
+      "crop_id": "guava",
+      "crop_name_en": "Guava (Pijuli)",
+      "crop_name_or": "ପିଜୁଳି (Guava / Pijuli)",
+      "type": "disease",
+      "name_en": "Guava Wilt (Fusarium oxysporum f. sp. psidii)",
+      "name_or": "ପିଜୁଳି ଝାଉଁଳା ରୋଗ (ୱିଲ୍ଟ)",
+      "symptoms_en": "Yellowing of leaves, defoliation from twigs downwards, vascular browning, tree dies in months.",
+      "symptoms_or": "ପତ୍ର ହଳଦିଆ ହୋଇ ଡାଳରୁ ଝଡ଼ିବା, କାଣ୍ଡ ଭିତରେ ବାଦାମୀ ରଙ୍ଗ ହୋଇ ଗଛ ଶୁଖି ମରିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/guava_wilt.jpg",
+          "alt": "Guava Wilt (Fusarium oxysporum f. sp. psidii): Yellowing of leaves, defoliation from twigs downwards, vascular browning, tree dies in months. | ପିଜୁଳି ଝାଉଁଳା ରୋଗ (ୱିଲ୍ଟ): ପତ୍ର ହଳଦିଆ ହୋଇ ଡାଳରୁ ଝଡ଼ିବା, କାଣ୍ଡ ଭିତରେ ବାଦାମୀ ରଙ୍ଗ ହୋଇ ଗଛ ଶୁଖି ମରିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Sabina Bajracharya",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "guava_fruit_fly",
+      "aliases": [],
+      "crop_id": "guava",
+      "crop_name_en": "Guava (Pijuli)",
+      "crop_name_or": "ପିଜୁଳି (Guava / Pijuli)",
+      "type": "pest",
+      "name_en": "Guava Fruit Fly (Bactrocera correcta)",
+      "name_or": "ପିଜୁଳି ଫଳମାଛି ପୋକ",
+      "symptoms_en": "Puncture mark with brown resin droplet on fruit skin, internal pulp infested with squirming maggots.",
+      "symptoms_or": "ପିଜୁଳି ଚୋପାରେ ଫୋଡ଼ି ହେଲା ଭଳି ଦାଗ, ଭିତରେ ଧଳା ଶୁକପୋକ ମାଂସ ଖାଇ ପଚାଇ ଦିଅନ୍ତି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/guava_fruit_fly.jpg",
+          "alt": "Guava Fruit Fly (Bactrocera correcta): Puncture mark with brown resin droplet on fruit skin, internal pulp infested with squirming maggots. | ପିଜୁଳି ଫଳମାଛି ପୋକ: ପିଜୁଳି ଚୋପାରେ ଫୋଡ଼ି ହେଲା ଭଳି ଦାଗ, ଭିତରେ ଧଳା ଶୁକପୋକ ମାଂସ ଖାଇ ପଚାଇ ଦିଅନ୍ତି।",
+          "licence": "CC BY 4.0",
+          "credit": "Ken Walker, Museum Victoria",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "guava_tea_mosquito",
+      "aliases": [],
+      "crop_id": "guava",
+      "crop_name_en": "Guava (Pijuli)",
+      "crop_name_or": "ପିଜୁଳି (Guava / Pijuli)",
+      "type": "pest",
+      "name_en": "Tea Mosquito Bug (Helopeltis antonii)",
+      "name_or": "ପିଜୁଳି ମସା ପୋକ (ଟି-ମସ୍କିଟୋ ବଗ୍)",
+      "symptoms_en": "Scabby corky black necrotic spots on developing fruit skin, resembling scab lesions.",
+      "symptoms_or": "ପିଜୁଳି ଚୋପା ଉପରେ କଳା ଖସଖସିଆ କାଛୁ ଭଳି ଫୋଟକା ଦାଗ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/guava_tea_mosquito.jpg",
+          "alt": "Tea Mosquito Bug (Helopeltis antonii): Scabby corky black necrotic spots on developing fruit skin, resembling scab lesions. | ପିଜୁଳି ମସା ପୋକ (ଟି-ମସ୍କିଟୋ ବଗ୍): ପିଜୁଳି ଚୋପା ଉପରେ କଳା ଖସଖସିଆ କାଛୁ ଭଳି ଫୋଟକା ଦାଗ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Sabina Bajracharya",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "guava_canker",
+      "aliases": [],
+      "crop_id": "guava",
+      "crop_name_en": "Guava (Pijuli)",
+      "crop_name_or": "ପିଜୁଳି (Guava / Pijuli)",
+      "type": "disease",
+      "name_en": "Guava Fruit Canker (Pestalotiopsis psidii)",
+      "name_or": "ପିଜୁଳି କ୍ୟାଙ୍କର ରୋଗ",
+      "symptoms_en": "Raised crater-like corky rusty cankers with torn epidermal margins on fruits.",
+      "symptoms_or": "ପିଜୁଳି ଉପରେ ଫାଟିଗଲା ଭଳି ଖସଖସିଆ ଖାଲୁଆ କଙ୍କର ଦାଗ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/guava_canker.jpg",
+          "alt": "Guava Fruit Canker (Pestalotiopsis psidii): Raised crater-like corky rusty cankers with torn epidermal margins on fruits. | ପିଜୁଳି କ୍ୟାଙ୍କର ରୋଗ: ପିଜୁଳି ଉପରେ ଫାଟିଗଲା ଭଳି ଖସଖସିଆ ଖାଲୁଆ କଙ୍କର ଦାଗ।",
+          "licence": "CC BY 4.0",
+          "credit": "Sabina Bajracharya",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "turmeric_rhizome_rot",
+      "aliases": [],
+      "crop_id": "turmeric",
+      "crop_name_en": "Turmeric (Haladi)",
+      "crop_name_or": "ହଳଦୀ (Turmeric / Haladi)",
+      "type": "disease",
+      "name_en": "Rhizome Rot / Soft Rot (Pythium aphanidermatum)",
+      "name_or": "ହଳଦୀ ଗଣ୍ଠିପଚା ରୋଗ (ରାଇଜୋମ୍ ରଟ୍)",
+      "symptoms_en": "Collar region rots with foul smell, foliage dries from base, rhizomes turn soft and watery.",
+      "symptoms_or": "କାଣ୍ଡ ମୂଳ ପଚି ଦୁର୍ଗନ୍ଧ ହେବା, ପତ୍ର ହଳଦିଆ ହୋଇ ଶୁଖିବା ଓ ମାଟି ତଳ ହଳଦୀ ଗଣ୍ଠି ପଚି ପାଣି ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/turmeric_rhizome_rot.jpg",
+          "alt": "Rhizome Rot / Soft Rot (Pythium aphanidermatum): Collar region rots with foul smell, foliage dries from base, rhizomes turn soft and watery. | ହଳଦୀ ଗଣ୍ଠିପଚା ରୋଗ (ରାଇଜୋମ୍ ରଟ୍): କାଣ୍ଡ ମୂଳ ପଚି ଦୁର୍ଗନ୍ଧ ହେବା, ପତ୍ର ହଳଦିଆ ହୋଇ ଶୁଖିବା ଓ ମାଟି ତଳ ହଳଦୀ ଗଣ୍ଠି ପଚି ପାଣି ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Simon A. Eugster",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "turmeric_shoot_borer",
+      "aliases": [],
+      "crop_id": "turmeric",
+      "crop_name_en": "Turmeric (Haladi)",
+      "crop_name_or": "ହଳଦୀ (Turmeric / Haladi)",
+      "type": "pest",
+      "name_en": "Shoot Borer (Conogethes punctiferalis)",
+      "name_or": "ହଳଦୀ କାଣ୍ଡବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Larvae bore into pseudostem leaving frass extruded at bore hole, central shoot withers (dead heart).",
+      "symptoms_or": "ଶୁକପୋକ କାଣ୍ଡ ଭିତରେ ପଶି କୋରି ଖାଏ, ମଝି ଡାଳ ଶୁଖିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/turmeric_shoot_borer.jpg",
+          "alt": "Shoot Borer (Conogethes punctiferalis): Larvae bore into pseudostem leaving frass extruded at bore hole, central shoot withers (dead heart). | ହଳଦୀ କାଣ୍ଡବିନ୍ଧା ପୋକ: ଶୁକପୋକ କାଣ୍ଡ ଭିତରେ ପଶି କୋରି ଖାଏ, ମଝି ଡାଳ ଶୁଖିଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Simon Hinkley &amp; Ken Walker, Museum Victoria",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "turmeric_leaf_blotch",
+      "aliases": [],
+      "crop_id": "turmeric",
+      "crop_name_en": "Turmeric (Haladi)",
+      "crop_name_or": "ହଳଦୀ (Turmeric / Haladi)",
+      "type": "disease",
+      "name_en": "Leaf Blotch (Taphrina maculans)",
+      "name_or": "ହଳଦୀ ପତ୍ର କଳଙ୍କି ରୋଗ (ଟ୍ୟାଫ୍ରିନା)",
+      "symptoms_en": "Small oval reddish-brown to dirty yellow spots on both leaf surfaces, coalescing into dirty blotches.",
+      "symptoms_or": "ପତ୍ର ଉଭୟ ପଟେ ବହୁ ସଂଖ୍ୟକ ଛୋଟ ଛୋଟ ଲାଲ୍-ବାଦାମୀ ଦାଗ ଏବଂ ପତ୍ର ପୋଡ଼ିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/turmeric_leaf_blotch.jpg",
+          "alt": "Leaf Blotch (Taphrina maculans): Small oval reddish-brown to dirty yellow spots on both leaf surfaces, coalescing into dirty blotches. | ହଳଦୀ ପତ୍ର କଳଙ୍କି ରୋଗ (ଟ୍ୟାଫ୍ରିନା): ପତ୍ର ଉଭୟ ପଟେ ବହୁ ସଂଖ୍ୟକ ଛୋଟ ଛୋଟ ଲାଲ୍-ବାଦାମୀ ଦାଗ ଏବଂ ପତ୍ର ପୋଡ଼ିଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "turmeric_rhizome_scale",
+      "aliases": [],
+      "crop_id": "turmeric",
+      "crop_name_en": "Turmeric (Haladi)",
+      "crop_name_or": "ହଳଦୀ (Turmeric / Haladi)",
+      "type": "pest",
+      "name_en": "Rhizome Scale (Aspidiella hartii)",
+      "name_or": "ହଳଦୀ ଗଣ୍ଠି କାତିପୋକ (ସ୍ମଲ୍ ସ୍କେଲ୍)",
+      "symptoms_en": "Minute circular brownish-white scales encrust stored seed rhizomes sucking sap, causing shrivelling.",
+      "symptoms_or": "ସାଇତା ହଳଦୀ ଗଣ୍ଠି ଉପରେ ଧଳା କାତି ଭଳି ପୋକ ଜମି ରହି ଗଣ୍ଠିକୁ ଶୁଖାଇ ଚୁନ ଭଳି କରିଦିଅନ୍ତି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/turmeric_rhizome_scale.jpg",
+          "alt": "Rhizome Scale (Aspidiella hartii): Minute circular brownish-white scales encrust stored seed rhizomes sucking sap, causing shrivelling. | ହଳଦୀ ଗଣ୍ଠି କାତିପୋକ (ସ୍ମଲ୍ ସ୍କେଲ୍): ସାଇତା ହଳଦୀ ଗଣ୍ଠି ଉପରେ ଧଳା କାତି ଭଳି ପୋକ ଜମି ରହି ଗଣ୍ଠିକୁ ଶୁଖାଇ ଚୁନ ଭଳି କରିଦିଅନ୍ତି।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ginger_soft_rot",
+      "aliases": [],
+      "crop_id": "ginger",
+      "crop_name_en": "Ginger (Ada)",
+      "crop_name_or": "ଅଦା (Ginger / Ada)",
+      "type": "disease",
+      "name_en": "Soft Rot / Rhizome Rot (Pythium myriotylum)",
+      "name_or": "ଅଦା ଗଣ୍ଠିପଚା ରୋଗ",
+      "symptoms_en": "Water-soaked collar turns soft, pseudostem easily pulls out with rotten base, foul stench.",
+      "symptoms_or": "କାଣ୍ଡ ମୂଳ ନରମ ହୋଇ ପଚିଯିବା, ଟାଣିଲେ ସହଜରେ ଛିଣ୍ଡି ଆସିବା ଓ ଦୁର୍ଗନ୍ଧ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ginger_soft_rot.jpg",
+          "alt": "Soft Rot / Rhizome Rot (Pythium myriotylum): Water-soaked collar turns soft, pseudostem easily pulls out with rotten base, foul stench. | ଅଦା ଗଣ୍ଠିପଚା ରୋଗ: କାଣ୍ଡ ମୂଳ ନରମ ହୋଇ ପଚିଯିବା, ଟାଣିଲେ ସହଜରେ ଛିଣ୍ଡି ଆସିବା ଓ ଦୁର୍ଗନ୍ଧ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Fk",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ginger_bacterial_wilt",
+      "aliases": [],
+      "crop_id": "ginger",
+      "crop_name_en": "Ginger (Ada)",
+      "crop_name_or": "ଅଦା (Ginger / Ada)",
+      "type": "disease",
+      "name_en": "Bacterial Wilt (Ralstonia pseudosolanacearum)",
+      "name_or": "ଅଦା ଜୀବାଣୁ ଝାଉଁଳା ରୋଗ",
+      "symptoms_en": "Bronze curling of leaves, water-soaked dark collar, milky bacterial ooze in clear water.",
+      "symptoms_or": "ପତ୍ର ତମ୍ବାଳିଆ ହୋଇ କୁଞ୍ଚିତ ହେବା, କାଣ୍ଡ କାଟି ପାଣିରେ ବୁଡ଼ାଇଲେ ଧଳା କ୍ଷୀର ଭଳି ବ୍ୟାକ୍ଟେରିଆ ବାହାରିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ginger_bacterial_wilt.jpg",
+          "alt": "Bacterial Wilt (Ralstonia pseudosolanacearum): Bronze curling of leaves, water-soaked dark collar, milky bacterial ooze in clear water. | ଅଦା ଜୀବାଣୁ ଝାଉଁଳା ରୋଗ: ପତ୍ର ତମ୍ବାଳିଆ ହୋଇ କୁଞ୍ଚିତ ହେବା, କାଣ୍ଡ କାଟି ପାଣିରେ ବୁଡ଼ାଇଲେ ଧଳା କ୍ଷୀର ଭଳି ବ୍ୟାକ୍ଟେରିଆ ବାହାରିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Canada. Agriculture, Department of; Canada. Dept. of Agriculture",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ginger_shoot_borer",
+      "aliases": [],
+      "crop_id": "ginger",
+      "crop_name_en": "Ginger (Ada)",
+      "crop_name_or": "ଅଦା (Ginger / Ada)",
+      "type": "pest",
+      "name_en": "Shoot Borer (Conogethes punctiferalis)",
+      "name_or": "ଅଦା କାଣ୍ଡବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Yellowing of central shoots with bore holes and extruded larval fecal pellets on stem.",
+      "symptoms_or": "କାଣ୍ଡରେ ଛୋଟ କଣା ହୋଇ ପୋକର ମଳ ବାହାରିବା, ମଝି ଡାଳ ଶୁଖିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ginger_shoot_borer.jpg",
+          "alt": "Shoot Borer (Conogethes punctiferalis): Yellowing of central shoots with bore holes and extruded larval fecal pellets on stem. | ଅଦା କାଣ୍ଡବିନ୍ଧା ପୋକ: କାଣ୍ଡରେ ଛୋଟ କଣା ହୋଇ ପୋକର ମଳ ବାହାରିବା, ମଝି ଡାଳ ଶୁଖିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Len Worthington",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "ginger_leaf_spot",
+      "aliases": [],
+      "crop_id": "ginger",
+      "crop_name_en": "Ginger (Ada)",
+      "crop_name_or": "ଅଦା (Ginger / Ada)",
+      "type": "disease",
+      "name_en": "Phyllosticta Leaf Spot (Phyllosticta zingiberi)",
+      "name_or": "ଅଦା ଫାଇଲୋଷ୍ଟିକ୍ଟା ପତ୍ରଚିତା ରୋଗ",
+      "symptoms_en": "Oval yellowish to white spots with reddish margin coalescing into large holes in leaf.",
+      "symptoms_or": "ପତ୍ରରେ ଧଳା-ହଳଦିଆ ଦାଗ ଓ ଚାରିପାଖେ ଲାଲ୍ ଘେର, ପତ୍ର କଣା କଣା ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/ginger_leaf_spot.jpg",
+          "alt": "Phyllosticta Leaf Spot (Phyllosticta zingiberi): Oval yellowish to white spots with reddish margin coalescing into large holes in leaf. | ଅଦା ଫାଇଲୋଷ୍ଟିକ୍ଟା ପତ୍ରଚିତା ରୋଗ: ପତ୍ରରେ ଧଳା-ହଳଦିଆ ଦାଗ ଓ ଚାରିପାଖେ ଲାଲ୍ ଘେର, ପତ୍ର କଣା କଣା ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Lamson-Scribner, F; Smith, Erwin F. (Erwin Frink), 1854-1927; Pearson, Alexander",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sugarcane_red_rot",
+      "aliases": [],
+      "crop_id": "sugarcane",
+      "crop_name_en": "Sugarcane (Akhu)",
+      "crop_name_or": "ଆଖୁ (Sugarcane / Akhu)",
+      "type": "disease",
+      "name_en": "Red Rot (Colletotrichum falcatum)",
+      "name_or": "ଆଖୁ ଲାଲ୍ ପଚା ରୋଗ (ମଦ ଗନ୍ଧ)",
+      "symptoms_en": "Third and fourth leaves wither, inner cane pith turns blood red with white transverse bands, sour alcoholic smell.",
+      "symptoms_or": "୩ୟ ଓ ୪ର୍ଥ ପତ୍ର ଶୁଖିବା, ଆଖୁ କାଣ୍ଡ ଭିତର ଲାଲ୍ ରକ୍ତ ଭଳି ହୋଇ ଧଳା ଗାର ପଡ଼ିବା ଓ ମଦ ଭଳି ଦୁର୍ଗନ୍ଧ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sugarcane_red_rot.jpg",
+          "alt": "Red Rot (Colletotrichum falcatum): Third and fourth leaves wither, inner cane pith turns blood red with white transverse bands, sour alcoholic smell. | ଆଖୁ ଲାଲ୍ ପଚା ରୋଗ (ମଦ ଗନ୍ଧ): ୩ୟ ଓ ୪ର୍ଥ ପତ୍ର ଶୁଖିବା, ଆଖୁ କାଣ୍ଡ ଭିତର ଲାଲ୍ ରକ୍ତ ଭଳି ହୋଇ ଧଳା ଗାର ପଡ଼ିବା ଓ ମଦ ଭଳି ଦୁର୍ଗନ୍ଧ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Didier Descouens",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sugarcane_early_shoot_borer",
+      "aliases": [],
+      "crop_id": "sugarcane",
+      "crop_name_en": "Sugarcane (Akhu)",
+      "crop_name_or": "ଆଖୁ (Sugarcane / Akhu)",
+      "type": "pest",
+      "name_en": "Early Shoot Borer (Chilo infuscatellus)",
+      "name_or": "ଆଖୁ ଆଗୁଆ କାଣ୍ଡବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Dead hearts in young shoots within 1-3 months of planting, dead heart pulls out easily with offensive odor.",
+      "symptoms_or": "ଚାରା ଆଖୁର ମଝି ଡାଳ ଶୁଖିଯିବା, ଟାଣିଲେ ସହଜରେ ବାହାରି ଆସିବା ଓ ଦୁର୍ଗନ୍ଧ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sugarcane_early_shoot_borer.jpg",
+          "alt": "Early Shoot Borer (Chilo infuscatellus): Dead hearts in young shoots within 1-3 months of planting, dead heart pulls out easily with offensive odor. | ଆଖୁ ଆଗୁଆ କାଣ୍ଡବିନ୍ଧା ପୋକ: ଚାରା ଆଖୁର ମଝି ଡାଳ ଶୁଖିଯିବା, ଟାଣିଲେ ସହଜରେ ବାହାରି ଆସିବା ଓ ଦୁର୍ଗନ୍ଧ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Cliff from Arlington, Virginia, USA",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sugarcane_pyrilla",
+      "aliases": [],
+      "crop_id": "sugarcane",
+      "crop_name_en": "Sugarcane (Akhu)",
+      "crop_name_or": "ଆଖୁ (Sugarcane / Akhu)",
+      "type": "pest",
+      "name_en": "Sugarcane Pyrilla / Leafhopper (Pyrilla perpusilla)",
+      "name_or": "ଆଖୁ ପାଇରିଲା ପୋକ (ପତ୍ରଡିଆଁ)",
+      "symptoms_en": "Nymphs and adults suck sap beneath leaves, secrete honeydew causing heavy black sooty mold.",
+      "symptoms_or": "ପତ୍ର ତଳେ ବସି ରସ ଶୋଷିବା, ଅଠାଳିଆ ମହୁ ଛାଡ଼ିବାରୁ ପତ୍ର କଳା ପାଉଁଶିଆ ହୋଇ ସୂର୍ଯ୍ୟାଲୋକ ବନ୍ଦ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sugarcane_pyrilla.jpg",
+          "alt": "Sugarcane Pyrilla / Leafhopper (Pyrilla perpusilla): Nymphs and adults suck sap beneath leaves, secrete honeydew causing heavy black sooty mold. | ଆଖୁ ପାଇରିଲା ପୋକ (ପତ୍ରଡିଆଁ): ପତ୍ର ତଳେ ବସି ରସ ଶୋଷିବା, ଅଠାଳିଆ ମହୁ ଛାଡ଼ିବାରୁ ପତ୍ର କଳା ପାଉଁଶିଆ ହୋଇ ସୂର୍ଯ୍ୟାଲୋକ ବନ୍ଦ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Bernard DUPONT from FRANCE",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "sugarcane_smut",
+      "aliases": [],
+      "crop_id": "sugarcane",
+      "crop_name_en": "Sugarcane (Akhu)",
+      "crop_name_or": "ଆଖୁ (Sugarcane / Akhu)",
+      "type": "disease",
+      "name_en": "Sugarcane Whip Smut (Sporisorium scitamineum)",
+      "name_or": "ଆଖୁ ଚାବୁକ ଅଙ୍ଗାରୁଆ ରୋଗ",
+      "symptoms_en": "Long curved black pencil-thick whip-like structure emerging from apex of cane stalk.",
+      "symptoms_or": "ଆଖୁ ଅଗରୁ ଲମ୍ବା ବଙ୍କା କଳା ଚାବୁକ ଭଳି ଅଙ୍ଗାରୁଆ ସଂରଚନା ବାହାରିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/sugarcane_smut.jpg",
+          "alt": "Sugarcane Whip Smut (Sporisorium scitamineum): Long curved black pencil-thick whip-like structure emerging from apex of cane stalk. | ଆଖୁ ଚାବୁକ ଅଙ୍ଗାରୁଆ ରୋଗ: ଆଖୁ ଅଗରୁ ଲମ୍ବା ବଙ୍କା କଳା ଚାବୁକ ଭଳି ଅଙ୍ଗାରୁଆ ସଂରଚନା ବାହାରିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "William M. Brown Jr., Bugwood",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "cotton_pink_bollworm",
+      "aliases": [],
+      "crop_id": "cotton",
+      "crop_name_en": "Cotton (Kapa)",
+      "crop_name_or": "କପା (Cotton / Kapa)",
+      "type": "pest",
+      "name_en": "Pink Bollworm (Pectinophora gossypiella)",
+      "name_or": "କପା ଗୋଲାପୀ ବଲ୍ଓ୍ୱାର୍ମ ପୋକ",
+      "symptoms_en": "Rosette flowers that fail to open, entry holes plugged in bolls, stained damaged lint.",
+      "symptoms_or": "କପା ଫୁଲ ଗୋଲାପ ଭଳି ବଙ୍କା ହୋଇ ରହିବା, ଡୋଡ଼ି ଭିତରେ କପା ନଷ୍ଟ ହୋଇ ଦାଗ ଲାଗିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/cotton_pink_bollworm.jpg",
+          "alt": "Pink Bollworm (Pectinophora gossypiella): Rosette flowers that fail to open, entry holes plugged in bolls, stained damaged lint. | କପା ଗୋଲାପୀ ବଲ୍ଓ୍ୱାର୍ମ ପୋକ: କପା ଫୁଲ ଗୋଲାପ ଭଳି ବଙ୍କା ହୋଇ ରହିବା, ଡୋଡ଼ି ଭିତରେ କପା ନଷ୍ଟ ହୋଇ ଦାଗ ଲାଗିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Mississippi State University Archive, Mississippi State University, Bugwood.org",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "cotton_whitefly",
+      "aliases": [],
+      "crop_id": "cotton",
+      "crop_name_en": "Cotton (Kapa)",
+      "crop_name_or": "କପା (Cotton / Kapa)",
+      "type": "pest",
+      "name_en": "Cotton Whitefly (Bemisia tabaci)",
+      "name_or": "କପା ଧଳାମାଛି (ଲିଫ୍ କର୍ଲ ବାହକ)",
+      "symptoms_en": "Nymphs suck sap beneath leaves, secreting honeydew causing black sooty mold and Leaf Curl Virus.",
+      "symptoms_or": "ପତ୍ର ତଳେ ଧଳାମାଛି ବସି ରସ ଶୋଷିବା, ପତ୍ର କୁଞ୍ଚିତ ହୋଇ ତଳେ କଳା ଫିମ୍ପି ମାଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/cotton_whitefly.jpg",
+          "alt": "Cotton Whitefly (Bemisia tabaci): Nymphs suck sap beneath leaves, secreting honeydew causing black sooty mold and Leaf Curl Virus. | କପା ଧଳାମାଛି (ଲିଫ୍ କର୍ଲ ବାହକ): ପତ୍ର ତଳେ ଧଳାମାଛି ବସି ରସ ଶୋଷିବା, ପତ୍ର କୁଞ୍ଚିତ ହୋଇ ତଳେ କଳା ଫିମ୍ପି ମାଡ଼ିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "cotton_bacterial_blight",
+      "aliases": [],
+      "crop_id": "cotton",
+      "crop_name_en": "Cotton (Kapa)",
+      "crop_name_or": "କପା (Cotton / Kapa)",
+      "type": "disease",
+      "name_en": "Bacterial Blight / Angular Leaf Spot (Xanthomonas citri pv. malvacearum)",
+      "name_or": "କପା ଜୀବାଣୁ ଜନିତ କୋଣିଆ ପତ୍ରପୋଡ଼ା (ବ୍ଲାକ୍ ଆର୍ମ)",
+      "symptoms_en": "Angular water-soaked spots bounded by veins on leaves, black arm cankers on branches and bolls.",
+      "symptoms_or": "ପତ୍ର ଶିରା ମଝିରେ କୋଣିଆ ଭିଜା ଭିଜା ଦାଗ, ଡାଳ ଓ ଡୋଡ଼ି ଉପରେ କଳା କ୍ଷତ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/cotton_bacterial_blight.jpg",
+          "alt": "Bacterial Blight / Angular Leaf Spot (Xanthomonas citri pv. malvacearum): Angular water-soaked spots bounded by veins on leaves, black arm cankers on branches and bolls. | କପା ଜୀବାଣୁ ଜନିତ କୋଣିଆ ପତ୍ରପୋଡ଼ା (ବ୍ଲାକ୍ ଆର୍ମ): ପତ୍ର ଶିରା ମଝିରେ କୋଣିଆ ଭିଜା ଭିଜା ଦାଗ, ଡାଳ ଓ ଡୋଡ଼ି ଉପରେ କଳା କ୍ଷତ।",
+          "licence": "CC BY 4.0",
+          "credit": "Aida Jalloul",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "cotton_magnesium_deficiency",
+      "aliases": [],
+      "crop_id": "cotton",
+      "crop_name_en": "Cotton (Kapa)",
+      "crop_name_or": "କପା (Cotton / Kapa)",
+      "type": "nutrient",
+      "name_en": "Magnesium Deficiency (Reddening of Cotton Leaves)",
+      "name_or": "ମ୍ୟାଗ୍ନେସିୟମ୍ ଅଭାବ (କପା ପତ୍ର ଲାଲ୍ ପଡ଼ିବା)",
+      "symptoms_en": "Interveinal reddening and purplish discoloration of mature leaves while veins stay green.",
+      "symptoms_or": "ପତ୍ର ଶିରା ସବୁଜ ଥାଇ ମଝି ଭାଗ ଲାଲ୍ ବା ବାଇଗଣୀ ରଙ୍ଗ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/cotton_magnesium_deficiency.jpg",
+          "alt": "Magnesium Deficiency (Reddening of Cotton Leaves): Interveinal reddening and purplish discoloration of mature leaves while veins stay green. | ମ୍ୟାଗ୍ନେସିୟମ୍ ଅଭାବ (କପା ପତ୍ର ଲାଲ୍ ପଡ଼ିବା): ପତ୍ର ଶିରା ସବୁଜ ଥାଇ ମଝି ଭାଗ ଲାଲ୍ ବା ବାଇଗଣୀ ରଙ୍ଗ ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Eiku en exil",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "paan_foot_rot",
+      "aliases": [],
+      "crop_id": "betel_vine",
+      "crop_name_en": "Betel Vine (Paan / Paana)",
+      "crop_name_or": "ପାନ (Betel Vine / Paana)",
+      "type": "disease",
+      "name_en": "Foot Rot & Leaf Rot (Phytophthora parasitica var. piperina)",
+      "name_or": "ପାନ ପଚା ରୋଗ (ଫାଇଟୋପଥୋରା)",
+      "symptoms_en": "Black slimy rot at collar base, oily dark circular spots on leaves spreading rapidly.",
+      "symptoms_or": "ପାନ ଡାଳ ମୂଳରେ କଳା ଚିକ୍କଣ ପଚା, ପାନ ପତ୍ରରେ ତେଲିଆ କଳା ଦାଗ ହୋଇ ସବୁ ପତ୍ର ପଚିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paan_foot_rot.jpg",
+          "alt": "Foot Rot & Leaf Rot (Phytophthora parasitica var. piperina): Black slimy rot at collar base, oily dark circular spots on leaves spreading rapidly. | ପାନ ପଚା ରୋଗ (ଫାଇଟୋପଥୋରା): ପାନ ଡାଳ ମୂଳରେ କଳା ଚିକ୍କଣ ପଚା, ପାନ ପତ୍ରରେ ତେଲିଆ କଳା ଦାଗ ହୋଇ ସବୁ ପତ୍ର ପଚିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Pennsylvania. Dept. of Forestry",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "paan_bacterial_leaf_spot",
+      "aliases": [],
+      "crop_id": "betel_vine",
+      "crop_name_en": "Betel Vine (Paan / Paana)",
+      "crop_name_or": "ପାନ (Betel Vine / Paana)",
+      "type": "disease",
+      "name_en": "Bacterial Leaf Spot & Stem Canker (Xanthomonas campestris pv. betlicola)",
+      "name_or": "ପାନ ଜୀବାଣୁ ଜନିତ ପତ୍ରଚିତା ରୋଗ",
+      "symptoms_en": "Tiny water-soaked spots on leaves surrounded by diffuse yellow halo, turning brown necrotic.",
+      "symptoms_or": "ପାନ ଉପରେ ହଳଦିଆ ଘେର ବିଶିଷ୍ଟ ଛୋଟ ଛୋଟ କଳା ଚିତା ଦାଗ, ପତ୍ର ବିକ୍ରି ଯୋଗ୍ୟ ରହେ ନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paan_bacterial_leaf_spot.jpg",
+          "alt": "Bacterial Leaf Spot & Stem Canker (Xanthomonas campestris pv. betlicola): Tiny water-soaked spots on leaves surrounded by diffuse yellow halo, turning brown necrotic. | ପାନ ଜୀବାଣୁ ଜନିତ ପତ୍ରଚିତା ରୋଗ: ପାନ ଉପରେ ହଳଦିଆ ଘେର ବିଶିଷ୍ଟ ଛୋଟ ଛୋଟ କଳା ଚିତା ଦାଗ, ପତ୍ର ବିକ୍ରି ଯୋଗ୍ୟ ରହେ ନାହିଁ।",
+          "licence": "CC BY 4.0",
+          "credit": "Wajira",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "paan_root_knot_nematode",
+      "aliases": [],
+      "crop_id": "betel_vine",
+      "crop_name_en": "Betel Vine (Paan / Paana)",
+      "crop_name_or": "ପାନ (Betel Vine / Paana)",
+      "type": "nematode",
+      "name_en": "Betel Vine Root Knot Nematode (Meloidogyne incognita)",
+      "name_or": "ପାନ ଗଣ୍ଠି ଚେର କୃମି ରୋଗ",
+      "symptoms_en": "Swelling and galls on roots, pale stunted vines with small crinkled yellow leaves.",
+      "symptoms_or": "ପାନ ଚେରରେ ବହୁତ ଗଣ୍ଠି ହେବା, ପାନ ଗଛ ବଢ଼େ ନାହିଁ ଓ ପତ୍ର ଛୋଟ ହଳଦିଆ ପଡ଼ିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paan_root_knot_nematode.jpg",
+          "alt": "Betel Vine Root Knot Nematode (Meloidogyne incognita): Swelling and galls on roots, pale stunted vines with small crinkled yellow leaves. | ପାନ ଗଣ୍ଠି ଚେର କୃମି ରୋଗ: ପାନ ଚେରରେ ବହୁତ ଗଣ୍ଠି ହେବା, ପାନ ଗଛ ବଢ଼େ ନାହିଁ ଓ ପତ୍ର ଛୋଟ ହଳଦିଆ ପଡ଼ିଯାଏ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "paan_scale_insects",
+      "aliases": [],
+      "crop_id": "betel_vine",
+      "crop_name_en": "Betel Vine (Paan / Paana)",
+      "crop_name_or": "ପାନ (Betel Vine / Paana)",
+      "type": "pest",
+      "name_en": "Scale Insects & Mealybugs (Lepidosaphes cornutus)",
+      "name_or": "ପାନ କାତିପୋକ ଓ ଧଳା ପୋକ",
+      "symptoms_en": "Minute mussel-shaped scales encrusting nodes and stems, sucking sap causing vine shrivelling.",
+      "symptoms_or": "ପାନ କାଣ୍ଡ ଓ ଗଣ୍ଠି ଉପରେ କାତି ଭଳି ପୋକ ଜମି ରସ ଶୋଷି ଗଛ ଶୁଖାଇ ଦିଅନ୍ତି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/paan_scale_insects.jpg",
+          "alt": "Scale Insects & Mealybugs (Lepidosaphes cornutus): Minute mussel-shaped scales encrusting nodes and stems, sucking sap causing vine shrivelling. | ପାନ କାତିପୋକ ଓ ଧଳା ପୋକ: ପାନ କାଣ୍ଡ ଓ ଗଣ୍ଠି ଉପରେ କାତି ଭଳି ପୋକ ଜମି ରସ ଶୋଷି ଗଛ ଶୁଖାଇ ଦିଅନ୍ତି।",
+          "licence": "CC BY 4.0",
+          "credit": "Thamizhpparithi Maari",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "marigold_collar_rot",
+      "aliases": [],
+      "crop_id": "marigold",
+      "crop_name_en": "Marigold (Gendei / Genda)",
+      "crop_name_or": "ଗେଣ୍ଡୁ ଫୁଲ (Marigold / Gendei)",
+      "type": "disease",
+      "name_en": "Collar Rot & Damping Off (Phytophthora cryptogea)",
+      "name_or": "ଗେଣ୍ଡୁ ମୂଳପଚା ରୋଗ (ଢଳିପଡ଼ିବା)",
+      "symptoms_en": "Collar turns brown-black, rots at ground level, plants topple and wilt rapidly.",
+      "symptoms_or": "ମାଟି ପାଖ କାଣ୍ଡ କଳା ପଡ଼ି ପଚିଯିବା ଓ ଗଛ ହଠାତ୍ ଢଳି ପଡ଼ି ମରିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/marigold_collar_rot.jpg",
+          "alt": "Collar Rot & Damping Off (Phytophthora cryptogea): Collar turns brown-black, rots at ground level, plants topple and wilt rapidly. | ଗେଣ୍ଡୁ ମୂଳପଚା ରୋଗ (ଢଳିପଡ଼ିବା): ମାଟି ପାଖ କାଣ୍ଡ କଳା ପଡ଼ି ପଚିଯିବା ଓ ଗଛ ହଠାତ୍ ଢଳି ପଡ଼ି ମରିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Karel Černý",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "marigold_bud_borer",
+      "aliases": [],
+      "crop_id": "marigold",
+      "crop_name_en": "Marigold (Gendei / Genda)",
+      "crop_name_or": "ଗେଣ୍ଡୁ ଫୁଲ (Marigold / Gendei)",
+      "type": "pest",
+      "name_en": "Gram Pod Borer / Bud Borer (Helicoverpa armigera)",
+      "name_or": "ଗେଣ୍ଡୁ କଢ଼ ଓ ଫୁଲବିନ୍ଧା ପୋକ",
+      "symptoms_en": "Caterpillars bore holes into flower buds and eat petal bases preventing flower blooming.",
+      "symptoms_or": "ପୋକ ଫୁଲ କଢ଼ କଣା କରି ଭିତର ପାଖୁଡ଼ା ଖାଇଯାଏ, ଫୁଲ ଫୁଟେ ନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/marigold_bud_borer.jpg",
+          "alt": "Gram Pod Borer / Bud Borer (Helicoverpa armigera): Caterpillars bore holes into flower buds and eat petal bases preventing flower blooming. | ଗେଣ୍ଡୁ କଢ଼ ଓ ଫୁଲବିନ୍ଧା ପୋକ: ପୋକ ଫୁଲ କଢ଼ କଣା କରି ଭିତର ପାଖୁଡ଼ା ଖାଇଯାଏ, ଫୁଲ ଫୁଟେ ନାହିଁ।",
+          "licence": "CC BY 4.0",
+          "credit": "Ilia Ustyantsev from Russia",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "marigold_leaf_spot",
+      "aliases": [],
+      "crop_id": "marigold",
+      "crop_name_en": "Marigold (Gendei / Genda)",
+      "crop_name_or": "ଗେଣ୍ଡୁ ଫୁଲ (Marigold / Gendei)",
+      "type": "disease",
+      "name_en": "Alternaria Leaf Spot & Flower Blight (Alternaria tagetica)",
+      "name_or": "ଗେଣ୍ଡୁ ପତ୍ରଚିତା ଓ ଫୁଲପୋଡ଼ା ରୋଗ",
+      "symptoms_en": "Circular brownish-black spots on leaves and petal tips turning brown dry paper.",
+      "symptoms_or": "ପତ୍ର ଓ ଫୁଲ ପାଖୁଡ଼ାରେ କଳା-ବାଦାମୀ ଦାଗ ହୋଇ ଶୁଖି କାଗଜ ଭଳି ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/marigold_leaf_spot.jpg",
+          "alt": "Alternaria Leaf Spot & Flower Blight (Alternaria tagetica): Circular brownish-black spots on leaves and petal tips turning brown dry paper. | ଗେଣ୍ଡୁ ପତ୍ରଚିତା ଓ ଫୁଲପୋଡ଼ା ରୋଗ: ପତ୍ର ଓ ଫୁଲ ପାଖୁଡ଼ାରେ କଳା-ବାଦାମୀ ଦାଗ ହୋଇ ଶୁଖି କାଗଜ ଭଳି ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "GrahamInHorsham",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "marigold_red_spider_mite",
+      "aliases": [],
+      "crop_id": "marigold",
+      "crop_name_en": "Marigold (Gendei / Genda)",
+      "crop_name_or": "ଗେଣ୍ଡୁ ଫୁଲ (Marigold / Gendei)",
+      "type": "pest",
+      "name_en": "Red Spider Mite (Tetranychus urticae)",
+      "name_or": "ଗେଣ୍ଡୁ ଲାଲ୍ ମାକୁଡ଼ି ପୋକ (ମାଇଟ୍)",
+      "symptoms_en": "Fine silken webbing on leaf underside, yellow stippling turning bronze and drying.",
+      "symptoms_or": "ପତ୍ର ତଳେ ସୂକ୍ଷ୍ମ ଜାଲ କରି ରସ ଶୋଷିବା, ପତ୍ର ତମ୍ବାଳିଆ ପଡ଼ି ଶୁଖିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/marigold_red_spider_mite.jpg",
+          "alt": "Red Spider Mite (Tetranychus urticae): Fine silken webbing on leaf underside, yellow stippling turning bronze and drying. | ଗେଣ୍ଡୁ ଲାଲ୍ ମାକୁଡ଼ି ପୋକ (ମାଇଟ୍): ପତ୍ର ତଳେ ସୂକ୍ଷ୍ମ ଜାଲ କରି ରସ ଶୋଷିବା, ପତ୍ର ତମ୍ବାଳିଆ ପଡ଼ି ଶୁଖିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Gilles San Martin",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "rose_dieback",
+      "aliases": [],
+      "crop_id": "rose",
+      "crop_name_en": "Rose (Golapa)",
+      "crop_name_or": "ଗୋଲାପ (Rose / Golapa)",
+      "type": "disease",
+      "name_en": "Rose Dieback (Diplodia rosarum / Colletotrichum)",
+      "name_or": "ଗୋଲାପ ଡାଇବ୍ୟାକ୍ (ଡାଳ ଉପରୁ ତଳକୁ ଶୁଖିବା)",
+      "symptoms_en": "Pruned canes turn black from cut ends downwards into rootstock, plant dies.",
+      "symptoms_or": "ଛଟେଇ ପରେ ଡାଳ ଅଗରୁ କଳା ପଡ଼ି ତଳକୁ ଶୁଖିଯିବା ଓ ଗଛ ମରିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/rose_dieback.jpg",
+          "alt": "Rose Dieback (Diplodia rosarum / Colletotrichum): Pruned canes turn black from cut ends downwards into rootstock, plant dies. | ଗୋଲାପ ଡାଇବ୍ୟାକ୍ (ଡାଳ ଉପରୁ ତଳକୁ ଶୁଖିବା): ଛଟେଇ ପରେ ଡାଳ ଅଗରୁ କଳା ପଡ଼ି ତଳକୁ ଶୁଖିଯିବା ଓ ଗଛ ମରିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Forest and Kim Starr",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "rose_black_spot",
+      "aliases": [],
+      "crop_id": "rose",
+      "crop_name_en": "Rose (Golapa)",
+      "crop_name_or": "ଗୋଲାପ (Rose / Golapa)",
+      "type": "disease",
+      "name_en": "Rose Black Spot (Diplocarpon rosae)",
+      "name_or": "ଗୋଲାପ କଳା ଚିତା ରୋଗ (ବ୍ଲାକ୍ ସ୍ପଟ୍)",
+      "symptoms_en": "Circular black spots with feathery fringed margins on upper leaf surface, severe defoliation.",
+      "symptoms_or": "ପତ୍ର ଉପରେ ଚିରା ଚିରା ଧାର ଥିବା କଳା ଗୋଲ ଦାଗ, ପତ୍ର ହଳଦିଆ ହୋଇ ସବୁ ଝଡ଼ିପଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/rose_black_spot.jpg",
+          "alt": "Rose Black Spot (Diplocarpon rosae): Circular black spots with feathery fringed margins on upper leaf surface, severe defoliation. | ଗୋଲାପ କଳା ଚିତା ରୋଗ (ବ୍ଲାକ୍ ସ୍ପଟ୍): ପତ୍ର ଉପରେ ଚିରା ଚିରା ଧାର ଥିବା କଳା ଗୋଲ ଦାଗ, ପତ୍ର ହଳଦିଆ ହୋଇ ସବୁ ଝଡ଼ିପଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Stephen James McWilliam",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "rose_thrips",
+      "aliases": [],
+      "crop_id": "rose",
+      "crop_name_en": "Rose (Golapa)",
+      "crop_name_or": "ଗୋଲାପ (Rose / Golapa)",
+      "type": "pest",
+      "name_en": "Rose Thrips (Frankliniella occidentalis / Scirtothrips)",
+      "name_or": "ଗୋଲାପ ଚିପୁଡ଼ା ପୋକ (ଫୁଲ ପାଖୁଡ଼ା କଳା ପଡ଼ିବା)",
+      "symptoms_en": "Petal edges turn brownish black and crisp, distorted crinkled flower buds that fail to open.",
+      "symptoms_or": "ଫୁଲ ପାଖୁଡ଼ା ଧାର କଳା ପଡ଼ି ପୋଡ଼ିଗଲା ଭଳି ହେବା, କଢ଼ ଫୁଟିବା ଆଗରୁ ବିକୃତ ହୋଇ ଶୁଖିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/rose_thrips.jpg",
+          "alt": "Rose Thrips (Frankliniella occidentalis / Scirtothrips): Petal edges turn brownish black and crisp, distorted crinkled flower buds that fail to open. | ଗୋଲାପ ଚିପୁଡ଼ା ପୋକ (ଫୁଲ ପାଖୁଡ଼ା କଳା ପଡ଼ିବା): ଫୁଲ ପାଖୁଡ଼ା ଧାର କଳା ପଡ଼ି ପୋଡ଼ିଗଲା ଭଳି ହେବା, କଢ଼ ଫୁଟିବା ଆଗରୁ ବିକୃତ ହୋଇ ଶୁଖିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Ng YF, Zaimi JS (2018) The economically important thrips from Malaysia, with a k",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "rose_powdery_mildew",
+      "aliases": [],
+      "crop_id": "rose",
+      "crop_name_en": "Rose (Golapa)",
+      "crop_name_or": "ଗୋଲାପ (Rose / Golapa)",
+      "type": "disease",
+      "name_en": "Powdery Mildew of Rose (Podosphaera pannosa)",
+      "name_or": "ଗୋଲାପ ଧଳା ପାଉଁଶିଆ ରୋଗ",
+      "symptoms_en": "Powdery white talcum powder coating on young leaves, curled shoots and distorted flower buds.",
+      "symptoms_or": "କଅଁଳ ପତ୍ର ଓ କଢ଼ ଉପରେ ଧଳା ପାଉଡର କବକ, ପତ୍ର ବଙ୍କା ଟଙ୍କା ହୋଇ ମୋଡ଼ି ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/rose_powdery_mildew.jpg",
+          "alt": "Powdery Mildew of Rose (Podosphaera pannosa): Powdery white talcum powder coating on young leaves, curled shoots and distorted flower buds. | ଗୋଲାପ ଧଳା ପାଉଁଶିଆ ରୋଗ: କଅଁଳ ପତ୍ର ଓ କଢ଼ ଉପରେ ଧଳା ପାଉଡର କବକ, ପତ୍ର ବଙ୍କା ଟଙ୍କା ହୋଇ ମୋଡ଼ି ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Clemson University - USDA Cooperative Extension Slide Series, , United States",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "indoor_root_rot",
+      "aliases": [],
+      "crop_id": "indoor_plants",
+      "crop_name_en": "Indoor & Foliage Plants (Monstera / Money Plant / Areca)",
+      "crop_name_or": "ଘର ଭିତର ଶୋଭାବର୍ଦ୍ଧକ ଗଛ (ମନି ପ୍ଲାଣ୍ଟ / ଆରେକା ପାମ)",
+      "type": "disease",
+      "name_en": "Overwatering Root Rot (Pythium / Phytophthora spp.)",
+      "name_or": "ଅତ୍ୟଧିକ ପାଣିରୁ ଚେରପଚା ରୋଗ (ରୁଟ୍ ରଟ୍)",
+      "symptoms_en": "Yellow drooping soft leaves, potting soil stays soggy with sour odor, roots black and mushy.",
+      "symptoms_or": "ପତ୍ର ହଳଦିଆ ହୋଇ ନଇଁ ପଡ଼ିବା, କୁଣ୍ଡ ମାଟି ସବୁବେଳେ କାଦୁଆ ରହି ଚେର କଳା ନରମ ହୋଇ ପଚିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/indoor_root_rot.jpg",
+          "alt": "Overwatering Root Rot (Pythium / Phytophthora spp.): Yellow drooping soft leaves, potting soil stays soggy with sour odor, roots black and mushy. | ଅତ୍ୟଧିକ ପାଣିରୁ ଚେରପଚା ରୋଗ (ରୁଟ୍ ରଟ୍): ପତ୍ର ହଳଦିଆ ହୋଇ ନଇଁ ପଡ଼ିବା, କୁଣ୍ଡ ମାଟି ସବୁବେଳେ କାଦୁଆ ରହି ଚେର କଳା ନରମ ହୋଇ ପଚିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "indoor_mealybug",
+      "aliases": [],
+      "crop_id": "indoor_plants",
+      "crop_name_en": "Indoor & Foliage Plants (Monstera / Money Plant / Areca)",
+      "crop_name_or": "ଘର ଭିତର ଶୋଭାବର୍ଦ୍ଧକ ଗଛ (ମନି ପ୍ଲାଣ୍ଟ / ଆରେକା ପାମ)",
+      "type": "pest",
+      "name_en": "Houseplant Mealybug (Pseudococcus viburni)",
+      "name_or": "ଶୋଭାବର୍ଦ୍ଧକ ଗଛ ଧଳା ତୁଳା ପୋକ (ମିଲିବଗ୍)",
+      "symptoms_en": "Cottony white sticky residue in leaf axils, yellowing leaf curl, honeydew excretion.",
+      "symptoms_or": "ପତ୍ର କୋଣରେ ତୁଳା ଭଳି ଧଳା ପୋକ ଜମି ରହିବା, ପତ୍ର ଅଠାଳିଆ ହୋଇ କୁଞ୍ଚିତ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/indoor_mealybug.jpg",
+          "alt": "Houseplant Mealybug (Pseudococcus viburni): Cottony white sticky residue in leaf axils, yellowing leaf curl, honeydew excretion. | ଶୋଭାବର୍ଦ୍ଧକ ଗଛ ଧଳା ତୁଳା ପୋକ (ମିଲିବଗ୍): ପତ୍ର କୋଣରେ ତୁଳା ଭଳି ଧଳା ପୋକ ଜମି ରହିବା, ପତ୍ର ଅଠାଳିଆ ହୋଇ କୁଞ୍ଚିତ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Bachelot Pierre J-P",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "indoor_spider_mites",
+      "aliases": [],
+      "crop_id": "indoor_plants",
+      "crop_name_en": "Indoor & Foliage Plants (Monstera / Money Plant / Areca)",
+      "crop_name_or": "ଘର ଭିତର ଶୋଭାବର୍ଦ୍ଧକ ଗଛ (ମନି ପ୍ଲାଣ୍ଟ / ଆରେକା ପାମ)",
+      "type": "pest",
+      "name_en": "Two-Spotted Spider Mite (Tetranychus urticae)",
+      "name_or": "ଘର ଗଛ ଲାଲ୍-ହଳଦିଆ ମାଇଟ୍ (ଜାଲ ବୁଣିବା)",
+      "symptoms_en": "Dusty fine cobwebs between leaf stalks, yellow flecking, bleached dry foliage.",
+      "symptoms_or": "ପତ୍ର ମଝିରେ ସୂକ୍ଷ୍ମ ବୁଢ଼ିଆଣୀ ଜାଲ, ପତ୍ର ଉପରେ ଛୋଟ ଛୋଟ ହଳଦିଆ ବିନ୍ଦୁ ଦାଗ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/indoor_spider_mites.jpg",
+          "alt": "Two-Spotted Spider Mite (Tetranychus urticae): Dusty fine cobwebs between leaf stalks, yellow flecking, bleached dry foliage. | ଘର ଗଛ ଲାଲ୍-ହଳଦିଆ ମାଇଟ୍ (ଜାଲ ବୁଣିବା): ପତ୍ର ମଝିରେ ସୂକ୍ଷ୍ମ ବୁଢ଼ିଆଣୀ ଜାଲ, ପତ୍ର ଉପରେ ଛୋଟ ଛୋଟ ହଳଦିଆ ବିନ୍ଦୁ ଦାଗ।",
+          "licence": "CC BY 4.0",
+          "credit": "Desmond W. Helmore",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "indoor_leaf_tip_burn",
+      "aliases": [],
+      "crop_id": "indoor_plants",
+      "crop_name_en": "Indoor & Foliage Plants (Monstera / Money Plant / Areca)",
+      "crop_name_or": "ଘର ଭିତର ଶୋଭାବର୍ଦ୍ଧକ ଗଛ (ମନି ପ୍ଲାଣ୍ଟ / ଆରେକା ପାମ)",
+      "type": "nutrient",
+      "name_en": "Fluoride / Salt Burn / Low Humidity Tip Burn",
+      "name_or": "ପତ୍ର ଅଗ ପୋଡ଼ିବା (ଲୁଣିଆ ପାଣି ଓ କମ୍ ଆର୍ଦ୍ରତା)",
+      "symptoms_en": "Dry crispy brown leaf tips and margins due to tap water chlorine/salts or dry AC air.",
+      "symptoms_or": "କାଚ କଲମି ବା ଟ୍ୟାପ୍ ପାଣିରେ ଲୁଣ ଅଂଶ ଯୋଗୁଁ ପତ୍ରର ଅଗ ଶୁଖି କାଠୁଆ ବାଦାମୀ ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/indoor_leaf_tip_burn.jpg",
+          "alt": "Fluoride / Salt Burn / Low Humidity Tip Burn: Dry crispy brown leaf tips and margins due to tap water chlorine/salts or dry AC air. | ପତ୍ର ଅଗ ପୋଡ଼ିବା (ଲୁଣିଆ ପାଣି ଓ କମ୍ ଆର୍ଦ୍ରତା): କାଚ କଲମି ବା ଟ୍ୟାପ୍ ପାଣିରେ ଲୁଣ ଅଂଶ ଯୋଗୁଁ ପତ୍ରର ଅଗ ଶୁଖି କାଠୁଆ ବାଦାମୀ ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Rock Candy Mtn",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tulsi_leaf_spot",
+      "aliases": [],
+      "crop_id": "tulsi",
+      "crop_name_en": "Holy Basil (Tulsi)",
+      "crop_name_or": "ତୁଳସୀ (Tulsi)",
+      "type": "disease",
+      "name_en": "Tulsi Cercospora Leaf Spot (Cercospora ocimicola)",
+      "name_or": "ତୁଳସୀ ପତ୍ରଚିତା ରୋଗ",
+      "symptoms_en": "Dark brown to black angular necrotic spots on leaves leading to defoliation.",
+      "symptoms_or": "ତୁଳସୀ ପତ୍ରରେ ଛୋଟ ଛୋଟ କଳା-ବାଦାମୀ ଦାଗ ହୋଇ ପତ୍ର ହଳଦିଆ ପଡ଼ି ଝଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tulsi_leaf_spot.jpg",
+          "alt": "Tulsi Cercospora Leaf Spot (Cercospora ocimicola): Dark brown to black angular necrotic spots on leaves leading to defoliation. | ତୁଳସୀ ପତ୍ରଚିତା ରୋଗ: ତୁଳସୀ ପତ୍ରରେ ଛୋଟ ଛୋଟ କଳା-ବାଦାମୀ ଦାଗ ହୋଇ ପତ୍ର ହଳଦିଆ ପଡ଼ି ଝଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Suyash.dwivedi",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tulsi_powdery_mildew",
+      "aliases": [],
+      "crop_id": "tulsi",
+      "crop_name_en": "Holy Basil (Tulsi)",
+      "crop_name_or": "ତୁଳସୀ (Tulsi)",
+      "type": "disease",
+      "name_en": "Powdery Mildew of Basil (Oidium spp.)",
+      "name_or": "ତୁଳସୀ ଧଳା ପାଉଁଶିଆ ରୋଗ",
+      "symptoms_en": "Floury white powdery fungal growth on leaves and inflorescence manjari.",
+      "symptoms_or": "ତୁଳସୀ ପତ୍ର ଓ ମଞ୍ଜରୀ ଉପରେ ଧଳା ପାଉଡର ଭଳି କବକ ମାଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tulsi_powdery_mildew.jpg",
+          "alt": "Powdery Mildew of Basil (Oidium spp.): Floury white powdery fungal growth on leaves and inflorescence manjari. | ତୁଳସୀ ଧଳା ପାଉଁଶିଆ ରୋଗ: ତୁଳସୀ ପତ୍ର ଓ ମଞ୍ଜରୀ ଉପରେ ଧଳା ପାଉଡର ଭଳି କବକ ମାଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "carrotmadman6 from Mauritius",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tulsi_lace_wing_bug",
+      "aliases": [],
+      "crop_id": "tulsi",
+      "crop_name_en": "Holy Basil (Tulsi)",
+      "crop_name_or": "ତୁଳସୀ (Tulsi)",
+      "type": "pest",
+      "name_en": "Basil Lace Bug (Cochlochila bullita)",
+      "name_or": "ତୁଳସୀ ଲେସ୍ ୱିଙ୍ଗ୍ ପୋକ (ଜାଲି ଡେଣା ପୋକ)",
+      "symptoms_en": "Leaves turn bleached, yellow speckled with black tar-like varnish fecal spots underneath.",
+      "symptoms_or": "ପତ୍ରର ତଳେ କଳା ଅଠାଳିଆ ମଳ ବିନ୍ଦୁ ଦାଗ, ପତ୍ର ଫିକା ହଳଦିଆ ହୋଇ ଶୁଖିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tulsi_lace_wing_bug.jpg",
+          "alt": "Basil Lace Bug (Cochlochila bullita): Leaves turn bleached, yellow speckled with black tar-like varnish fecal spots underneath. | ତୁଳସୀ ଲେସ୍ ୱିଙ୍ଗ୍ ପୋକ (ଜାଲି ଡେଣା ପୋକ): ପତ୍ରର ତଳେ କଳା ଅଠାଳିଆ ମଳ ବିନ୍ଦୁ ଦାଗ, ପତ୍ର ଫିକା ହଳଦିଆ ହୋଇ ଶୁଖିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Bedant Gupta 01",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "tulsi_root_rot",
+      "aliases": [],
+      "crop_id": "tulsi",
+      "crop_name_en": "Holy Basil (Tulsi)",
+      "crop_name_or": "ତୁଳସୀ (Tulsi)",
+      "type": "disease",
+      "name_en": "Root Rot / Damping Off (Rhizoctonia solani)",
+      "name_or": "ତୁଳସୀ ଚେରପଚା ରୋଗ (ଢଳିବା)",
+      "symptoms_en": "Dark brown constricted lesions at stem base, plant suddenly wilts with shredded rotten roots.",
+      "symptoms_or": "କାଣ୍ଡ ମୂଳରେ କଳା ଦାଗ ହୋଇ ଗଛ ଢଳି ପଡ଼ିବା, ଚେର ନଷ୍ଟ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/tulsi_root_rot.jpg",
+          "alt": "Root Rot / Damping Off (Rhizoctonia solani): Dark brown constricted lesions at stem base, plant suddenly wilts with shredded rotten roots. | ତୁଳସୀ ଚେରପଚା ରୋଗ (ଢଳିବା): କାଣ୍ଡ ମୂଳରେ କଳା ଦାଗ ହୋଇ ଗଛ ଢଳି ପଡ଼ିବା, ଚେର ନଷ୍ଟ ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Ninjatacoshell",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "aloe_soft_rot",
+      "aliases": [],
+      "crop_id": "aloe_vera",
+      "crop_name_en": "Aloe Vera (Ghirita Kumari)",
+      "crop_name_or": "ଘିକୁଆଁରୀ (Aloe Vera / Ghirita Kumari)",
+      "type": "disease",
+      "name_en": "Bacterial Soft Rot (Pectobacterium chrysanthemi)",
+      "name_or": "ଘିକୁଆଁରୀ ଜୀବାଣୁ ଜନିତ ନରମ ପଚା ରୋଗ",
+      "symptoms_en": "Water-soaked soft mushy rot starting at leaf bases with pungent foul odor, leaf collapses into gel mush.",
+      "symptoms_or": "ପତ୍ର ମୂଳ ନରମ ହୋଇ ପଚି ଦୁର୍ଗନ୍ଧ ହେବା, ପତ୍ର ତରଳ ଜେଲ୍ ଭଳି ଗଳି ପଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/aloe_soft_rot.jpg",
+          "alt": "Bacterial Soft Rot (Pectobacterium chrysanthemi): Water-soaked soft mushy rot starting at leaf bases with pungent foul odor, leaf collapses into gel mush. | ଘିକୁଆଁରୀ ଜୀବାଣୁ ଜନିତ ନରମ ପଚା ରୋଗ: ପତ୍ର ମୂଳ ନରମ ହୋଇ ପଚି ଦୁର୍ଗନ୍ଧ ହେବା, ପତ୍ର ତରଳ ଜେଲ୍ ଭଳି ଗଳି ପଡ଼ିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "aloe_anthracnose",
+      "aliases": [],
+      "crop_id": "aloe_vera",
+      "crop_name_en": "Aloe Vera (Ghirita Kumari)",
+      "crop_name_or": "ଘିକୁଆଁରୀ (Aloe Vera / Ghirita Kumari)",
+      "type": "disease",
+      "name_en": "Aloe Leaf Spot & Anthracnose (Colletotrichum gloeosporioides)",
+      "name_or": "ଘିକୁଆଁରୀ ପତ୍ର କଳାଜାମୁଆ ରୋଗ",
+      "symptoms_en": "Circular sunken dark brown to black spots with orange-red fungal margins on thick fleshy leaves.",
+      "symptoms_or": "ମୋଟା ପତ୍ର ଉପରେ କଳା ଗୋଲାକାର ଖାଲୁଆ ଦାଗ ଓ ନାଲିଆ ଘେର।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/aloe_anthracnose.jpg",
+          "alt": "Aloe Leaf Spot & Anthracnose (Colletotrichum gloeosporioides): Circular sunken dark brown to black spots with orange-red fungal margins on thick fleshy leaves. | ଘିକୁଆଁରୀ ପତ୍ର କଳାଜାମୁଆ ରୋଗ: ମୋଟା ପତ୍ର ଉପରେ କଳା ଗୋଲାକାର ଖାଲୁଆ ଦାଗ ଓ ନାଲିଆ ଘେର।",
+          "licence": "CC BY 4.0",
+          "credit": "Glysiak",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "aloe_scale_insect",
+      "aliases": [],
+      "crop_id": "aloe_vera",
+      "crop_name_en": "Aloe Vera (Ghirita Kumari)",
+      "crop_name_or": "ଘିକୁଆଁରୀ (Aloe Vera / Ghirita Kumari)",
+      "type": "pest",
+      "name_en": "Aloe White Scale (Duplachionaspis divergens)",
+      "name_or": "ଘିକୁଆଁରୀ ଧଳା କାତିପୋକ",
+      "symptoms_en": "Dense white crusts of tiny scales covering the fleshy green leaves sucking sap, yellowing.",
+      "symptoms_or": "ପତ୍ର ଉପରେ ଚୁନ ଭଳି ଧଳା କାତି ପୋକ ଜମି ରସ ଶୋଷିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/aloe_scale_insect.jpg",
+          "alt": "Aloe White Scale (Duplachionaspis divergens): Dense white crusts of tiny scales covering the fleshy green leaves sucking sap, yellowing. | ଘିକୁଆଁରୀ ଧଳା କାତିପୋକ: ପତ୍ର ଉପରେ ଚୁନ ଭଳି ଧଳା କାତି ପୋକ ଜମି ରସ ଶୋଷିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Rae Allen",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "aloe_sunburn",
+      "aliases": [],
+      "crop_id": "aloe_vera",
+      "crop_name_en": "Aloe Vera (Ghirita Kumari)",
+      "crop_name_or": "ଘିକୁଆଁରୀ (Aloe Vera / Ghirita Kumari)",
+      "type": "nutrient",
+      "name_en": "Sunburn & Red/Brown Stress (Anthocyanin buildup)",
+      "name_or": "ଅତ୍ୟଧିକ ଖରାରୁ ଲାଲ୍-ବାଦାମୀ ପଡ଼ିବା",
+      "symptoms_en": "Leaves turn copper-red or brown with thinned wrinkled tips due to sudden harsh sun and drought.",
+      "symptoms_or": "ଟାଣ ଖରାରେ ପତ୍ର ତମ୍ବାଳିଆ ଲାଲ୍ କିମ୍ବା ବାଦାମୀ ହୋଇ ଅଗ ଶୁଖିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/aloe_sunburn.jpg",
+          "alt": "Sunburn & Red/Brown Stress (Anthocyanin buildup): Leaves turn copper-red or brown with thinned wrinkled tips due to sudden harsh sun and drought. | ଅତ୍ୟଧିକ ଖରାରୁ ଲାଲ୍-ବାଦାମୀ ପଡ଼ିବା: ଟାଣ ଖରାରେ ପତ୍ର ତମ୍ବାଳିଆ ଲାଲ୍ କିମ୍ବା ବାଦାମୀ ହୋଇ ଅଗ ଶୁଖିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Dandy1022",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "napier_helninthosporium_blight",
+      "aliases": [],
+      "crop_id": "napier_grass",
+      "crop_name_en": "Hybrid Napier Grass (Super Napier / Ghasa)",
+      "crop_name_or": "ସୁପର ନେପିୟର ଘାସ (Hybrid Napier)",
+      "type": "disease",
+      "name_en": "Helminthosporium Leaf Blight (Bipolaris sacchari)",
+      "name_or": "ନେପିୟର ପତ୍ରପୋଡ଼ା ରୋଗ",
+      "symptoms_en": "Oval reddish-brown spots with yellow borders across leaf blades reducing fodder palatability.",
+      "symptoms_or": "ପତ୍ରରେ ଲାଲ୍-ବାଦାମୀ ଦାଗ ହୋଇ ପତ୍ର ଶୁଖିବା, ଗାଈ ଗୋରୁ ଏହି ଘାସ ଖାଇବାକୁ ପସନ୍ଦ କରନ୍ତି ନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/napier_helninthosporium_blight.jpg",
+          "alt": "Helminthosporium Leaf Blight (Bipolaris sacchari): Oval reddish-brown spots with yellow borders across leaf blades reducing fodder palatability. | ନେପିୟର ପତ୍ରପୋଡ଼ା ରୋଗ: ପତ୍ରରେ ଲାଲ୍-ବାଦାମୀ ଦାଗ ହୋଇ ପତ୍ର ଶୁଖିବା, ଗାଈ ଗୋରୁ ଏହି ଘାସ ଖାଇବାକୁ ପସନ୍ଦ କରନ୍ତି ନାହିଁ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "napier_fall_armyworm",
+      "aliases": [],
+      "crop_id": "napier_grass",
+      "crop_name_en": "Hybrid Napier Grass (Super Napier / Ghasa)",
+      "crop_name_or": "ସୁପର ନେପିୟର ଘାସ (Hybrid Napier)",
+      "type": "pest",
+      "name_en": "Fall Armyworm (Spodoptera frugiperda)",
+      "name_or": "ନେପିୟର ଫଲ୍ ଆର୍ମିୱାର୍ମ ପୋକ",
+      "symptoms_en": "Extensive leaf feeding and skeletonizing of tender tillers with sawdust frass.",
+      "symptoms_or": "ପତ୍ରକୁ କଣା କରି ସବୁଜ ଅଂଶ ଖାଇଯିବା ଓ କରତ ଗୁଣ୍ଡ ଭଳି ମଳ ପକାଇବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/napier_fall_armyworm.jpg",
+          "alt": "Fall Armyworm (Spodoptera frugiperda): Extensive leaf feeding and skeletonizing of tender tillers with sawdust frass. | ନେପିୟର ଫଲ୍ ଆର୍ମିୱାର୍ମ ପୋକ: ପତ୍ରକୁ କଣା କରି ସବୁଜ ଅଂଶ ଖାଇଯିବା ଓ କରତ ଗୁଣ୍ଡ ଭଳି ମଳ ପକାଇବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "napier_smut",
+      "aliases": [],
+      "crop_id": "napier_grass",
+      "crop_name_en": "Hybrid Napier Grass (Super Napier / Ghasa)",
+      "crop_name_or": "ସୁପର ନେପିୟର ଘାସ (Hybrid Napier)",
+      "type": "disease",
+      "name_en": "Head Smut (Ustilago napierae)",
+      "name_or": "ନେପିୟର ଶିଁଷା କଳା ଅଙ୍ଗାରୁଆ ରୋଗ",
+      "symptoms_en": "Inflorescence converted into a mass of black powdery fungal spores.",
+      "symptoms_or": "ଫୁଲ ଶିଁଷା କଳା କୋଇଲା ପାଉଁଶରେ ପରିଣତ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/napier_smut.jpg",
+          "alt": "Head Smut (Ustilago napierae): Inflorescence converted into a mass of black powdery fungal spores. | ନେପିୟର ଶିଁଷା କଳା ଅଙ୍ଗାରୁଆ ରୋଗ: ଫୁଲ ଶିଁଷା କଳା କୋଇଲା ପାଉଁଶରେ ପରିଣତ ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Smith, Ralph E. (Ralph Eliot), 1874-1953",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "napier_nitrate_toxicity",
+      "aliases": [],
+      "crop_id": "napier_grass",
+      "crop_name_en": "Hybrid Napier Grass (Super Napier / Ghasa)",
+      "crop_name_or": "ସୁପର ନେପିୟର ଘାସ (Hybrid Napier)",
+      "type": "nutrient",
+      "name_en": "Excess Nitrogen / Drought Nitrate Toxicity Risk",
+      "name_or": "ଅତ୍ୟଧିକ ୟୁରିଆରୁ ନାଇଟ୍ରେଟ୍ ବିଷକ୍ରିୟା ବିପଦ",
+      "symptoms_en": "Dark lush blue-green grass in drought accumulating toxic nitrate dangerous to cows.",
+      "symptoms_or": "ଖରାଟିଆ ପାଗରେ ଅଧିକ ୟୁରିଆ ପଡ଼ିଥିଲେ ଘାସରେ ନାଇଟ୍ରେଟ୍ ଜମି ଗାଈଙ୍କୁ ବିଷ ହୋଇପାରେ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/napier_nitrate_toxicity.jpg",
+          "alt": "Excess Nitrogen / Drought Nitrate Toxicity Risk: Dark lush blue-green grass in drought accumulating toxic nitrate dangerous to cows. | ଅତ୍ୟଧିକ ୟୁରିଆରୁ ନାଇଟ୍ରେଟ୍ ବିଷକ୍ରିୟା ବିପଦ: ଖରାଟିଆ ପାଗରେ ଅଧିକ ୟୁରିଆ ପଡ଼ିଥିଲେ ଘାସରେ ନାଇଟ୍ରେଟ୍ ଜମି ଗାଈଙ୍କୁ ବିଷ ହୋଇପାରେ।",
+          "licence": "CC BY 4.0",
+          "credit": "Theis, Thomas",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "teak_defoliator",
+      "aliases": [],
+      "crop_id": "teak",
+      "crop_name_en": "Teak (Saguan)",
+      "crop_name_or": "ଶାଗୁଆନ (Teak / Saguan)",
+      "type": "pest",
+      "name_en": "Teak Defoliator (Hyblaea puera)",
+      "name_or": "ଶାଗୁଆନ ପତ୍ରଖିଆ ପୋକ (ଡିଫୋଲିଏଟର)",
+      "symptoms_en": "Caterpillars voraciously consume entire leaf tissue leaving only major veins, completely defoliating plantations.",
+      "symptoms_or": "ଶୁକପୋକ ଶାଗୁଆନର ସବୁ ପତ୍ର ଚରି ଖାଇ କେବଳ ଶିରା ଛାଡ଼ିଦିଅନ୍ତି, ଗଛ ଲଣ୍ଡା ହୋଇଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/teak_defoliator.jpg",
+          "alt": "Teak Defoliator (Hyblaea puera): Caterpillars voraciously consume entire leaf tissue leaving only major veins, completely defoliating plantations. | ଶାଗୁଆନ ପତ୍ରଖିଆ ପୋକ (ଡିଫୋଲିଏଟର): ଶୁକପୋକ ଶାଗୁଆନର ସବୁ ପତ୍ର ଚରି ଖାଇ କେବଳ ଶିରା ଛାଡ଼ିଦିଅନ୍ତି, ଗଛ ଲଣ୍ଡା ହୋଇଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Ganesh Mohan T",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "teak_skeletonizer",
+      "aliases": [],
+      "crop_id": "teak",
+      "crop_name_en": "Teak (Saguan)",
+      "crop_name_or": "ଶାଗୁଆନ (Teak / Saguan)",
+      "type": "pest",
+      "name_en": "Teak Skeletonizer (Eutectona machaeralis)",
+      "name_or": "ଶାଗୁଆନ କଙ୍କାଳିଆ ପୋକ (ସ୍କେଲିଟନାଇଜର)",
+      "symptoms_en": "Larvae feed on green parenchyma beneath webbed shelters leaving brown skeletonized lace leaves.",
+      "symptoms_or": "ପତ୍ରର ସବୁଜ ମାଂସ ଖାଇ କେବଳ ଜାଲି ଭଳି କଙ୍କାଳ ଛାଡ଼ିଦିଏ, ପତ୍ର ବାଦାମୀ ପାଉଁଶିଆ ହୋଇ ଶୁଖିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/teak_skeletonizer.jpg",
+          "alt": "Teak Skeletonizer (Eutectona machaeralis): Larvae feed on green parenchyma beneath webbed shelters leaving brown skeletonized lace leaves. | ଶାଗୁଆନ କଙ୍କାଳିଆ ପୋକ (ସ୍କେଲିଟନାଇଜର): ପତ୍ରର ସବୁଜ ମାଂସ ଖାଇ କେବଳ ଜାଲି ଭଳି କଙ୍କାଳ ଛାଡ଼ିଦିଏ, ପତ୍ର ବାଦାମୀ ପାଉଁଶିଆ ହୋଇ ଶୁଖିଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "arian.suresh from Chennai, India",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "teak_leaf_rust",
+      "aliases": [],
+      "crop_id": "teak",
+      "crop_name_en": "Teak (Saguan)",
+      "crop_name_or": "ଶାଗୁଆନ (Teak / Saguan)",
+      "type": "disease",
+      "name_en": "Teak Leaf Rust (Olivea tectonae)",
+      "name_or": "ଶାଗୁଆନ ପତ୍ର ଗେରୁଆ ରୋଗ",
+      "symptoms_en": "Yellowish-brown powdery pustules covering leaf underside, premature defoliation in winter.",
+      "symptoms_or": "ପତ୍ର ତଳେ ହଳଦିଆ-ବାଦାମୀ ଗୁଣ୍ଡ ଭଳି ଗେରୁଆ ଦାଗ, ଶୀତଦିନେ ଅକାଳରେ ପତ୍ର ଝଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/teak_leaf_rust.jpg",
+          "alt": "Teak Leaf Rust (Olivea tectonae): Yellowish-brown powdery pustules covering leaf underside, premature defoliation in winter. | ଶାଗୁଆନ ପତ୍ର ଗେରୁଆ ରୋଗ: ପତ୍ର ତଳେ ହଳଦିଆ-ବାଦାମୀ ଗୁଣ୍ଡ ଭଳି ଗେରୁଆ ଦାଗ, ଶୀତଦିନେ ଅକାଳରେ ପତ୍ର ଝଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Pragathi. BH",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "teak_canker_rot",
+      "aliases": [],
+      "crop_id": "teak",
+      "crop_name_en": "Teak (Saguan)",
+      "crop_name_or": "ଶାଗୁଆନ (Teak / Saguan)",
+      "type": "disease",
+      "name_en": "Teak Stem Canker & Heart Rot (Phomopsis / Phellinus spp.)",
+      "name_or": "ଶାଗୁଆନ କାଣ୍ଡ କ୍ୟାଙ୍କର ଓ ହୃଦୟକାଠ ପଚା ରୋଗ",
+      "symptoms_en": "Cracked swollen cankers on trunk with gum oozing, internal heartwood rots reducing timber value.",
+      "symptoms_or": "ଗଣ୍ଡିରେ ଫଟା ଦାଗ ହୋଇ ଅଠା ବାହାରିବା, ଭିତର ମୂଲ୍ୟବାନ କାଠ ପୋଲା ହୋଇ ପଚିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/teak_canker_rot.jpg",
+          "alt": "Teak Stem Canker & Heart Rot (Phomopsis / Phellinus spp.): Cracked swollen cankers on trunk with gum oozing, internal heartwood rots reducing timber value. | ଶାଗୁଆନ କାଣ୍ଡ କ୍ୟାଙ୍କର ଓ ହୃଦୟକାଠ ପଚା ରୋଗ: ଗଣ୍ଡିରେ ଫଟା ଦାଗ ହୋଇ ଅଠା ବାହାରିବା, ଭିତର ମୂଲ୍ୟବାନ କାଠ ପୋଲା ହୋଇ ପଚିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Kod B",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "brown_spot",
+      "aliases": [],
+      "crop_id": "paddy",
+      "crop_name_en": "Paddy (Rice)",
+      "crop_name_or": "ଧାନ (Paddy)",
+      "type": "disease",
+      "name_en": "Brown Spot (Bipolaris oryzae)",
+      "name_or": "ବାଦାମୀ ଚିତା ରୋଗ",
+      "symptoms_en": "Oval reddish-brown spots with yellow halo all over leaves, common in nutrient deficient soils.",
+      "symptoms_or": "ପତ୍ର ଉପରେ ଛୋଟ ଗୋଲାକାର ବାଦାମୀ ଦାଗ, ପୋଟାସିୟମ ଅଭାବରେ ଅଧିକ ହୁଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/brown_spot.jpg",
+          "alt": "Brown Spot (Bipolaris oryzae): Oval reddish-brown spots with yellow halo all over leaves, common in nutrient deficient soils. | ବାଦାମୀ ଚିତା ରୋଗ: ପତ୍ର ଉପରେ ଛୋଟ ଗୋଲାକାର ବାଦାମୀ ଦାଗ, ପୋଟାସିୟମ ଅଭାବରେ ଅଧିକ ହୁଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Donald Groth, Louisiana State University AgCenter",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "brown_plant_hopper",
+      "aliases": [],
+      "crop_id": "paddy",
+      "crop_name_en": "Paddy (Rice)",
+      "crop_name_or": "ଧାନ (Paddy)",
+      "type": "pest",
+      "name_en": "Brown Plant Hopper (BPH)",
+      "name_or": "ମହିଷା ପୋକ / ବି.ପି.ଏଚ୍ (BPH)",
+      "symptoms_en": "Circular patches of dry scorched plants (hopper burn) appearing from field center.",
+      "symptoms_or": "ବିଲ ମଝିରେ ଗୋଲ ହୋଇ ଗଛ ଶୁଖି ଜଳିଗଲା ଭଳି ଦିଶିବା (ହପର ବର୍ଣ୍ଣ)।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/brown_plant_hopper.jpg",
+          "alt": "Brown Plant Hopper (BPH): Circular patches of dry scorched plants (hopper burn) appearing from field center. | ମହିଷା ପୋକ / ବି.ପି.ଏଚ୍ (BPH): ବିଲ ମଝିରେ ଗୋଲ ହୋଇ ଗଛ ଶୁଖି ଜଳିଗଲା ଭଳି ଦିଶିବା (ହପର ବର୍ଣ୍ଣ)।",
+          "licence": "CC BY 4.0",
+          "credit": "Samuels, Edward A. (Edward Augustus), 1836-1908",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "phomopsis_blight",
+      "aliases": [],
+      "crop_id": "brinjal",
+      "crop_name_en": "Brinjal (Eggplant)",
+      "crop_name_or": "ବାଇଗଣ (Brinjal)",
+      "type": "disease",
+      "name_en": "Phomopsis Blight & Fruit Rot",
+      "name_or": "ଫୋମୋପସିସ୍ ପତ୍ରପୋଡ଼ା ଓ ଫଳପଚା ରୋଗ",
+      "symptoms_en": "Dark brown circular spots on leaves and soft watery rotting of fruits.",
+      "symptoms_or": "ପତ୍ରରେ ବାଦାମୀ ଦାଗ ଏବଂ ବାଇଗଣ ପଚି ନଷ୍ଟ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/phomopsis_blight.jpg",
+          "alt": "Phomopsis Blight & Fruit Rot: Dark brown circular spots on leaves and soft watery rotting of fruits. | ଫୋମୋପସିସ୍ ପତ୍ରପୋଡ଼ା ଓ ଫଳପଚା ରୋଗ: ପତ୍ରରେ ବାଦାମୀ ଦାଗ ଏବଂ ବାଇଗଣ ପଚି ନଷ୍ଟ ହୋଇଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Forest and Kim Starr",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "yellow_mosaic_virus",
+      "aliases": [],
+      "crop_id": "pulses",
+      "crop_name_en": "Green Gram / Black Gram (Moong/Biri)",
+      "crop_name_or": "ମୁଗ / ବିରି (Pulses)",
+      "type": "disease",
+      "name_en": "Yellow Mosaic Virus (MYMV)",
+      "name_or": "ହଳଦିଆ ମୋଜାଇକ୍ ରୋଗ",
+      "symptoms_en": "Bright yellow patches interspersed with green on leaves, stunted pods with shriveled seeds.",
+      "symptoms_or": "ପତ୍ରରେ ହଳଦିଆ ଓ ସବୁଜ ମିଶ୍ରିତ ଦାଗ, ଛୁଇଁଗୁଡ଼ିକ ଛୋଟ ହୋଇଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/yellow_mosaic_virus.jpg",
+          "alt": "Yellow Mosaic Virus (MYMV): Bright yellow patches interspersed with green on leaves, stunted pods with shriveled seeds. | ହଳଦିଆ ମୋଜାଇକ୍ ରୋଗ: ପତ୍ରରେ ହଳଦିଆ ଓ ସବୁଜ ମିଶ୍ରିତ ଦାଗ, ଛୁଇଁଗୁଡ଼ିକ ଛୋଟ ହୋଇଯାଏ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "brinjal_phomopsis",
+      "aliases": [],
+      "crop_id": "brinjal",
+      "crop_name_en": "Brinjal (Eggplant)",
+      "crop_name_or": "ବାଇଗଣ (Brinjal)",
+      "type": "disease",
+      "name_en": "Phomopsis Blight & Fruit Rot",
+      "name_or": "ଫୋମୋପସିସ୍ ପତ୍ରପୋଡ଼ା ଓ ଫଳପଚା",
+      "symptoms_en": "Circular brown spots on leaves, soft watery fruit rot.",
+      "symptoms_or": "ପତ୍ରରେ ବାଦାମୀ ଦାଗ ଏବଂ ଫଳ ପଚି ଗଛରୁ ଝଡ଼ିପଡ଼ିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/brinjal_phomopsis.jpg",
+          "alt": "Phomopsis Blight & Fruit Rot: Circular brown spots on leaves, soft watery fruit rot. | ଫୋମୋପସିସ୍ ପତ୍ରପୋଡ଼ା ଓ ଫଳପଚା: ପତ୍ରରେ ବାଦାମୀ ଦାଗ ଏବଂ ଫଳ ପଚି ଗଛରୁ ଝଡ଼ିପଡ଼ିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Forest and Kim Starr",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chilli_anthracnose",
+      "aliases": [],
+      "crop_id": "chilli",
+      "crop_name_en": "Chilli & Capsicum",
+      "crop_name_or": "ଲଙ୍କା / ମରିଚ (Chilli)",
+      "type": "disease",
+      "name_en": "Dieback & Anthracnose (Colletotrichum capsici)",
+      "name_or": "ଡାଳମୁହଁ ଶୁଖିବା (ଡାଇବ୍ୟାକ୍) ଓ ଫଳପଚା",
+      "symptoms_en": "Branches drying from tip downwards, sunken circular black spots on ripe pods.",
+      "symptoms_or": "ଡାଳ ଉପରୁ ତଳକୁ ଶୁଖିବା, ପାଚିଲା ଲଙ୍କାରେ ଗାଢ଼ କଳା ଖାଲୁଆ ଦାଗ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chilli_anthracnose.jpg",
+          "alt": "Dieback & Anthracnose (Colletotrichum capsici): Branches drying from tip downwards, sunken circular black spots on ripe pods. | ଡାଳମୁହଁ ଶୁଖିବା (ଡାଇବ୍ୟାକ୍) ଓ ଫଳପଚା: ଡାଳ ଉପରୁ ତଳକୁ ଶୁଖିବା, ପାଚିଲା ଲଙ୍କାରେ ଗାଢ଼ କଳା ଖାଲୁଆ ଦାଗ।",
+          "licence": "CC BY 4.0",
+          "credit": "yeowatzup",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "chilli_thrips_mites",
+      "aliases": [],
+      "crop_id": "chilli",
+      "crop_name_en": "Chilli & Capsicum",
+      "crop_name_or": "ଲଙ୍କା / ମରିଚ (Chilli)",
+      "type": "disease",
+      "name_en": "Thrips & Mites (Murda Leaf Curl Complex)",
+      "name_or": "ଚିପୁଡ଼ା ପୋକ / ମାଇଟ୍ (ପତ୍ର ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ)",
+      "symptoms_en": "Upward cup curling from thrips, downward boat-shape curling from mites.",
+      "symptoms_or": "ପତ୍ର ଉପରକୁ ଓ ତଳକୁ ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ ହେବା, ଗଛ ବଢେ ନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/chilli_thrips_mites.jpg",
+          "alt": "Thrips & Mites (Murda Leaf Curl Complex): Upward cup curling from thrips, downward boat-shape curling from mites. | ଚିପୁଡ଼ା ପୋକ / ମାଇଟ୍ (ପତ୍ର ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ): ପତ୍ର ଉପରକୁ ଓ ତଳକୁ ଡଙ୍ଗା ଭଳି କୁଞ୍ଚିତ ହେବା, ଗଛ ବଢେ ନାହିଁ।",
+          "licence": "CC BY 4.0",
+          "credit": "m.borden",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "potato_late_blight",
+      "aliases": [],
+      "crop_id": "potato",
+      "crop_name_en": "Potato",
+      "crop_name_or": "ଆଳୁ (Potato)",
+      "type": "disease",
+      "name_en": "Late Blight (Phytophthora infestans)",
+      "name_or": "ଆଳୁ ପଛୁଆ ପତ୍ରପୋଡ଼ା / ଝାଉଁଳା ରୋଗ",
+      "symptoms_en": "Water-soaked irregular black lesions on leaves with white cottony mold underneath in humid fog.",
+      "symptoms_or": "କୁହୁଡ଼ିଆ ପାଗରେ ପତ୍ର ଉପରେ କଳା ଜଳିଗଲା ଭଳି ଦାଗ, ପତ୍ର ତଳେ ଧଳା କବକ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/potato_late_blight.jpg",
+          "alt": "Late Blight (Phytophthora infestans): Water-soaked irregular black lesions on leaves with white cottony mold underneath in humid fog. | ଆଳୁ ପଛୁଆ ପତ୍ରପୋଡ଼ା / ଝାଉଁଳା ରୋଗ: କୁହୁଡ଼ିଆ ପାଗରେ ପତ୍ର ଉପରେ କଳା ଜଳିଗଲା ଭଳି ଦାଗ, ପତ୍ର ତଳେ ଧଳା କବକ।",
+          "licence": "CC BY 4.0",
+          "credit": "Downtowngal",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "onion_purple_blotch",
+      "aliases": [],
+      "crop_id": "onion_garlic",
+      "crop_name_en": "Onion & Garlic",
+      "crop_name_or": "ପିଆଜ ଓ ରସୁଣ (Onion & Garlic)",
+      "type": "disease",
+      "name_en": "Purple Blotch (Alternaria porri)",
+      "name_or": "ପିଆଜ ବାଇଗଣୀ ଦାଗ ରୋଗ",
+      "symptoms_en": "Small water-soaked lesions turning purple-brown with yellow rings.",
+      "symptoms_or": "ପତ୍ରରେ ଛୋଟ ପାଣିଚିଆ ଦାଗ ଯାହା ପରେ ବାଇଗଣୀ-ବାଦାମୀ ରଙ୍ଗ ଧରେ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/onion_purple_blotch.jpg",
+          "alt": "Purple Blotch (Alternaria porri): Small water-soaked lesions turning purple-brown with yellow rings. | ପିଆଜ ବାଇଗଣୀ ଦାଗ ରୋଗ: ପତ୍ରରେ ଛୋଟ ପାଣିଚିଆ ଦାଗ ଯାହା ପରେ ବାଇଗଣୀ-ବାଦାମୀ ରଙ୍ଗ ଧରେ।",
+          "licence": "CC BY 4.0",
+          "credit": "honey-bee from Bangkok, Thailand",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "cole_dbm",
+      "aliases": [],
+      "crop_id": "cauliflower_cabbage",
+      "crop_name_en": "Cauliflower & Cabbage",
+      "crop_name_or": "ଫୁଲକୋବି ଓ ବନ୍ଧାକୋବି (Cole Crops)",
+      "type": "disease",
+      "name_en": "Diamondback Moth (Plutella xylostella)",
+      "name_or": "କୋବି ହୀରାକୃତି ପୋକ (DBM)",
+      "symptoms_en": "Small greenish caterpillars feeding on leaves creating paper-thin window holes.",
+      "symptoms_or": "ପତ୍ର ଖାଇ ଛାଣି ଭଳି କଣା କରିଦିଅନ୍ତି, କୋବି ଫୁଲ ନଷ୍ଟ ହୁଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/cole_dbm.jpg",
+          "alt": "Diamondback Moth (Plutella xylostella): Small greenish caterpillars feeding on leaves creating paper-thin window holes. | କୋବି ହୀରାକୃତି ପୋକ (DBM): ପତ୍ର ଖାଇ ଛାଣି ଭଳି କଣା କରିଦିଅନ୍ତି, କୋବି ଫୁଲ ନଷ୍ଟ ହୁଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Dan MacNeal",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "cucurbit_fruit_fly",
+      "aliases": [],
+      "crop_id": "cucurbits_gourds",
+      "crop_name_en": "Gourds (Karela, Lauki, Potala, Ridge, Pumpkin)",
+      "crop_name_or": "କଲରା, ଲାଉ, ପୋଟଳ, ଜାହ୍ନି, ବୋଇତି କଖାରୁ (Gourds)",
+      "type": "disease",
+      "name_en": "Cucurbit Fruit Fly",
+      "name_or": "ବାଉଁଶିଆ ଫଳମାଛି (ଫଳ ଭିତରେ କୀଟ)",
+      "symptoms_en": "Punctured fruits weeping resin drops, premature yellowing, decay and maggots inside.",
+      "symptoms_or": "ଫଳରେ କଣା ହୋଇ ରସ ବାହାରିବା, ଫଳ ବଙ୍କା ହୋଇ ପଚିଯିବା ଏବଂ ଭିତରେ ପୋକ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/cucurbit_fruit_fly.jpg",
+          "alt": "Cucurbit Fruit Fly: Punctured fruits weeping resin drops, premature yellowing, decay and maggots inside. | ବାଉଁଶିଆ ଫଳମାଛି (ଫଳ ଭିତରେ କୀଟ): ଫଳରେ କଣା ହୋଇ ରସ ବାହାରିବା, ଫଳ ବଙ୍କା ହୋଇ ପଚିଯିବା ଏବଂ ଭିତରେ ପୋକ।",
+          "licence": "CC BY 4.0",
+          "credit": "Internet Archive Book Images",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "spinach_leaf_spot",
+      "aliases": [],
+      "crop_id": "spinach_leafy",
+      "crop_name_en": "Spinach & Leafy Greens (Palak, Kosala, Methi)",
+      "crop_name_or": "ପାଳଙ୍ଗ, କୋଶଳା ଓ ମେଥି ଶାଗ (Leafy Vegetables)",
+      "type": "disease",
+      "name_en": "Cercospora Leaf Spot",
+      "name_or": "ପତ୍ର ଚିତା ରୋଗ",
+      "symptoms_en": "Small brown circular spots with reddish margins on tender green leaves.",
+      "symptoms_or": "ପତ୍ରରେ ଛୋଟ ଗୋଲ ବାଦାମୀ ଦାଗ, ଶାଗର ବିକ୍ରୟ ମୂଲ୍ୟ କମିଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/spinach_leaf_spot.jpg",
+          "alt": "Cercospora Leaf Spot: Small brown circular spots with reddish margins on tender green leaves. | ପତ୍ର ଚିତା ରୋଗ: ପତ୍ରରେ ଛୋଟ ଗୋଲ ବାଦାମୀ ଦାଗ, ଶାଗର ବିକ୍ରୟ ମୂଲ୍ୟ କମିଯାଏ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "rice_stem_borer",
+      "aliases": [],
+      "crop_id": "paddy",
+      "crop_name_en": "Paddy (Rice)",
+      "crop_name_or": "ଧାନ (Paddy / Rice)",
+      "type": "disease",
+      "name_en": "Yellow Stem Borer",
+      "name_or": "କାଣ୍ଡବିନ୍ଧା ପୋକ (ଶୁଖିଲା ମଜା / ଧଳା କେଣ୍ଡା)",
+      "symptoms_en": "Dead heart in vegetative stage, White earhead in grain filling.",
+      "symptoms_or": "ଗଛ ମଜା ଶୁଖିଯିବା (ଡେଡ୍ ହାର୍ଟ) ଏବଂ ବାହାରୁଥିବା ଧାନ କେଣ୍ଡା ଧଳା ଓ ଫମ୍ପା ହେବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/rice_stem_borer.jpg",
+          "alt": "Yellow Stem Borer: Dead heart in vegetative stage, White earhead in grain filling. | କାଣ୍ଡବିନ୍ଧା ପୋକ (ଶୁଖିଲା ମଜା / ଧଳା କେଣ୍ଡା): ଗଛ ମଜା ଶୁଖିଯିବା (ଡେଡ୍ ହାର୍ଟ) ଏବଂ ବାହାରୁଥିବା ଧାନ କେଣ୍ଡା ଧଳା ଓ ଫମ୍ପା ହେବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Md.Farhan Nabil",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "maize_faw",
+      "aliases": [],
+      "crop_id": "maize",
+      "crop_name_en": "Maize (Corn)",
+      "crop_name_or": "ମକା (Maize / Corn)",
+      "type": "disease",
+      "name_en": "Fall Armyworm (Spodoptera frugiperda)",
+      "name_or": "ମକା ଫଲ୍ ଆର୍ମିଓ୍ୱାର୍ମ (ମାରାତ୍ମକ କୀଟ)",
+      "symptoms_en": "Window paning and ragged holes on whorl leaves with abundant saw-dust frass.",
+      "symptoms_or": "ମକା ଗର୍ଭ ପତ୍ର ଖାଇ କଣା କରିଦେବା ଏବଂ କାଠ ଗୁଣ୍ଡ ଭଳି ମଳ ଜମିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/maize_faw.jpg",
+          "alt": "Fall Armyworm (Spodoptera frugiperda): Window paning and ragged holes on whorl leaves with abundant saw-dust frass. | ମକା ଫଲ୍ ଆର୍ମିଓ୍ୱାର୍ମ (ମାରାତ୍ମକ କୀଟ): ମକା ଗର୍ଭ ପତ୍ର ଖାଇ କଣା କରିଦେବା ଏବଂ କାଠ ଗୁଣ୍ଡ ଭଳି ମଳ ଜମିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Frank Peairs, Colorado State University, Bugwood.org",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "pulse_ymv",
+      "aliases": [],
+      "crop_id": "green_gram_black_gram",
+      "crop_name_en": "Green Gram (Moong) & Black Gram (Biri)",
+      "crop_name_or": "ମୁଗ ଓ ବିରି (Moong & Biri Pulses)",
+      "type": "disease",
+      "name_en": "Yellow Mosaic Virus (MYMV)",
+      "name_or": "ହଳଦିଆ ମୋଜାଇକ୍ ରୋଗ",
+      "symptoms_en": "Irregular yellow and green patches on leaves, tiny deformed pods.",
+      "symptoms_or": "ପତ୍ରରେ ହଳଦିଆ ଓ ସବୁଜ ମିଶା ଦାଗ, ଛୁଇଁ ଛୋଟ ହୋଇଯାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/pulse_ymv.jpg",
+          "alt": "Yellow Mosaic Virus (MYMV): Irregular yellow and green patches on leaves, tiny deformed pods. | ହଳଦିଆ ମୋଜାଇକ୍ ରୋଗ: ପତ୍ରରେ ହଳଦିଆ ଓ ସବୁଜ ମିଶା ଦାଗ, ଛୁଇଁ ଛୋଟ ହୋଇଯାଏ।",
+          "licence": "CC BY 4.0",
+          "credit": "Downtowngal",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "mustard_aphids",
+      "aliases": [],
+      "crop_id": "mustard",
+      "crop_name_en": "Mustard & Rapeseed",
+      "crop_name_or": "ସୋରିଷ (Mustard / Rai)",
+      "type": "disease",
+      "name_en": "Mustard Aphid (Lipaphis erysimi)",
+      "name_or": "ସୋରିଷ ଜାବପୋକ (ମହୁଆ ପୋକ)",
+      "symptoms_en": "Masses of tiny green aphids sucking sap from flowers and pods, black sooty mold.",
+      "symptoms_or": "ଫୁଲ ଓ ଛୁଇଁରେ ଲକ୍ଷ ଲକ୍ଷ ଛୋଟ ପୋକ ଲାଗି ରସ ଶୋଷିବା, ଅମଳ କମିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/mustard_aphids.jpg",
+          "alt": "Mustard Aphid (Lipaphis erysimi): Masses of tiny green aphids sucking sap from flowers and pods, black sooty mold. | ସୋରିଷ ଜାବପୋକ (ମହୁଆ ପୋକ): ଫୁଲ ଓ ଛୁଇଁରେ ଲକ୍ଷ ଲକ୍ଷ ଛୋଟ ପୋକ ଲାଗି ରସ ଶୋଷିବା, ଅମଳ କମିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Alton N. Sparks, Jr., University of Georgia, Bugwood.org",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "drought",
+      "aliases": [
+        "stress_drought"
+      ],
+      "crop_id": "all",
+      "crop_name_en": "All Crops (Abiotic Stress)",
+      "crop_name_or": "ସମସ୍ତ ଫସଲ (ଜଳାଭାବ ଚାପ)",
+      "type": "nutrient",
+      "name_en": "Severe Moisture / Drought Stress",
+      "name_or": "ଜଳାଭାବ ଓ ମରୁଡ଼ି ଚାପ",
+      "symptoms_en": "Plant cells are losing turgor pressure. Leaves are drooping to reduce transpiration.",
+      "symptoms_or": "ପାଣି ଅଭାବରୁ ଗଛର କୋଷ ଦୁର୍ବଳ ହୋଇ ପତ୍ର ଝାଉଁଳି ପଡ଼ୁଛି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/drought.jpg",
+          "alt": "Severe Moisture / Drought Stress: Plant cells are losing turgor pressure. Leaves are drooping to reduce transpiration. | ଜଳାଭାବ ଓ ମରୁଡ଼ି ଚାପ: ପାଣି ଅଭାବରୁ ଗଛର କୋଷ ଦୁର୍ବଳ ହୋଇ ପତ୍ର ଝାଉଁଳି ପଡ଼ୁଛି।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "waterlogging",
+      "aliases": [
+        "stress_waterlogging"
+      ],
+      "crop_id": "all",
+      "crop_name_en": "All Crops (Abiotic Stress)",
+      "crop_name_or": "ସମସ୍ତ ଫସଲ (ଜଳବନ୍ଦୀ ଚାପ)",
+      "type": "nutrient",
+      "name_en": "Waterlogging & Root Suffocation",
+      "name_or": "ଜଳବନ୍ଦୀ ଓ ଚେର ପଚା ସମସ୍ୟା",
+      "symptoms_en": "Excess standing water has choked soil oxygen, preventing nutrient absorption.",
+      "symptoms_or": "ଜମିରେ ଅତିରିକ୍ତ ପାଣି ଜମି ରହିବା ଯୋଗୁଁ ଚେରକୁ ଅମ୍ଳଜାନ ମିଳୁନାହିଁ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/waterlogging.jpg",
+          "alt": "Waterlogging & Root Suffocation: Excess standing water has choked soil oxygen, preventing nutrient absorption. | ଜଳବନ୍ଦୀ ଓ ଚେର ପଚା ସମସ୍ୟା: ଜମିରେ ଅତିରିକ୍ତ ପାଣି ଜମି ରହିବା ଯୋଗୁଁ ଚେରକୁ ଅମ୍ଳଜାନ ମିଳୁନାହିଁ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "nitrogen",
+      "aliases": [
+        "stress_nitrogen"
+      ],
+      "crop_id": "all",
+      "crop_name_en": "All Crops (Nutrient Deficiency)",
+      "crop_name_or": "ସମସ୍ତ ଫସଲ (ସାର ଅଭାବ)",
+      "type": "nutrient",
+      "name_en": "Nitrogen (N) Deficiency",
+      "name_or": "ଯବକ୍ଷାରଜାନ (ୟୁରିଆ) ଅଭାବ",
+      "symptoms_en": "General yellowing of older leaves starting from leaf tips, causing stunted tillering.",
+      "symptoms_or": "ପୁରୁଣା ପତ୍ରଗୁଡ଼ିକ ହଳଦିଆ ପଡ଼ିଯିବା ଏବଂ ଗଛର ପିଲ ବାହାରିବା କମିଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/nitrogen.jpg",
+          "alt": "Nitrogen (N) Deficiency: General yellowing of older leaves starting from leaf tips, causing stunted tillering. | ଯବକ୍ଷାରଜାନ (ୟୁରିଆ) ଅଭାବ: ପୁରୁଣା ପତ୍ରଗୁଡ଼ିକ ହଳଦିଆ ପଡ଼ିଯିବା ଏବଂ ଗଛର ପିଲ ବାହାରିବା କମିଯିବା।",
+          "licence": "CC BY 4.0",
+          "credit": "Lawn Weeds",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "potassium",
+      "aliases": [
+        "stress_potassium"
+      ],
+      "crop_id": "all",
+      "crop_name_en": "All Crops (Nutrient Deficiency)",
+      "crop_name_or": "ସମସ୍ତ ଫସଲ (ସାର ଅଭାବ)",
+      "type": "nutrient",
+      "name_en": "Potassium (K) Deficiency / Marginal Scorch",
+      "name_or": "ପଟାସ (Potash) ଅଭାବ ବା ଧାର ପୋଡ଼ା",
+      "symptoms_en": "Scorching or firing along leaf margins. Weak stems susceptible to lodging and blast.",
+      "symptoms_or": "ପତ୍ରର ଧାରଗୁଡ଼ିକ ପୋଡ଼ିଗଲା ଭଳି ଶୁଖିଯିବା। କାଣ୍ଡ ଦୁର୍ବଳ ହୋଇ ନଇଁପଡ଼ିବାର ଆଶଙ୍କା ଥାଏ।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/potassium.jpg",
+          "alt": "Potassium (K) Deficiency / Marginal Scorch: Scorching or firing along leaf margins. Weak stems susceptible to lodging and blast. | ପଟାସ (Potash) ଅଭାବ ବା ଧାର ପୋଡ଼ା: ପତ୍ରର ଧାରଗୁଡ଼ିକ ପୋଡ଼ିଗଲା ଭଳି ଶୁଖିଯିବା। କାଣ୍ଡ ଦୁର୍ବଳ ହୋଇ ନଇଁପଡ଼ିବାର ଆଶଙ୍କା ଥାଏ।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "phosphorus",
+      "aliases": [
+        "stress_phosphorus"
+      ],
+      "crop_id": "all",
+      "crop_name_en": "All Crops (Nutrient Deficiency)",
+      "crop_name_or": "ସମସ୍ତ ଫସଲ (ସାର ଅଭାବ)",
+      "type": "nutrient",
+      "name_en": "Phosphorus (P) Deficiency",
+      "name_or": "ଫସଫରସ୍ (ଡି.ଏ.ପି.) ଅଭାବ",
+      "symptoms_en": "Purplish-red discoloration on leaves and stunted root establishment.",
+      "symptoms_or": "ପତ୍ର ବାଇଗଣୀ-ଲାଲ ଦେଖାଯିବା ଏବଂ ଚେରର ବୃଦ୍ଧି ବନ୍ଦ ହୋଇଯିବା।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/phosphorus.jpg",
+          "alt": "Phosphorus (P) Deficiency: Purplish-red discoloration on leaves and stunted root establishment. | ଫସଫରସ୍ (ଡି.ଏ.ପି.) ଅଭାବ: ପତ୍ର ବାଇଗଣୀ-ଲାଲ ଦେଖାଯିବା ଏବଂ ଚେରର ବୃଦ୍ଧି ବନ୍ଦ ହୋଇଯିବା।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    },
+    {
+      "id": "healthy_leaf",
+      "aliases": [
+        "healthy"
+      ],
+      "crop_id": "all",
+      "crop_name_en": "All Crops",
+      "crop_name_or": "ସମସ୍ତ ଫସଲ",
+      "type": "disease",
+      "name_en": "Healthy Green Foliage",
+      "name_or": "ଫସଲ ସନ୍ତୁଳିତ ଓ ସୁସ୍ଥ ଅଛି",
+      "symptoms_en": "Normal chlorophyll density, clear venation, and no signs of bacterial or fungal infection.",
+      "symptoms_or": "କୌଣସି ଗମ୍ଭୀର ଚାପର ଲକ୍ଷଣ ନାହିଁ। ଫସଲ ସୁସ୍ଥ ରହିଛି।",
+      "verified_by": null,
+      "verified_date": null,
+      "reference_images": [
+        {
+          "file": "disease-photos/healthy_leaf.jpg",
+          "alt": "Healthy Green Foliage: Normal chlorophyll density, clear venation, and no signs of bacterial or fungal infection. | ଫସଲ ସନ୍ତୁଳିତ ଓ ସୁସ୍ଥ ଅଛି: କୌଣସି ଗମ୍ଭୀର ଚାପର ଲକ୍ଷଣ ନାହିଁ। ଫସଲ ସୁସ୍ଥ ରହିଛି।",
+          "licence": "CC0",
+          "credit": "Public domain",
+          "verified_by": null,
+          "verified_date": null
+        }
+      ]
+    }
+  ]
+}

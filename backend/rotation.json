@@ -1,0 +1,79 @@
+{
+  "rotations": [
+    {
+      "id": "paddy_pulse",
+      "previous_crop_en": "Kharif Paddy (ଧାନ)",
+      "previous_crop_id": "paddy",
+      "season": "Rabi (Winter)",
+      "recommended_crop_en": "Green Gram (ମୁଗ) / Black Gram (ବିରି)",
+      "recommended_crop_or": "ମୁଗ / ବିରି (Dal Pulses)",
+      "agro_zone": "All Odisha (Coastal, Central, Northern)",
+      "soil_type": "Clay loam, Alluvial, Residual moisture",
+      "nitrogen_fixed_kg_ha": "30 - 45 kg N / ha",
+      "water_need": "Low (Thrives on residual moisture or 1-2 life-saving irrigations)",
+      "disease_break_benefits_en": "Breaks the continuous lifecycle of Rice Stem Borer, Gall Midge, and Sheath Blight fungus. Enriches soil microbial health.",
+      "disease_break_benefits_or": "ଧାନ କାଣ୍ଡବିନ୍ଧା ଓ ପତ୍ରପୋଡ଼ା ରୋଗର ଜୀବାଣୁ ଚକ୍ରକୁ ଭାଙ୍ଗିଦିଏ ଏବଂ ଜମିରେ ଯବକ୍ଷାରଜାନ ବୃଦ୍ଧି କରେ।",
+      "profit_multiplier": "High net margin due to low input cost and high dal market demand."
+    },
+    {
+      "id": "paddy_groundnut",
+      "previous_crop_en": "Kharif Paddy (ଧାନ)",
+      "previous_crop_id": "paddy",
+      "season": "Rabi / Summer",
+      "recommended_crop_en": "Groundnut (ଚିନାବାଦାମ)",
+      "recommended_crop_or": "ଚିନାବାଦାମ (Groundnut)",
+      "agro_zone": "Coastal alluvial, Mahanadi & Brahmani river basins",
+      "soil_type": "Sandy loam, Well-drained alluvial soil",
+      "nitrogen_fixed_kg_ha": "40 - 60 kg N / ha",
+      "water_need": "Moderate (3 to 4 irrigations needed)",
+      "disease_break_benefits_en": "Significantly improves soil porosity, fixes atmospheric nitrogen, and breaks bacterial leaf blight build-up in soil.",
+      "disease_break_benefits_or": "ମାଟିକୁ ହାଲୁକା ଓ ଉର୍ବର କରେ, ତୈଳବୀଜ ହିସାବରେ ଭଲ ଦର ମିଳେ।",
+      "profit_multiplier": "Very High profit in Odisha coastal & river belts."
+    },
+    {
+      "id": "paddy_mustard",
+      "previous_crop_en": "Kharif Paddy (ଆଗୁଆ ଧାନ)",
+      "previous_crop_id": "paddy",
+      "season": "Early Rabi (October-November)",
+      "recommended_crop_en": "Mustard / Toria (ସୋରିଷ / ତୋରିଆ)",
+      "recommended_crop_or": "ସୋରିଷ / ତୋରିଆ (Mustard)",
+      "agro_zone": "Western Odisha, Northern Plateau (Mayurbhanj, Sundargarh)",
+      "soil_type": "Loam to sandy loam",
+      "nitrogen_fixed_kg_ha": "Conserves residual nutrients",
+      "water_need": "Low (70 - 85 days short duration crop)",
+      "disease_break_benefits_en": "Short duration allows taking a 3rd summer crop (Green Gram/Sesame). Deep tap roots aerate soil.",
+      "disease_break_benefits_or": "୭୦-୮୫ ଦିନର ଫସଲ, କମ ପାଣି ଆବଶ୍ୟକ ହୁଏ ଏବଂ ପରେ ତୃତୀୟ ଫସଲ ନେଇହୁଏ।",
+      "profit_multiplier": "Quick cash flow in 2.5 months."
+    },
+    {
+      "id": "maize_vegetables",
+      "previous_crop_en": "Kharif Maize (ମକା)",
+      "previous_crop_id": "maize",
+      "season": "Rabi",
+      "recommended_crop_en": "Cabbage / Cauliflower / French Beans",
+      "recommended_crop_or": "ବନ୍ଧାକୋବି / ଫୁଲକୋବି / ବିନ୍ସ",
+      "agro_zone": "Koraput, Rayagada, Keonjhar, Kandhamal",
+      "soil_type": "Red lateritic, Hill slope well drained",
+      "nitrogen_fixed_kg_ha": "Utilizes remaining organic carbon",
+      "water_need": "Medium (Regular light irrigation)",
+      "disease_break_benefits_en": "Rotates cereals with cole crops, preventing fall armyworm persistence and root diseases.",
+      "disease_break_benefits_or": "ଫଲ୍ ଆର୍ମିୱର୍ମ ପୋକର ବଂଶ ରୋକିବା ସହ ଉଚ୍ଚ ଆୟ ଦିଏ।",
+      "profit_multiplier": "High vegetable market return."
+    },
+    {
+      "id": "vegetables_sesame",
+      "previous_crop_en": "Brinjal / Tomato / Chilli (ବାଇଗଣ / ବିଲାତି)",
+      "previous_crop_id": "brinjal",
+      "season": "Summer (Zaid)",
+      "recommended_crop_en": "Summer Sesame (ରାଶି) / Cowpea (ଝୁଡ଼ଙ୍ଗ)",
+      "recommended_crop_or": "ରାଶି / ଝୁଡ଼ଙ୍ଗ (Sesame / Cowpea)",
+      "agro_zone": "All districts",
+      "soil_type": "Medium light soil",
+      "nitrogen_fixed_kg_ha": "25 - 35 kg N / ha (Cowpea)",
+      "water_need": "Low to Drought-Tolerant",
+      "disease_break_benefits_en": "Breaks root-knot nematode cycles that heavily affect solanaceous crops (brinjal/tomato).",
+      "disease_break_benefits_or": "ବାଇଗଣ ଓ ଟମାଟୋରେ ହେଉଥିବା ଚେର ଗଣ୍ଠି ପୋକ (ନେମାଟୋଡ୍) କୁ ସମ୍ପୂର୍ଣ୍ଣ ବିନାଶ କରେ।",
+      "profit_multiplier": "Safe low-risk summer return."
+    }
+  ]
+}

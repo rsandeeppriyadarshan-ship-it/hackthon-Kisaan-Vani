@@ -1,0 +1,1317 @@
+{
+  "isSampleDataset": false,
+  "states": [
+    {
+      "code": "OD",
+      "name_en": "Odisha",
+      "name_or": "ଓଡ଼ିଶା",
+      "districts": [
+        {
+          "code": "ANG",
+          "name_en": "Angul",
+          "name_or": "ଅନୁଗୁଳ",
+          "lat": 20.8409,
+          "lon": 85.1016,
+          "defaultPin": "759122",
+          "blocks": [
+            {
+              "name_en": "Angul",
+              "name_or": "ଅନୁଗୁଳ",
+              "villages": [
+                { "name_en": "Bantala", "name_or": "ବନ୍ତଳା", "lat": 20.785, "lon": 85.061 },
+                { "name_en": "khalari", "name_or": "ଖଲାରୀ", "lat": 20.835, "lon": 85.095 },
+                { "name_en": "Badakera", "name_or": "ବଡ଼କେରା", "lat": 20.812, "lon": 85.042 },
+                { "name_en": "kangula", "name_or": "କଙ୍ଗୁଳା", "lat": 20.828, "lon": 85.118 },
+                { "name_en": "Rantalei", "name_or": "ରନ୍ତଲେଇ", "lat": 20.854, "lon": 85.134 }
+              ]
+            },
+            {
+              "name_en": "Talcher",
+              "name_or": "ତାଳଚେର",
+              "villages": [
+                { "name_en": "Gopalprasad", "name_or": "ଗୋପାଳପ୍ରସାଦ", "lat": 20.941, "lon": 85.142 },
+                { "name_en": "Kalamchhuin", "name_or": "କଳମଛୁଇଁ", "lat": 20.962, "lon": 85.188 },
+                { "name_en": "Ghurudank", "name_or": "ଘୁରୁଡ଼ାଙ୍କ", "lat": 20.932, "lon": 85.205 },
+                { "name_en": "Santhapada", "name_or": "ସନ୍ଥପଡ଼ା", "lat": 20.918, "lon": 85.165 },
+                { "name_en": "Tentulei", "name_or": "ତେନ୍ତୁulei", "lat": 20.955, "lon": 85.221 }
+              ]
+            },
+            {
+              "name_en": "Athmallik",
+              "name_or": "ଆଠମଲ୍ଲିକ",
+              "villages": [
+                { "name_en": "Kaintaragarh", "name_or": "କଇଁତରାଗଡ଼", "lat": 20.725, "lon": 84.535 },
+                { "name_en": "Madhapur", "name_or": "ମାଧପୁର", "lat": 20.768, "lon": 84.612 },
+                { "name_en": "Paikasahi", "name_or": "ପାଇକସାହି", "lat": 20.742, "lon": 84.588 },
+                { "name_en": "Thakurgarh", "name_or": "ଠାକୁରଗଡ଼", "lat": 20.815, "lon": 84.665 }
+              ]
+            },
+            {
+              "name_en": "Chhendipada",
+              "name_or": "ଛେଣ୍ଡିପଦା",
+              "villages": [
+                { "name_en": "Chhendipada", "name_or": "ଛେଣ୍ଡିପଦା", "lat": 21.082, "lon": 84.872 },
+                { "name_en": "Kosala", "name_or": "କୋଶଳା", "lat": 21.045, "lon": 84.912 },
+                { "name_en": "Jarapada", "name_or": "ଜରପଡ଼ା", "lat": 20.965, "lon": 84.885 },
+                { "name_en": "Bagedia", "name_or": "ବାଗେଡ଼ିଆ", "lat": 21.112, "lon": 84.835 }
+              ]
+            },
+            {
+              "name_en": "Banarpal",
+              "name_or": "ବଅଁରପାଳ",
+              "villages": [
+                { "name_en": "Banarpal", "name_or": "ବଅଁରପାଳ", "lat": 20.842, "lon": 85.215 },
+                { "name_en": "Nuahata", "name_or": "ନୂଆହତା", "lat": 20.858, "lon": 85.192 },
+                { "name_en": "Gotamara", "name_or": "ଗୋତମରା", "lat": 20.831, "lon": 85.178 },
+                { "name_en": "Tulsipal", "name_or": "ତୁଳସୀପାଳ", "lat": 20.818, "lon": 85.242 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BLG",
+          "name_en": "Balangir",
+          "name_or": "ବଲାଙ୍ଗୀର",
+          "lat": 20.7074,
+          "lon": 83.4843,
+          "defaultPin": "767001",
+          "blocks": [
+            {
+              "name_en": "Balangir",
+              "name_or": "ବଲାଙ୍ଗୀର",
+              "villages": [
+                { "name_en": "Chandanbhati", "name_or": "ଚନ୍ଦନଭାଟି", "lat": 20.742, "lon": 83.465 },
+                { "name_en": "Sadaipali", "name_or": "ସଦାଇପାଲି", "lat": 20.692, "lon": 83.502 },
+                { "name_en": "Kudasingha", "name_or": "କୁଡ଼ାସିଂହା", "lat": 20.678, "lon": 83.442 },
+                { "name_en": "Chudapali", "name_or": "ଚୂଡ଼ାପାଲି", "lat": 20.755, "lon": 83.532 }
+              ]
+            },
+            {
+              "name_en": "Patnagarh",
+              "name_or": "ପାଟଣାଗଡ଼",
+              "villages": [
+                { "name_en": "Rampur", "name_or": "ରାମପୁର", "lat": 20.715, "lon": 83.148 },
+                { "name_en": "Bhalumunda", "name_or": "ଭାଲୁମୁଣ୍ଡା", "lat": 20.732, "lon": 83.175 },
+                { "name_en": "Ghasian", "name_or": "ଘସିଆଁ", "lat": 20.702, "lon": 83.215 },
+                { "name_en": "Tamian", "name_or": "ତାମିଆଁ", "lat": 20.688, "lon": 83.128 }
+              ]
+            },
+            {
+              "name_en": "Titilagarh",
+              "name_or": "ଟିଟିଲାଗଡ଼",
+              "villages": [
+                { "name_en": "Kholan", "name_or": "ଖୋଲାନ", "lat": 20.285, "lon": 83.152 },
+                { "name_en": "Bijepur", "name_or": "ବିଜେପୁର", "lat": 20.312, "lon": 83.178 },
+                { "name_en": "Naren", "name_or": "ନରେନ", "lat": 20.268, "lon": 83.124 },
+                { "name_en": "bandhupala", "name_or": "ବନ୍ଧୁপाला", "lat": 20.301, "lon": 83.195 }
+              ]
+            },
+            {
+              "name_en": "Loisingha",
+              "name_or": "ଲୋଇସିଂହା",
+              "villages": [
+                { "name_en": "Loisingha", "name_or": "ଲୋଇସିଂହା", "lat": 20.822, "lon": 83.512 },
+                { "name_en": "Jogisarda", "name_or": "ଯୋଗୀସର୍ଡ଼ା", "lat": 20.848, "lon": 83.489 },
+                { "name_en": "Kusang", "name_or": "କୁଶଙ୍ଗ", "lat": 20.805, "lon": 83.552 }
+              ]
+            },
+            {
+              "name_en": "Kantabanji",
+              "name_or": "କଣ୍ଟାବାଞ୍ଜି",
+              "villages": [
+                { "name_en": "Turekela", "name_or": "ତୁରେକେଲା", "lat": 20.482, "lon": 82.895 },
+                { "name_en": "Chatuanka", "name_or": "ଚଟୁଅଙ୍କା", "lat": 20.465, "lon": 82.932 },
+                { "name_en": "Dhamandanga", "name_or": "ଧାମନଡଙ୍ଗା", "lat": 20.502, "lon": 82.918 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BLS",
+          "name_en": "Balasore",
+          "name_or": "ବାଲେଶ୍ୱର",
+          "lat": 21.4934,
+          "lon": 86.9135,
+          "defaultPin": "756001",
+          "blocks": [
+            {
+              "name_en": "Balasore Sadar",
+              "name_or": "ବାଲେଶ୍ୱର ସଦର",
+              "villages": [
+                { "name_en": "Remuna", "name_or": "ରେମୁଣା", "lat": 21.522, "lon": 86.875 },
+                { "name_en": "Chandipur", "name_or": "ଚାନ୍ଦିପୁର", "lat": 21.468, "lon": 87.018 },
+                { "name_en": "Kuruda", "name_or": "କୁରୁଡ଼ା", "lat": 21.462, "lon": 86.898 },
+                { "name_en": "Haldipada", "name_or": "ହଳଦୀପଦା", "lat": 21.568, "lon": 87.012 },
+                { "name_en": "Rupsa", "name_or": "ରୂପ୍ସା", "lat": 21.588, "lon": 87.042 }
+              ]
+            },
+            {
+              "name_en": "Jaleswar",
+              "name_or": "ଜଳେଶ୍ୱର",
+              "villages": [
+                { "name_en": "Raibania", "name_or": "ରାଇବଣିଆ", "lat": 21.842, "lon": 87.185 },
+                { "name_en": "Lakshmannath", "name_or": "ଲକ୍ଷ୍ମଣନାଥ", "lat": 21.795, "lon": 87.232 },
+                { "name_en": "Khuad", "name_or": "ଖୁଆଡ଼", "lat": 21.772, "lon": 87.198 },
+                { "name_en": "Gobra", "name_or": "ଗୋବରା", "lat": 21.812, "lon": 87.215 }
+              ]
+            },
+            {
+              "name_en": "Soro",
+              "name_or": "ସୋର",
+              "villages": [
+                { "name_en": "Soro", "name_or": "ସୋର", "lat": 21.288, "lon": 86.688 },
+                { "name_en": "Anantapur", "name_or": "ଅନନ୍ତପୁର", "lat": 21.252, "lon": 86.735 },
+                { "name_en": "Gopalpur", "name_or": "ଗୋପାଳପୁର", "lat": 21.275, "lon": 86.762 },
+                { "name_en": "Mulising", "name_or": "ମୁଳିସିଂ", "lat": 21.305, "lon": 86.665 }
+              ]
+            },
+            {
+              "name_en": "Basta",
+              "name_or": "ବସ୍ତା",
+              "villages": [
+                { "name_en": "Basta", "name_or": "ବସ୍ତା", "lat": 21.688, "lon": 87.068 },
+                { "name_en": "Amarda Road", "name_or": "ଅମର୍ଦ୍ଦା ରୋଡ଼", "lat": 21.715, "lon": 87.095 },
+                { "name_en": "Mathani", "name_or": "ମଥାନୀ", "lat": 21.662, "lon": 87.088 }
+              ]
+            },
+            {
+              "name_en": "Nilagiri",
+              "name_or": "ନୀଳଗିରି",
+              "villages": [
+                { "name_en": "Nilagiri", "name_or": "ନୀଳଗିରି", "lat": 21.458, "lon": 86.772 },
+                { "name_en": "Mitrapur", "name_or": "ମିତ୍ରପୁର", "lat": 21.482, "lon": 86.805 },
+                { "name_en": "Berhampur", "name_or": "ବ୍ରହ୍ମପୁର", "lat": 21.425, "lon": 86.725 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BRG",
+          "name_en": "Bargarh",
+          "name_or": "ବରଗଡ଼",
+          "lat": 21.3340,
+          "lon": 83.6190,
+          "defaultPin": "768028",
+          "blocks": [
+            {
+              "name_en": "Bargarh",
+              "name_or": "ବରଗଡ଼",
+              "villages": [
+                { "name_en": "Tora", "name_or": "ତୋରା", "lat": 21.345, "lon": 83.642 },
+                { "name_en": "Katapali", "name_or": "କଟାପାଲି", "lat": 21.318, "lon": 83.595 },
+                { "name_en": "Gudesira", "name_or": "ଗୁଡ଼େଶିରା", "lat": 21.298, "lon": 83.612 },
+                { "name_en": "Khuntpali", "name_or": "ଖୁଣ୍ଟପାଲି", "lat": 21.358, "lon": 83.575 }
+              ]
+            },
+            {
+              "name_en": "Attabira",
+              "name_or": "ଅତାବିରା",
+              "villages": [
+                { "name_en": "Godभaga", "name_or": "ଗୋଡ଼ଭଗା", "lat": 21.412, "lon": 83.782 },
+                { "name_en": "Larambha", "name_or": "ଲରମ୍ଭା", "lat": 21.388, "lon": 83.815 },
+                { "name_en": "Lastala", "name_or": "ଲାସ୍ତଲା", "lat": 21.365, "lon": 83.752 },
+                { "name_en": "Paharsrigida", "name_or": "ପାହାଡ଼ଶ୍ରୀগিଡ଼ା", "lat": 21.428, "lon": 83.798 }
+              ]
+            },
+            {
+              "name_en": "Padampur",
+              "name_or": "ପଦ୍ମପୁର",
+              "villages": [
+                { "name_en": "Padampur", "name_or": "ପଦ୍ମପୁର", "lat": 21.005, "lon": 83.065 },
+                { "name_en": "Bheden", "name_or": "ଭେଡ଼େନ", "lat": 21.192, "lon": 83.742 },
+                { "name_en": "Barpali", "name_or": "ବରପାଲି", "lat": 21.185, "lon": 83.592 },
+                { "name_en": "Bijepur", "name_or": "ବିଜେପୁର", "lat": 21.198, "lon": 83.428 }
+              ]
+            },
+            {
+              "name_en": "Sohela",
+              "name_or": "ସୋହେଲା",
+              "villages": [
+                { "name_en": "Sohela", "name_or": "ସୋହେଲା", "lat": 21.275, "lon": 83.385 },
+                { "name_en": "Ghess", "name_or": "ଘେঁସ", "lat": 21.188, "lon": 83.312 },
+                { "name_en": "Panichhatra", "name_or": "ପାଣିଛତ୍ର", "lat": 21.298, "lon": 83.412 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BHD",
+          "name_en": "Bhadrak",
+          "name_or": "ଭଦ୍ରକ",
+          "lat": 21.0574,
+          "lon": 86.4963,
+          "defaultPin": "756100",
+          "blocks": [
+            {
+              "name_en": "Bhadrak",
+              "name_or": "ଭଦ୍ରକ",
+              "villages": [
+                { "name_en": "Arnandpur", "name_or": "ଅର୍ଣ୍ଣପାଳ", "lat": 21.068, "lon": 86.512 },
+                { "name_en": "Rania", "name_or": "ରାଣିଆ", "lat": 21.042, "lon": 86.475 },
+                { "name_en": "Charampa", "name_or": "ଚରମ୍ପା", "lat": 21.078, "lon": 86.492 },
+                { "name_en": "Gelpur", "name_or": "ଗେଲପୁର", "lat": 21.032, "lon": 86.508 }
+              ]
+            },
+            {
+              "name_en": "Chandabali",
+              "name_or": "ଚାନ୍ଦବାଲି",
+              "villages": [
+                { "name_en": "Aradi", "name_or": "ଆରଡ଼ି", "lat": 20.895, "lon": 86.582 },
+                { "name_en": "Dhamra", "name_or": "ଧାମରା", "lat": 20.792, "lon": 86.895 },
+                { "name_en": "Moto", "name_or": "ମୋଟୋ", "lat": 20.842, "lon": 86.695 },
+                { "name_en": "Bansada", "name_or": "ବାঁଶଡ଼ା", "lat": 20.865, "lon": 86.742 }
+              ]
+            },
+            {
+              "name_en": "Basudevpur",
+              "name_or": "ବାସୁଦେବପୁର",
+              "villages": [
+                { "name_en": "Basudevpur", "name_or": "ବାସୁଦେବପୁର", "lat": 21.138, "lon": 86.742 },
+                { "name_en": "Eram", "name_or": "ଇରମ", "lat": 21.158, "lon": 86.798 },
+                { "name_en": "Naikanidihi", "name_or": "నାଇକାଣିଡିହି", "lat": 21.095, "lon": 86.765 }
+              ]
+            },
+            {
+              "name_en": "Dhamnagar",
+              "name_or": "ଧାମନଗର",
+              "villages": [
+                { "name_en": "Dhamnagar", "name_or": "ଧାମନଗର", "lat": 20.915, "lon": 86.442 },
+                { "name_en": "Asurali", "name_or": "ଅସୁରାଳି", "lat": 20.952, "lon": 86.468 },
+                { "name_en": "Dobal", "name_or": "ଦୋବଲ", "lat": 20.898, "lon": 86.425 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "BOU",
+          "name_en": "Boudh",
+          "name_or": "ବୌଦ୍ଧ",
+          "lat": 20.8364,
+          "lon": 84.3263,
+          "defaultPin": "762014",
+          "blocks": [
+            {
+              "name_en": "Boudh",
+              "name_or": "ବୌଦ୍ଧ",
+              "villages": [
+                { "name_en": "Baunsuni", "name_or": "ବାଉଁଶୁଣୀ", "lat": 20.812, "lon": 84.105 },
+                { "name_en": "Manamunda", "name_or": "ମନମୁଣ୍ଡା", "lat": 20.835, "lon": 83.928 },
+                { "name_en": "Baghiapada", "name_or": "ବଘିଆପଡ଼ା", "lat": 20.768, "lon": 84.285 },
+                { "name_en": "Janhapank", "name_or": "ଜହ୍ନାପଙ୍କ", "lat": 20.822, "lon": 84.242 }
+              ]
+            },
+            {
+              "name_en": "Harabhanga",
+              "name_or": "ହରଭଙ୍ଗା",
+              "villages": [
+                { "name_en": "Charichhak", "name_or": "ଚାରିଛକ", "lat": 20.665, "lon": 84.452 },
+                { "name_en": "Purunakatak", "name_or": "ପୁରୁଣାକଟକ", "lat": 20.652, "lon": 84.385 },
+                { "name_en": "Adenigarh", "name_or": "ଆଡ଼େଣିଗଡ଼", "lat": 20.598, "lon": 84.512 },
+                { "name_en": "Harabhanga", "name_or": "ହରଭଙ୍ଗା", "lat": 20.682, "lon": 84.588 }
+              ]
+            },
+            {
+              "name_en": "Kantamal",
+              "name_or": "କଣ୍ଟାମାଳ",
+              "villages": [
+                { "name_en": "Kantamal", "name_or": "କଣ୍ଟାମାଳ", "lat": 20.658, "lon": 83.745 },
+                { "name_en": "Palasagora", "name_or": "ପଳାଶଗୋରା", "lat": 20.732, "lon": 83.852 },
+                { "name_en": "Ghantapada", "name_or": "ଘଣ୍ଟାପଡ଼ା", "lat": 20.585, "lon": 83.792 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CTC",
+          "name_en": "Cuttack",
+          "name_or": "କଟକ",
+          "lat": 20.4625,
+          "lon": 85.8830,
+          "defaultPin": "753001",
+          "blocks": [
+            {
+              "name_en": "Cuttack Sadar",
+              "name_or": "କଟକ ସଦର",
+              "villages": [
+                { "name_en": "Kandarpur", "name_or": "କନ୍ଦରପୁର", "lat": 20.428, "lon": 85.962 },
+                { "name_en": "Bidyadharpur", "name_or": "ବିଦ୍ୟାଧରପୁର", "lat": 20.451, "lon": 85.932 },
+                { "name_en": "42 Mouza", "name_or": "୪୨ ମୌଜା", "lat": 20.412, "lon": 85.948 },
+                { "name_en": "Phulnakhara", "name_or": "ଫୁଲନଖରା", "lat": 20.368, "lon": 85.898 },
+                { "name_en": "Gopalpur", "name_or": "ଗୋପାଳପୁର", "lat": 20.435, "lon": 85.892 }
+              ]
+            },
+            {
+              "name_en": "Banki",
+              "name_or": "ବାଙ୍କୀ",
+              "villages": [
+                { "name_en": "Subarnapur", "name_or": "ସୁବର୍ଣ୍ଣପୁର", "lat": 20.382, "lon": 85.535 },
+                { "name_en": "kalapathar", "name_or": "କଳାପଥର", "lat": 20.312, "lon": 85.468 },
+                { "name_en": "Baideswar", "name_or": "ବୈଦେଶ୍ୱର", "lat": 20.352, "lon": 85.425 },
+                { "name_en": "Tulasipur", "name_or": "ତୁଳସୀପୁର", "lat": 20.375, "lon": 85.512 }
+              ]
+            },
+            {
+              "name_en": "Salipur",
+              "name_or": "ସାଲେପୁର",
+              "villages": [
+                { "name_en": "Salipur", "name_or": "ସାଲେପୁର", "lat": 20.478, "lon": 86.112 },
+                { "name_en": "Japakuza", "name_or": "ଜପକୁଦ", "lat": 20.462, "lon": 86.085 },
+                { "name_en": "Nischintakoili", "name_or": "ନିଶ୍ଚିନ୍ତକୋଇଲି", "lat": 20.485, "lon": 86.192 },
+                { "name_en": "Baharbisnabar", "name_or": "ବାହାରବିଶିନାବର", "lat": 20.471, "lon": 86.125 }
+              ]
+            },
+            {
+              "name_en": "Athagarh",
+              "name_or": "ଆଠଗଡ଼",
+              "villages": [
+                { "name_en": "Athagarh", "name_or": "ଆଠଗଡ଼", "lat": 20.522, "lon": 85.625 },
+                { "name_en": "Khuntuni", "name_or": "ଖୁଣ୍ଟୁଣୀ", "lat": 20.558, "lon": 85.712 },
+                { "name_en": "Gurudijhatia", "name_or": "ଗୁରୁଡ଼ିଝାଟିଆ", "lat": 20.538, "lon": 85.685 },
+                { "name_en": "Tigiria", "name_or": "ତିଗିରିଆ", "lat": 20.435, "lon": 85.522 }
+              ]
+            },
+            {
+              "name_en": "Niali",
+              "name_or": "ନିଆଳି",
+              "villages": [
+                { "name_en": "Niali", "name_or": "ନିଆଳି", "lat": 20.145, "lon": 86.058 },
+                { "name_en": "Madhab", "name_or": "ମାଧବ", "lat": 20.118, "lon": 86.085 },
+                { "name_en": "Kasarda", "name_or": "କସର୍ଦ୍ଦା", "lat": 20.168, "lon": 86.098 }
+              ]
+            },
+            {
+              "name_en": "Tangi-Choudwar",
+              "name_or": "ଟାଙ୍ଗୀ-ଚୌଦ୍ୱାର",
+              "villages": [
+                { "name_en": "Tangi", "name_or": "ଟାଙ୍ଗୀ", "lat": 20.568, "lon": 85.975 },
+                { "name_en": "Choudwar", "name_or": "ଚୌଦ୍ୱାର", "lat": 20.525, "lon": 85.915 },
+                { "name_en": "Mangatrajpur", "name_or": "ମଙ୍ଗରାଜପୁର", "lat": 20.548, "lon": 85.952 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DEO",
+          "name_en": "Deogarh",
+          "name_or": "ଦେବଗଡ଼",
+          "lat": 21.5367,
+          "lon": 84.7336,
+          "defaultPin": "768108",
+          "blocks": [
+            {
+              "name_en": "Tileibani",
+              "name_or": "ତିଳେଇବଣି",
+              "villages": [
+                { "name_en": "Kansar", "name_or": "କଂସର", "lat": 21.515, "lon": 84.682 },
+                { "name_en": "Suguda", "name_or": "ସୁଗୁଡ଼ା", "lat": 21.552, "lon": 84.765 },
+                { "name_en": "Laimura", "name_or": "ଲାଇମୁରା", "lat": 21.612, "lon": 84.695 }
+              ]
+            },
+            {
+              "name_en": "Barkote",
+              "name_or": "ବାରକୋଟ",
+              "villages": [
+                { "name_en": "Kalla", "name_or": "କଲ୍ଲା", "lat": 21.542, "lon": 85.012 },
+                { "name_en": "Bamparda", "name_or": "ବମ୍ପରଡ଼ା", "lat": 21.518, "lon": 84.962 },
+                { "name_en": "Rambhei", "name_or": "ରମ୍ଭେଇ", "lat": 21.535, "lon": 84.985 }
+              ]
+            },
+            {
+              "name_en": "Reamal",
+              "name_or": "ରିଆମାଳ",
+              "villages": [
+                { "name_en": "Reamal", "name_or": "ରିଆମାଳ", "lat": 21.352, "lon": 84.652 },
+                { "name_en": "Kundheigola", "name_or": "କୁଣ୍ଢେଇଗୋଳା", "lat": 21.258, "lon": 84.765 },
+                { "name_en": "Chhatabar", "name_or": "ଛତାବର", "lat": 21.318, "lon": 84.712 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "DHK",
+          "name_en": "Dhenkanal",
+          "name_or": "ଢେଙ୍କାନାଳ",
+          "lat": 20.6593,
+          "lon": 85.5960,
+          "defaultPin": "759001",
+          "blocks": [
+            {
+              "name_en": "Dhenkanal Sadar",
+              "name_or": "ଢେଙ୍କାନାଳ ସଦର",
+              "villages": [
+                { "name_en": "Govindpur", "name_or": "ଗୋବିନ୍ଦପୁର", "lat": 20.642, "lon": 85.625 },
+                { "name_en": "Saptasajya", "name_or": "ସପ୍ତଶଯ୍ୟା", "lat": 20.618, "lon": 85.552 },
+                { "name_en": "Beltikiri", "name_or": "ବେଲଟିକିରି", "lat": 20.668, "lon": 85.578 },
+                { "name_en": "Sankarpur", "name_or": "ଶଙ୍କରପୁର", "lat": 20.682, "lon": 85.642 }
+              ]
+            },
+            {
+              "name_en": "Kamakhyanagar",
+              "name_or": "କାମାକ୍ଷାନଗର",
+              "villages": [
+                { "name_en": "Baisinga", "name_or": "বৈசிంగా", "lat": 20.922, "lon": 85.545 },
+                { "name_en": "Mathakargola", "name_or": "ମଠକରଗୋଳା", "lat": 20.895, "lon": 85.512 },
+                { "name_en": "Bhairpur", "name_or": "ଭৈରପୁର", "lat": 20.908, "lon": 85.568 }
+              ]
+            },
+            {
+              "name_en": "Hindol",
+              "name_or": "ହିନ୍ଦୋଳ",
+              "villages": [
+                { "name_en": "Hindol", "name_or": "ହିନ୍ଦୋଳ", "lat": 20.612, "lon": 85.205 },
+                { "name_en": "Rasol", "name_or": "ରାସୋଳ", "lat": 20.635, "lon": 85.312 },
+                { "name_en": "Khajuriakata", "name_or": "ଖଜୁରିଆକଟା", "lat": 20.658, "lon": 85.265 }
+              ]
+            },
+            {
+              "name_en": "Gondia",
+              "name_or": "ଗନ୍ଦିଆ",
+              "villages": [
+                { "name_en": "Joranda", "name_or": "ଯୋରନ୍ଦା", "lat": 20.768, "lon": 85.685 },
+                { "name_en": "Gondia", "name_or": "ଗନ୍ଦିଆ", "lat": 20.742, "lon": 85.752 },
+                { "name_en": "Pingua", "name_or": "ପିଙ୍ଗୁଆ", "lat": 20.785, "lon": 85.812 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GAJ",
+          "name_en": "Gajapati",
+          "name_or": "ଗଜପତି",
+          "lat": 18.7797,
+          "lon": 84.0939,
+          "defaultPin": "761200",
+          "blocks": [
+            {
+              "name_en": "Gosani",
+              "name_or": "ଗୋଷାଣୀ",
+              "villages": [
+                { "name_en": "Gurandi", "name_or": "ଗୁରାଣ୍ଡି", "lat": 18.812, "lon": 84.142 },
+                { "name_en": "Kerandi", "name_or": "କେରାଣ୍ଡି", "lat": 18.792, "lon": 84.115 },
+                { "name_en": "Uppalada", "name_or": "ଉପଲଡ଼ା", "lat": 18.828, "lon": 84.165 }
+              ]
+            },
+            {
+              "name_en": "Mohana",
+              "name_or": "ମୋହନା",
+              "villages": [
+                { "name_en": "Chandragiri", "name_or": "ଚନ୍ଦ୍ରଗିରି", "lat": 19.285, "lon": 84.282 },
+                { "name_en": "Adava", "name_or": "ଅଡ଼ବା", "lat": 19.342, "lon": 84.198 },
+                { "name_en": "Mohana", "name_or": "ମୋହନା", "lat": 19.442, "lon": 84.268 }
+              ]
+            },
+            {
+              "name_en": "R.Udayagiri",
+              "name_or": "ଆର.ଉଦୟଗିରି",
+              "villages": [
+                { "name_en": "R.Udayagiri", "name_or": "ଆର.ଉଦୟଗିରି", "lat": 19.162, "lon": 84.142 },
+                { "name_en": "Chelligada", "name_or": "ଛେଳିଗଡ଼", "lat": 19.195, "lon": 84.185 },
+                { "name_en": "Mahendragada", "name_or": "ମହେନ୍ଦ୍ରଗଡ଼", "lat": 19.128, "lon": 84.212 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "GAN",
+          "name_en": "Ganjam",
+          "name_or": "ଗଞ୍ଜାମ",
+          "lat": 19.3870,
+          "lon": 85.0510,
+          "defaultPin": "760001",
+          "blocks": [
+            {
+              "name_en": "Chatrapur",
+              "name_or": "ଛତ୍ରପୁର",
+              "villages": [
+                { "name_en": "Gopalpur", "name_or": "ଗୋପାଳପୁର", "lat": 19.264, "lon": 84.912 },
+                { "name_en": "Chamhandi", "name_or": "ଚମାଖଣ୍ଡି", "lat": 19.322, "lon": 84.955 },
+                { "name_en": "Narendrapur", "name_or": "ନରେନ୍ଦ୍ରପୁର", "lat": 19.348, "lon": 84.968 },
+                { "name_en": "Podapadar", "name_or": "ପୋଡ଼ାପଦର", "lat": 19.362, "lon": 85.012 }
+              ]
+            },
+            {
+              "name_en": "Aska",
+              "name_or": "ଆସିକା",
+              "villages": [
+                { "name_en": "Nuagam", "name_or": "ନୂଆଗାଁ", "lat": 19.612, "lon": 84.662 },
+                { "name_en": "Balisira", "name_or": "ବାଲିସିରା", "lat": 19.635, "lon": 84.688 },
+                { "name_en": "Kotinada", "name_or": "କୋଟିନଡ଼ା", "lat": 19.598, "lon": 84.645 }
+              ]
+            },
+            {
+              "name_en": "Bhanjanagar",
+              "name_or": "ଭଞ୍ଜନଗର",
+              "villages": [
+                { "name_en": "Bhanjanagar", "name_or": "ଭଞ୍ଜନଗର", "lat": 19.935, "lon": 84.582 },
+                { "name_en": "Kullada", "name_or": "କୁଲାଡ଼", "lat": 19.972, "lon": 84.598 },
+                { "name_en": "Gereda", "name_or": "ଗେରେଡ଼ା", "lat": 19.912, "lon": 84.552 }
+              ]
+            },
+            {
+              "name_en": "Hinjilicut",
+              "name_or": "ହିଞ୍ଜିଳିକାଟୁ",
+              "villages": [
+                { "name_en": "Hinjilicut", "name_or": "ହିଞ୍ଜିଳିକାଟୁ", "lat": 19.482, "lon": 84.745 },
+                { "name_en": "Kanchuru", "name_or": "କାଞ୍ଚୁରୁ", "lat": 19.458, "lon": 84.768 },
+                { "name_en": "Bhabandh", "name_or": "ଭାବନ୍ଧ", "lat": 19.498, "lon": 84.725 }
+              ]
+            },
+            {
+              "name_en": "Rangeilunda",
+              "name_or": "ରଙ୍ଗେଇଲୁଣ୍ଡା",
+              "villages": [
+                { "name_en": "Kanisi", "name_or": "କନିଷି", "lat": 19.285, "lon": 84.852 },
+                { "name_en": "Golanthara", "name_or": "ଗୋଳନ୍ଥରା", "lat": 19.225, "lon": 84.812 },
+                { "name_en": "Sunapur", "name_or": "ସୁନାପୁର", "lat": 19.122, "lon": 84.782 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "JAG",
+          "name_en": "Jagatsinghpur",
+          "name_or": "ଜଗତସିଂହପୁର",
+          "lat": 20.2549,
+          "lon": 86.1706,
+          "defaultPin": "754103",
+          "blocks": [
+            {
+              "name_en": "Jagatsinghpur",
+              "name_or": "ଜଗତସିଂହପୁର",
+              "villages": [
+                { "name_en": "Punanga", "name_or": "ପୁନଙ୍ଗ", "lat": 20.268, "lon": 86.185 },
+                { "name_en": "Mandal", "name_or": "ମଣ୍ଡଳ", "lat": 20.242, "lon": 86.152 },
+                { "name_en": "Taradapada", "name_or": "ତରଡ଼ାପଡ଼ା", "lat": 20.278, "lon": 86.165 },
+                { "name_en": "Alipingal", "name_or": "ଅଳିପିଙ୍ଗଳ", "lat": 20.215, "lon": 86.192 }
+              ]
+            },
+            {
+              "name_en": "Kujang",
+              "name_or": "କୁଜଙ୍ଗ",
+              "villages": [
+                { "name_en": "Paradeepgarh", "name_or": "ପାରାଦୀପଗଡ଼", "lat": 20.305, "lon": 86.585 },
+                { "name_en": "Bhutmundai", "name_or": "ଭୂତମୁଣ୍ଡାଇ", "lat": 20.328, "lon": 86.542 },
+                { "name_en": "Pankapal", "name_or": "ପଙ୍କପାଳ", "lat": 20.312, "lon": 86.485 }
+              ]
+            },
+            {
+              "name_en": "Tirtol",
+              "name_or": "ତିର୍ତ୍ତୋଲ",
+              "villages": [
+                { "name_en": "Tirtol", "name_or": "ତିର୍ତ୍ତୋଲ", "lat": 20.312, "lon": 86.325 },
+                { "name_en": "Kanakpur", "name_or": "କନକପୁର", "lat": 20.328, "lon": 86.265 },
+                { "name_en": "Manijanga", "name_or": "ମଣିଜଙ୍ଗା", "lat": 20.302, "lon": 86.365 }
+              ]
+            },
+            {
+              "name_en": "Erasama",
+              "name_or": "ଏରସମା",
+              "villages": [
+                { "name_en": "Erasama", "name_or": "ଏରସମା", "lat": 20.195, "lon": 86.425 },
+                { "name_en": "Gadaharishpur", "name_or": "ଗଡ଼ହରିଶପୁର", "lat": 20.145, "lon": 86.475 },
+                { "name_en": "Balikuda", "name_or": "ବାଲିକୁଦା", "lat": 20.142, "lon": 86.252 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "JAJ",
+          "name_en": "Jajpur",
+          "name_or": "ଯାଜପୁର",
+          "lat": 20.8484,
+          "lon": 86.3372,
+          "defaultPin": "755001",
+          "blocks": [
+            {
+              "name_en": "Jajpur",
+              "name_or": "ଯାଜପୁର",
+              "villages": [
+                { "name_en": "Panikoili", "name_or": "ପାଣିକୋଇଲି", "lat": 20.912, "lon": 86.185 },
+                { "name_en": "Sujanpur", "name_or": "ସୁଜନପୁର", "lat": 20.835, "lon": 86.312 },
+                { "name_en": "Chhatia", "name_or": "ଛତିଆ", "lat": 20.642, "lon": 86.025 },
+                { "name_en": "Baruan", "name_or": "ବରୁଆଁ", "lat": 20.822, "lon": 86.245 }
+              ]
+            },
+            {
+              "name_en": "Dharmasala",
+              "name_or": "ଧର୍ମଶାଳା",
+              "villages": [
+                { "name_en": "Jaraka", "name_or": "ଜାରକା", "lat": 20.778, "lon": 86.142 },
+                { "name_en": "Kuakhia", "name_or": "କୁଆଖିଆ", "lat": 20.822, "lon": 86.165 },
+                { "name_en": "Haridaspur", "name_or": "ହରିଦାସପୁର", "lat": 20.718, "lon": 86.095 }
+              ]
+            },
+            {
+              "name_en": "Sukinda",
+              "name_or": "ସୁକିନ୍ଦା",
+              "villages": [
+                { "name_en": "Sukinda", "name_or": "ସୁକିନ୍ଦା", "lat": 20.962, "lon": 85.915 },
+                { "name_en": "Kalinganagar", "name_or": "କଳିଙ୍ଗନଗର", "lat": 20.975, "lon": 86.025 },
+                { "name_en": "Duburi", "name_or": "ଡୁବୁରୀ", "lat": 20.945, "lon": 85.985 }
+              ]
+            },
+            {
+              "name_en": "Binjharpur",
+              "name_or": "ବିଞ୍ଝାରପୁର",
+              "villages": [
+                { "name_en": "Binjharpur", "name_or": "ବିଞ୍ଝାରପୁର", "lat": 20.735, "lon": 86.395 },
+                { "name_en": "Singhpur", "name_or": "ସିଂହପୁର", "lat": 20.768, "lon": 86.442 },
+                { "name_en": "Pritipur", "name_or": "ପ୍ରୀତିପୁର", "lat": 20.752, "lon": 86.365 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "JHR",
+          "name_en": "Jharsuguda",
+          "name_or": "ଝାରସୁଗୁଡ଼ା",
+          "lat": 21.8554,
+          "lon": 84.0062,
+          "defaultPin": "768201",
+          "blocks": [
+            {
+              "name_en": "Jharsuguda",
+              "name_or": "ଝାରସୁଗୁଡ଼ା",
+              "villages": [
+                { "name_en": "Badmal", "name_or": "ବଡ଼ମାଳ", "lat": 21.825, "lon": 83.982 },
+                { "name_en": "Hirma", "name_or": "ହିର୍ମା", "lat": 21.872, "lon": 84.035 },
+                { "name_en": "Durlaga", "name_or": "ଦୁର୍ଲଗା", "lat": 21.842, "lon": 84.065 }
+              ]
+            },
+            {
+              "name_en": "Lakhanpur",
+              "name_or": "ଲଖନପୁର",
+              "villages": [
+                { "name_en": "Bandhabahal", "name_or": "ବନ୍ଧବାହାଲ", "lat": 21.745, "lon": 83.865 },
+                { "name_en": "Katarbaga", "name_or": "କତରବଗା", "lat": 21.698, "lon": 84.085 },
+                { "name_en": "Panchgaon", "name_or": "ପଞ୍ଚଗାଁ", "lat": 21.725, "lon": 83.812 }
+              ]
+            },
+            {
+              "name_en": "Kolabira",
+              "name_or": "କୋଲାବିରା",
+              "villages": [
+                { "name_en": "Kolabira", "name_or": "କୋଲାବିରା", "lat": 21.815, "lon": 84.135 },
+                { "name_en": "Raghunathpali", "name_or": "ରଘୁନାଥପାଲି", "lat": 21.832, "lon": 84.162 },
+                { "name_en": "Laikera", "name_or": "ଲାଇକେରା", "lat": 21.925, "lon": 84.225 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "KAL",
+          "name_en": "Kalahandi",
+          "name_or": "କଳାହାଣ୍ଡି",
+          "lat": 19.9137,
+          "lon": 83.1649,
+          "defaultPin": "766001",
+          "blocks": [
+            {
+              "name_en": "Bhawanipatna",
+              "name_or": "ଭବାନୀପାଟଣା",
+              "villages": [
+                { "name_en": "Medinipur", "name_or": "ମେଦିନୀପୁର", "lat": 19.932, "lon": 83.185 },
+                { "name_en": "Borda", "name_or": "ବୋର୍ଡ଼ା", "lat": 19.968, "lon": 83.095 },
+                { "name_en": "Dadpur", "name_or": "ଦାଦପୁର", "lat": 19.955, "lon": 83.225 },
+                { "name_en": "Pastikudi", "name_or": "ପସ୍ତିକୁଡ଼ି", "lat": 19.922, "lon": 83.128 }
+              ]
+            },
+            {
+              "name_en": "Dharamgarh",
+              "name_or": "ଧର୍ମଗଡ଼",
+              "villages": [
+                { "name_en": "Koksara", "name_or": "କୋକସରା", "lat": 19.685, "lon": 82.785 },
+                { "name_en": "Behera", "name_or": "ବେହେରା", "lat": 19.742, "lon": 82.695 },
+                { "name_en": "Parla", "name_or": "ପର୍ଲା", "lat": 19.765, "lon": 82.812 }
+              ]
+            },
+            {
+              "name_en": "Junagarh",
+              "name_or": "ଜୁନାଗଡ଼",
+              "villages": [
+                { "name_en": "Junagarh", "name_or": "ଜୁନାଗଡ଼", "lat": 19.862, "lon": 82.935 },
+                { "name_en": "Chichaiguda", "name_or": "ଚିଚൈଗୁଡ଼ା", "lat": 19.885, "lon": 82.965 },
+                { "name_en": "Habaspur", "name_or": "ହବସପୁର", "lat": 19.842, "lon": 82.912 }
+              ]
+            },
+            {
+              "name_en": "Kesinga",
+              "name_or": "କେସିଙ୍ଗା",
+              "villages": [
+                { "name_en": "Kesinga", "name_or": "କେସିଙ୍ଗା", "lat": 20.192, "lon": 83.225 },
+                { "name_en": "Utkela", "name_or": "ଉତ୍କେଲା", "lat": 20.105, "lon": 83.185 },
+                { "name_en": "Belkhandi", "name_or": "ବେଲଖଣ୍ଡି", "lat": 20.235, "lon": 83.285 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "KAN",
+          "name_en": "Kandhamal",
+          "name_or": "କନ୍ଧମାଳ",
+          "lat": 20.4780,
+          "lon": 84.2340,
+          "defaultPin": "762001",
+          "blocks": [
+            {
+              "name_en": "Phulbani",
+              "name_or": "ଫୁଲବାଣୀ",
+              "villages": [
+                { "name_en": "Katringia", "name_or": "କତ୍ରିଙ୍ଗିଆ", "lat": 20.452, "lon": 84.212 },
+                { "name_en": "Gumagarh", "name_or": "ଗୁମାଗଡ଼", "lat": 20.495, "lon": 84.265 },
+                { "name_en": "Bisipada", "name_or": "ବିଶିପଡ଼ା", "lat": 20.425, "lon": 84.312 }
+              ]
+            },
+            {
+              "name_en": "G. Udayagiri",
+              "name_or": "ଜି. ଉଦୟଗିରି",
+              "villages": [
+                { "name_en": "Raikia", "name_or": "ରାଇକିଆ", "lat": 20.068, "lon": 84.215 },
+                { "name_en": "Daringbadi", "name_or": "ଦାରିଙ୍ଗବାଡ଼ି", "lat": 19.905, "lon": 84.132 },
+                { "name_en": "Kalinga", "name_or": "କଳିଙ୍ଗା", "lat": 20.158, "lon": 84.412 }
+              ]
+            },
+            {
+              "name_en": "Balliguda",
+              "name_or": "ବାଲିଗୁଡ଼ା",
+              "villages": [
+                { "name_en": "Balliguda", "name_or": "ବାଲିଗୁଡ଼ା", "lat": 20.192, "lon": 83.912 },
+                { "name_en": "Tumudibandha", "name_or": "ତୁମୁଡ଼ିବନ୍ଧ", "lat": 19.958, "lon": 83.715 },
+                { "name_en": "Kotagarh", "name_or": "କୋଟଗଡ଼", "lat": 19.812, "lon": 83.745 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "KDP",
+          "name_en": "Kendrapara",
+          "name_or": "କେନ୍ଦ୍ରାପଡ଼ା",
+          "lat": 20.5015,
+          "lon": 86.4166,
+          "defaultPin": "754211",
+          "blocks": [
+            {
+              "name_en": "Kendrapara",
+              "name_or": "କେନ୍ଦ୍ରାପଡ଼ା",
+              "villages": [
+                { "name_en": "Gulnagar", "name_or": "ଗୁଲନଗର", "lat": 20.512, "lon": 86.425 },
+                { "name_en": "Indupur", "name_or": "ଇନ୍ଦୁପୁର", "lat": 20.548, "lon": 86.385 },
+                { "name_en": "ShyamSunderpur", "name_or": "ଶ୍ୟାମସୁନ୍ଦରପୁର", "lat": 20.495, "lon": 86.405 }
+              ]
+            },
+            {
+              "name_en": "Pattamundai",
+              "name_or": "ପଟ୍ଟାମୁଣ୍ଡାଇ",
+              "villages": [
+                { "name_en": "Chandanpur", "name_or": "ଚନ୍ଦନପୁର", "lat": 20.578, "lon": 86.565 },
+                { "name_en": "Rajnagar", "name_or": "ରାଜନଗର", "lat": 20.585, "lon": 86.712 },
+                { "name_en": "Alapua", "name_or": "ଅଳପୁଆ", "lat": 20.562, "lon": 86.542 }
+              ]
+            },
+            {
+              "name_en": "Aul",
+              "name_or": "ଆଳି",
+              "villages": [
+                { "name_en": "Aul", "name_or": "ଆଳି", "lat": 20.712, "lon": 86.645 },
+                { "name_en": "Rajkanika", "name_or": "ରାଜକନିକା", "lat": 20.735, "lon": 86.712 },
+                { "name_en": "Singiri", "name_or": "ସିଙ୍ଗିରି", "lat": 20.688, "lon": 86.612 }
+              ]
+            },
+            {
+              "name_en": "Marsaghai",
+              "name_or": "ମାର୍ଶାଘାଇ",
+              "villages": [
+                { "name_en": "Marsaghai", "name_or": "ମାର୍ଶାଘାଇ", "lat": 20.435, "lon": 86.495 },
+                { "name_en": "Mahakalapada", "name_or": "ମହାକାଳପଡ଼ା", "lat": 20.422, "lon": 86.605 },
+                { "name_en": "Karilopatna", "name_or": "କରିଲୋପାଟଣା", "lat": 20.448, "lon": 86.395 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "KJR",
+          "name_en": "Kendujhar",
+          "name_or": "କେନ୍ଦୁଝର",
+          "lat": 21.6289,
+          "lon": 85.5817,
+          "defaultPin": "758001",
+          "blocks": [
+            {
+              "name_en": "Kendujhar Sadar",
+              "name_or": "କେନ୍ଦୁଝର ସଦର",
+              "villages": [
+                { "name_en": "Raisuan", "name_or": "రାଇସୁଆଁ", "lat": 21.668, "lon": 85.565 },
+                { "name_en": "Padmapur", "name_or": "ପଦ୍ମପୁର", "lat": 21.612, "lon": 85.605 },
+                { "name_en": "Palaspanga", "name_or": "ପଳାଶପଙ୍ଗା", "lat": 21.742, "lon": 85.545 }
+              ]
+            },
+            {
+              "name_en": "Anandapur",
+              "name_or": "ଆନନ୍ଦପୁର",
+              "villages": [
+                { "name_en": "Ghasipura", "name_or": "ଘସିପୁରା", "lat": 21.205, "lon": 86.115 },
+                { "name_en": "Salapada", "name_or": "ଶାଳପଡ଼ା", "lat": 21.228, "lon": 86.142 },
+                { "name_en": "Hatadihi", "name_or": "ହାଟଡିହି", "lat": 21.215, "lon": 86.245 }
+              ]
+            },
+            {
+              "name_en": "Champua",
+              "name_or": "ଚମ୍ପୁଆ",
+              "villages": [
+                { "name_en": "Champua", "name_or": "ଚମ୍ପୁଆ", "lat": 22.065, "lon": 85.665 },
+                { "name_en": "Joda", "name_or": "ଯୋଡ଼ା", "lat": 22.018, "lon": 85.425 },
+                { "name_en": "Barbil", "name_or": "ବଡ଼ବିଲ", "lat": 22.115, "lon": 85.385 }
+              ]
+            },
+            {
+              "name_en": "Ghatagaon",
+              "name_or": "ଘଟଗାଁ",
+              "villages": [
+                { "name_en": "Ghatagaon", "name_or": "ଘଟଗାଁ", "lat": 21.392, "lon": 85.895 },
+                { "name_en": "Dhenkikote", "name_or": "ଢେଙ୍କିକୋଟ", "lat": 21.495, "lon": 85.825 },
+                { "name_en": "Harichandanpur", "name_or": "ହରିଚନ୍ଦନପୁର", "lat": 21.335, "lon": 85.792 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "KHO",
+          "name_en": "Khordha",
+          "name_or": "ଖୋର୍ଦ୍ଧା",
+          "lat": 20.1823,
+          "lon": 85.6186,
+          "defaultPin": "752055",
+          "blocks": [
+            {
+              "name_en": "Bhubaneswar",
+              "name_or": "ଭୁବନେଶ୍ୱର",
+              "villages": [
+                { "name_en": "Mendhasal", "name_or": "ମେଣ୍ଢାଶାଳ", "lat": 20.268, "lon": 85.712 },
+                { "name_en": "Chandaka", "name_or": "ଚନ୍ଦକା", "lat": 20.342, "lon": 85.765 },
+                { "name_en": "Dhauli", "name_or": "ଧଉଳି", "lat": 20.192, "lon": 85.838 },
+                { "name_en": "Kalarahanga", "name_or": "କଳାରାହଙ୍ଗ", "lat": 20.358, "lon": 85.835 },
+                { "name_en": "Tamando", "name_or": "ତମାଣ୍ଡୋ", "lat": 20.238, "lon": 85.752 }
+              ]
+            },
+            {
+              "name_en": "Jatni",
+              "name_or": "ଜଟଣୀ",
+              "villages": [
+                { "name_en": "Retang", "name_or": "ରେତଙ୍ଗ", "lat": 20.158, "lon": 85.705 },
+                { "name_en": "Janla", "name_or": "ଜାଁଳା", "lat": 20.212, "lon": 85.722 },
+                { "name_en": "Harirajpur", "name_or": "ହରିରାଜପୁର", "lat": 20.128, "lon": 85.748 },
+                { "name_en": "Chhanaghar", "name_or": "ଛଣଘର", "lat": 20.195, "lon": 85.685 }
+              ]
+            },
+            {
+              "name_en": "Khordha",
+              "name_or": "ଖୋର୍ଦ୍ଧା",
+              "villages": [
+                { "name_en": "Bajpur", "name_or": "ବାଜପୁର", "lat": 20.145, "lon": 85.642 },
+                { "name_en": "Kaipadar", "name_or": "କାଇପଦର", "lat": 20.132, "lon": 85.565 },
+                { "name_en": "Jankia", "name_or": "ଜଙ୍କିଆ", "lat": 20.068, "lon": 85.535 },
+                { "name_en": "Begunia", "name_or": "ବେଗୁନିଆ", "lat": 20.198, "lon": 85.442 }
+              ]
+            },
+            {
+              "name_en": "Balianta",
+              "name_or": "ବାଲିଅନ୍ତା",
+              "villages": [
+                { "name_en": "Balianta", "name_or": "ବାଲିଅନ୍ତା", "lat": 20.295, "lon": 85.895 },
+                { "name_en": "Balipatna", "name_or": "ବାଲିପାଟଣା", "lat": 20.205, "lon": 85.945 },
+                { "name_en": "Pahala", "name_or": "ପାହାଳ", "lat": 20.335, "lon": 85.888 }
+              ]
+            },
+            {
+              "name_en": "Tangi",
+              "name_or": "ଟାଙ୍ଗୀ",
+              "villages": [
+                { "name_en": "Tangi", "name_or": "ଟାଙ୍ଗୀ", "lat": 19.922, "lon": 85.395 },
+                { "name_en": "Balugaon", "name_or": "ବାଲୁଗାଁ", "lat": 19.748, "lon": 85.208 },
+                { "name_en": "Banpur", "name_or": "ବାଣପୁର", "lat": 19.782, "lon": 85.175 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "KOR",
+          "name_en": "Koraput",
+          "name_or": "କୋରାପୁଟ",
+          "lat": 18.8135,
+          "lon": 82.7123,
+          "defaultPin": "764020",
+          "blocks": [
+            {
+              "name_en": "Jeypore",
+              "name_or": "ଜୟପୁର",
+              "villages": [
+                { "name_en": "Borigumma", "name_or": "ବୋରିଗୁମ୍ମା", "lat": 19.045, "lon": 82.552 },
+                { "name_en": "Umuri", "name_or": "ଉମୁରୀ", "lat": 18.868, "lon": 82.592 },
+                { "name_en": "Ambaguda", "name_or": "ଆମ୍ବଗୁଡ଼ା", "lat": 18.925, "lon": 82.568 }
+              ]
+            },
+            {
+              "name_en": "Semiliguda",
+              "name_or": "ସେମିଳିଗୁଡ଼ା",
+              "villages": [
+                { "name_en": "Sunabeda", "name_or": "ସୁନାବେଡ଼ା", "lat": 18.728, "lon": 82.825 },
+                { "name_en": "Damanjodi", "name_or": "ଦାମନଯୋଡ଼ି", "lat": 18.772, "lon": 82.885 },
+                { "name_en": "Nandapur", "name_or": "ନନ୍ଦପୁର", "lat": 18.562, "lon": 82.735 }
+              ]
+            },
+            {
+              "name_en": "Kotpad",
+              "name_or": "କୋଟପାଡ଼",
+              "villages": [
+                { "name_en": "Kotpad", "name_or": "କୋଟପାଡ଼", "lat": 19.145, "lon": 82.325 },
+                { "name_en": "Kundra", "name_or": "କୁନ୍ଦ୍ରା", "lat": 18.975, "lon": 82.405 },
+                { "name_en": "Boipariguda", "name_or": "ବୈପାରିଗୁଡ଼ା", "lat": 18.752, "lon": 82.435 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAL",
+          "name_en": "Malkangiri",
+          "name_or": "ମାଲକାନଗିରି",
+          "lat": 18.3478,
+          "lon": 81.8842,
+          "defaultPin": "764045",
+          "blocks": [
+            {
+              "name_en": "Malkangiri",
+              "name_or": "ମାଲକାନଗିରି",
+              "villages": [
+                { "name_en": "Tamasa", "name_or": "ତମସା", "lat": 18.322, "lon": 81.865 },
+                { "name_en": "Padmagiri", "name_or": "ପଦ୍ମଗିରି", "lat": 18.365, "lon": 81.912 },
+                { "name_en": "Korukonda", "name_or": "କୋରୁକୋଣ୍ଡା", "lat": 18.258, "lon": 81.965 }
+              ]
+            },
+            {
+              "name_en": "Kalimela",
+              "name_or": "କାଲିମେଳା",
+              "villages": [
+                { "name_en": "Motu", "name_or": "ମୋଟୁ", "lat": 17.845, "lon": 81.412 },
+                { "name_en": "MV-79", "name_or": "ଏମ୍.ଭି-୭୯", "lat": 18.012, "lon": 81.615 },
+                { "name_en": "Mathili", "name_or": "ମାଥିଲି", "lat": 18.685, "lon": 82.195 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAY",
+          "name_en": "Mayurbhanj",
+          "name_or": "ମୟୂରଭଞ୍ଜ",
+          "lat": 21.9287,
+          "lon": 86.7350,
+          "defaultPin": "757001",
+          "blocks": [
+            {
+              "name_en": "Baripada",
+              "name_or": "ବାରିପଦା",
+              "villages": [
+                { "name_en": "Laxmiposi", "name_or": "ଲକ୍ଷ୍ମୀପୋଷି", "lat": 21.952, "lon": 86.752 },
+                { "name_en": "Kuliana", "name_or": "କୁଳିଅଣା", "lat": 22.055, "lon": 86.652 },
+                { "name_en": "Betnoti", "name_or": "ବେତନଟୀ", "lat": 21.735, "lon": 86.845 },
+                { "name_en": "Badasahi", "name_or": "ବଡ଼ସାହି", "lat": 21.745, "lon": 86.725 }
+              ]
+            },
+            {
+              "name_en": "Karanjia",
+              "name_or": "କରଞ୍ଜିଆ",
+              "villages": [
+                { "name_en": "Jashipur", "name_or": "ଯଶୀପୁର", "lat": 21.968, "lon": 86.082 },
+                { "name_en": "Tato", "name_or": "ଟାଟୋ", "lat": 21.792, "lon": 85.995 },
+                { "name_en": "Thakurmunda", "name_or": "ଠାକୁରମୁଣ୍ଡା", "lat": 21.525, "lon": 86.165 }
+              ]
+            },
+            {
+              "name_en": "Rairangpur",
+              "name_or": "ରାଇରଙ୍ଗପୁର",
+              "villages": [
+                { "name_en": "Rairangpur", "name_or": "ରାଇରଙ୍ଗପୁର", "lat": 22.268, "lon": 86.175 },
+                { "name_en": "Bahalda", "name_or": "ବହଳଦା", "lat": 22.385, "lon": 86.085 },
+                { "name_en": "Gorumahisani", "name_or": "ଗୋରୁମହିଷାଣୀ", "lat": 22.325, "lon": 86.275 }
+              ]
+            },
+            {
+              "name_en": "Udala",
+              "name_or": "ଉଦଳା",
+              "villages": [
+                { "name_en": "Udala", "name_or": "ଉଦଳା", "lat": 21.568, "lon": 86.565 },
+                { "name_en": "Kaptipada", "name_or": "କପ୍ତିପଦା", "lat": 21.515, "lon": 86.525 },
+                { "name_en": "Khunta", "name_or": "ଖୁଣ୍ଟା", "lat": 21.725, "lon": 86.585 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NAB",
+          "name_en": "Nabarangpur",
+          "name_or": "ନବରଙ୍ଗପୁର",
+          "lat": 19.2311,
+          "lon": 82.5483,
+          "defaultPin": "764059",
+          "blocks": [
+            {
+              "name_en": "Nabarangpur",
+              "name_or": "ନବରଙ୍ଗପୁର",
+              "villages": [
+                { "name_en": "Taragam", "name_or": "ତାରାଗାଁ", "lat": 19.252, "lon": 82.562 },
+                { "name_en": "Agnipur", "name_or": "ଅଗ୍ନିପୁର", "lat": 19.218, "lon": 82.525 },
+                { "name_en": "Pappadahandi", "name_or": "ପାପଡ଼ାହାଣ୍ଡି", "lat": 19.335, "lon": 82.495 }
+              ]
+            },
+            {
+              "name_en": "Umerkote",
+              "name_or": "ଉମରକୋଟ",
+              "villages": [
+                { "name_en": "Raighar", "name_or": "ରାଇଘର", "lat": 19.855, "lon": 82.062 },
+                { "name_en": "Beheda", "name_or": "ବେହେଡ଼ା", "lat": 19.665, "lon": 82.212 },
+                { "name_en": "Jharigam", "name_or": "ଝରିଗାଁ", "lat": 19.585, "lon": 82.305 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NAY",
+          "name_en": "Nayagarh",
+          "name_or": "ନୟାଗଡ଼",
+          "lat": 20.1286,
+          "lon": 85.0964,
+          "defaultPin": "752069",
+          "blocks": [
+            {
+              "name_en": "Nayagarh",
+              "name_or": "ନୟାଗଡ଼",
+              "villages": [
+                { "name_en": "Itamati", "name_or": "ଇଟାମାଟି", "lat": 20.142, "lon": 85.145 },
+                { "name_en": "Lathipada", "name_or": "ଲାଠିପଡ଼ା", "lat": 20.115, "lon": 85.082 },
+                { "name_en": "Sarankul", "name_or": "ଶରଣକୁଳ", "lat": 20.035, "lon": 85.085 }
+              ]
+            },
+            {
+              "name_en": "Odagaon",
+              "name_or": "ଓଡ଼ଗାଁ",
+              "villages": [
+                { "name_en": "Bahadajhola", "name_or": "ବାହାଡ଼ାଝୋଲା", "lat": 20.025, "lon": 84.945 },
+                { "name_en": "Komanda", "name_or": "କୋମଣ୍ଡ", "lat": 20.052, "lon": 84.985 },
+                { "name_en": "Odagaon", "name_or": "ଓଡ଼ଗାଁ", "lat": 20.015, "lon": 84.995 }
+              ]
+            },
+            {
+              "name_en": "Khandapada",
+              "name_or": "ଖଣ୍ଡପଡ଼ା",
+              "villages": [
+                { "name_en": "Khandapada", "name_or": "ଖଣ୍ଡପଡ଼ା", "lat": 20.258, "lon": 85.195 },
+                { "name_en": "Kantilo", "name_or": "କଣ୍ଟିଲୋ", "lat": 20.352, "lon": 85.192 },
+                { "name_en": "Ranpur", "name_or": "ରଣପୁର", "lat": 20.062, "lon": 85.342 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NUA",
+          "name_en": "Nuapada",
+          "name_or": "ନୂଆପଡ଼ା",
+          "lat": 20.8078,
+          "lon": 82.5364,
+          "defaultPin": "766105",
+          "blocks": [
+            {
+              "name_en": "Nuapada",
+              "name_or": "ନୂଆପଡ଼ା",
+              "villages": [
+                { "name_en": "Dharambandha", "name_or": "ଧରମବନ୍ଧା", "lat": 20.832, "lon": 82.495 },
+                { "name_en": "Lakhna", "name_or": "ଲଖনা", "lat": 20.768, "lon": 82.612 },
+                { "name_en": "Komna", "name_or": "କୋମନା", "lat": 20.502, "lon": 82.652 }
+              ]
+            },
+            {
+              "name_en": "Khariar",
+              "name_or": "ଖଡ଼ିଆଳ",
+              "villages": [
+                { "name_en": "Boden", "name_or": "ବୋଡ଼େନ", "lat": 20.312, "lon": 82.642 },
+                { "name_en": "Sinapali", "name_or": "ସିନାପାଲି", "lat": 20.118, "lon": 82.635 },
+                { "name_en": "Khariar", "name_or": "ଖଡ଼ିଆଳ", "lat": 20.288, "lon": 82.765 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PUR",
+          "name_en": "Puri",
+          "name_or": "ପୁରୀ",
+          "lat": 19.8135,
+          "lon": 85.8312,
+          "defaultPin": "752001",
+          "blocks": [
+            {
+              "name_en": "Puri Sadar",
+              "name_or": "ପୁରୀ ସଦର",
+              "villages": [
+                { "name_en": "Chandanpur", "name_or": "ଚନ୍ଦନପୁର", "lat": 19.882, "lon": 85.815 },
+                { "name_en": "Malatipatpur", "name_or": "ମାଳତୀପାଟପୁର", "lat": 19.862, "lon": 85.832 },
+                { "name_en": "Balighai", "name_or": "ବାଲିଘାଇ", "lat": 19.845, "lon": 85.912 },
+                { "name_en": "Raghurajpur", "name_or": "ରଘୁରାଜପୁର", "lat": 19.892, "lon": 85.822 }
+              ]
+            },
+            {
+              "name_en": "Pipili",
+              "name_or": "ପିପିଲି",
+              "villages": [
+                { "name_en": "Dandamukundapur", "name_or": "ଦଣ୍ଡମୁକୁନ୍ଦପୁର", "lat": 20.088, "lon": 85.832 },
+                { "name_en": "Birapurushottampur", "name_or": "ବୀରପୁରୁଷୋତ୍ତମପୁର", "lat": 20.045, "lon": 85.805 },
+                { "name_en": "Delang", "name_or": "ଡେଲାଙ୍ଗ", "lat": 20.068, "lon": 85.752 },
+                { "name_en": "Mangalpur", "name_or": "ମଙ୍ଗଳପୁର", "lat": 20.105, "lon": 85.842 }
+              ]
+            },
+            {
+              "name_en": "Nimapada",
+              "name_or": "ନିମାପଡ଼ା",
+              "villages": [
+                { "name_en": "Nimapada", "name_or": "ନିମାପଡ଼ା", "lat": 20.055, "lon": 86.008 },
+                { "name_en": "Konark", "name_or": "କୋଣାର୍କ", "lat": 19.888, "lon": 86.095 },
+                { "name_en": "Gop", "name_or": "ଗୋପ", "lat": 19.985, "lon": 86.018 },
+                { "name_en": "Charichhak", "name_or": "ଚାରିଛକ", "lat": 20.032, "lon": 86.085 }
+              ]
+            },
+            {
+              "name_en": "Satyabadi",
+              "name_or": "ସତ୍ୟବାଦୀ",
+              "villages": [
+                { "name_en": "Sakhigopal", "name_or": "ସାକ୍ଷୀଗୋପାଳ", "lat": 19.958, "lon": 85.822 },
+                { "name_en": "Brahmagiri", "name_or": "ବ୍ରହ୍ମଗିରି", "lat": 19.792, "lon": 85.642 },
+                { "name_en": "Kanas", "name_or": "କଣାସ", "lat": 19.968, "lon": 85.685 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "RAY",
+          "name_en": "Rayagada",
+          "name_or": "ରାୟଗଡ଼ା",
+          "lat": 19.1672,
+          "lon": 83.4161,
+          "defaultPin": "765001",
+          "blocks": [
+            {
+              "name_en": "Rayagada",
+              "name_or": "ରାୟଗଡ଼ା",
+              "villages": [
+                { "name_en": "Jemadeipentho", "name_or": "ଜେମାଦେଇପେଣ୍ଠ", "lat": 19.142, "lon": 83.435 },
+                { "name_en": "Kumbhikota", "name_or": "କୁମ୍ଭିକୋଟା", "lat": 19.215, "lon": 83.395 },
+                { "name_en": "Therubali", "name_or": "ଥେରୁବାଲି", "lat": 19.322, "lon": 83.442 }
+              ]
+            },
+            {
+              "name_en": "Gunupur",
+              "name_or": "ଗୁଣୁପୁର",
+              "villages": [
+                { "name_en": "Jagannathpur", "name_or": "ଜଗନ୍ନାଥପୁର", "lat": 19.085, "lon": 83.812 },
+                { "name_en": "Padmapur", "name_or": "ପଦ୍ମପୁର", "lat": 19.225, "lon": 83.815 },
+                { "name_en": "Bissam Cuttack", "name_or": "ବିଷମକଟକ", "lat": 19.512, "lon": 83.505 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SAM",
+          "name_en": "Sambalpur",
+          "name_or": "ସମ୍ବଲପୁର",
+          "lat": 21.4669,
+          "lon": 83.9812,
+          "defaultPin": "768001",
+          "blocks": [
+            {
+              "name_en": "Dhankauda",
+              "name_or": "ଧନକଉଡ଼ା",
+              "villages": [
+                { "name_en": "Burla", "name_or": "ବୁର୍ଲା", "lat": 21.501, "lon": 83.875 },
+                { "name_en": "Hirakud", "name_or": "ହୀରାକୁଦ", "lat": 21.528, "lon": 83.868 },
+                { "name_en": "Chiplima", "name_or": "ଚିପିଲିମା", "lat": 21.352, "lon": 83.912 },
+                { "name_en": "Goshala", "name_or": "ଗୋଶାଳା", "lat": 21.425, "lon": 83.925 }
+              ]
+            },
+            {
+              "name_en": "Kuchinda",
+              "name_or": "କୁଚିଣ୍ଡା",
+              "villages": [
+                { "name_en": "Bamra", "name_or": "ବାମରା", "lat": 21.922, "lon": 84.292 },
+                { "name_en": "Jamankira", "name_or": "ଜମନକିରା", "lat": 21.552, "lon": 84.385 },
+                { "name_en": "Kuchinda", "name_or": "କୁଚିଣ୍ଡା", "lat": 21.745, "lon": 84.352 }
+              ]
+            },
+            {
+              "name_en": "Rairakhol",
+              "name_or": "ରେଢ଼ାଖୋଲ",
+              "villages": [
+                { "name_en": "Rairakhol", "name_or": "ରେଢ଼ାଖୋଲ", "lat": 21.068, "lon": 84.338 },
+                { "name_en": "Charmal", "name_or": "ଚାରମାଳ", "lat": 21.148, "lon": 84.225 },
+                { "name_en": "Jujomura", "name_or": "ଯୁଯୋମୁରା", "lat": 21.275, "lon": 84.122 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SUB",
+          "name_en": "Subarnapur",
+          "name_or": "ସୁବର୍ଣ୍ଣପୁର",
+          "lat": 20.8333,
+          "lon": 83.9167,
+          "defaultPin": "767017",
+          "blocks": [
+            {
+              "name_en": "Sonepur",
+              "name_or": "ସୋନପୁର",
+              "villages": [
+                { "name_en": "Kharda", "name_or": "ଖରଡ଼ା", "lat": 20.852, "lon": 83.885 },
+                { "name_en": "Mayabarha", "name_or": "ମୟାବର୍ହା", "lat": 20.818, "lon": 83.935 },
+                { "name_en": "Tarbha", "name_or": "ତରଭା", "lat": 20.732, "lon": 83.685 }
+              ]
+            },
+            {
+              "name_en": "Birmaharajpur",
+              "name_or": "ବୀରମହାରାଜପୁର",
+              "villages": [
+                { "name_en": "Subalaya", "name_or": "ସୁବଳୟା", "lat": 20.912, "lon": 84.085 },
+                { "name_en": "Ullunda", "name_or": "ଉଲୁଣ୍ଡା", "lat": 20.968, "lon": 83.862 },
+                { "name_en": "Dunguripali", "name_or": "ଡୁଙ୍ଗୁରିପାଲି", "lat": 21.052, "lon": 83.575 }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "SUN",
+          "name_en": "Sundargarh",
+          "name_or": "ସୁନ୍ଦରଗଡ଼",
+          "lat": 22.1167,
+          "lon": 84.0333,
+          "defaultPin": "770001",
+          "blocks": [
+            {
+              "name_en": "Sundargarh Sadar",
+              "name_or": "ସୁନ୍ଦରଗଡ଼ ସଦର",
+              "villages": [
+                { "name_en": "Kinjirkela", "name_or": "କିଞ୍ଜିରକେଲା", "lat": 22.242, "lon": 83.962 },
+                { "name_en": "Kirei", "name_or": "କିରେଇ", "lat": 22.088, "lon": 84.065 },
+                { "name_en": "Hemgir", "name_or": "ହେମଗିରି", "lat": 21.975, "lon": 83.715 },
+                { "name_en": "Bargaon", "name_or": "ବଡ଼ଗାଁ", "lat": 22.165, "lon": 84.312 }
+              ]
+            },
+            {
+              "name_en": "Panposh (Rourkela)",
+              "name_or": "ପାନପୋଷ (ରାଉରକେଲା)",
+              "villages": [
+                { "name_en": "Vedvyas", "name_or": "ବେଦବ୍ୟାସ", "lat": 22.238, "lon": 84.792 },
+                { "name_en": "Kalunga", "name_or": "କାଲୁଙ୍ଗା", "lat": 22.212, "lon": 84.745 },
+                { "name_en": "Rajgangpur", "name_or": "ରାଜଗାଙ୍ଗପୁର", "lat": 22.192, "lon": 84.585 },
+                { "name_en": "Bonai", "name_or": "ବଣାଇ", "lat": 21.815, "lon": 84.955 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

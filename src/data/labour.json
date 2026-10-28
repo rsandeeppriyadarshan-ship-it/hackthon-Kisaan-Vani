@@ -1,0 +1,139 @@
+{
+  "districts": [
+    "Cuttack", "Khordha", "Sambalpur", "Balasore", "Ganjam", 
+    "Koraput", "Bargarh", "Mayurbhanj", "Puri", "Bhadrak", 
+    "Dhenkanal", "Angul", "Jajpur", "Kendrapada", "Bolangir", "Kalahandi"
+  ],
+  "providers": [
+    {
+      "id": "chc-01",
+      "name_en": "Maa Tarini Custom Hiring Centre",
+      "name_or": "ମା ତାରିଣୀ କଷ୍ଟମ୍ ହାୟାରିଂ ସେଣ୍ଟର",
+      "service_type_en": "Drone Spraying & Tractor Hire",
+      "service_type_or": "ଡ୍ରୋନ୍ ସ୍ପ୍ରେୟାର ଏବଂ ଟ୍ରାକ୍ଟର ଭଡ଼ା",
+      "category": "drone_sprayer",
+      "district": "Cuttack",
+      "block": "Athagarh",
+      "phone": "9437108920",
+      "rate": "₹350 / acre (Drone Spraying)",
+      "verified": true
+    },
+    {
+      "id": "chc-02",
+      "name_en": "Kalinga Agro Drone Services",
+      "name_or": "କଳିଙ୍ଗ ଏଗ୍ରୋ ଡ୍ରୋନ୍ ସର୍ଭିସେସ୍",
+      "service_type_en": "Precision Agri Drone Spraying (NPK & Insecticide)",
+      "service_type_or": "ଡ୍ରୋନ୍ ଦ୍ୱାରା ଫସଲ ସ୍ପ୍ରେ",
+      "category": "drone_sprayer",
+      "district": "Khordha",
+      "block": "Jatni / Bhubaneswar",
+      "phone": "9861054321",
+      "rate": "₹400 / acre",
+      "verified": true
+    },
+    {
+      "id": "chc-03",
+      "name_en": "Samaleswari Farmer Producer Org (FPO)",
+      "name_or": "ସମଲେଶ୍ୱରୀ କୃଷକ ଉତ୍ପାଦକ ସଂଘ (FPO)",
+      "service_type_en": "Combined Paddy Harvester & Power Sprayers",
+      "service_type_or": "କମ୍ବାଇନ୍ ହାର୍ଭେଷ୍ଟର ଓ ପାୱାର ସ୍ପ୍ରେୟାର",
+      "category": "machinery",
+      "district": "Sambalpur",
+      "block": "Dhankauda",
+      "phone": "9438221190",
+      "rate": "₹1,800 / hour (Harvester)",
+      "verified": true
+    },
+    {
+      "id": "chc-04",
+      "name_en": "Bargarh Paddy Sprayers Collective",
+      "name_or": "ବରଗଡ଼ ଧାନ ସ୍ପ୍ରେୟାର ଗୋଷ୍ଠୀ",
+      "service_type_en": "Battery & Engine Knapsack Spraying Crew",
+      "service_type_or": "ଅଭିଜ୍ଞ କୀଟନାଶକ ସ୍ପ୍ରେ କର୍ମଚାରୀ",
+      "category": "sprayer_labour",
+      "district": "Bargarh",
+      "block": "Attabira",
+      "phone": "9777812903",
+      "rate": "₹150 / tank or ₹300 / acre",
+      "verified": true
+    },
+    {
+      "id": "chc-05",
+      "name_en": "Baleswar CHC Farm Machinery Hub",
+      "name_or": "ବାଲେଶ୍ୱର କୃଷି ଯନ୍ତ୍ରପାତି ହବ୍",
+      "service_type_en": "Tractor Puddling, Rotavator & Seed Drill",
+      "service_type_or": "ଟ୍ରାକ୍ଟର କାଦୁଅ କରିବା ଓ ବିହନ ବୁଣା ଯନ୍ତ୍ର",
+      "category": "machinery",
+      "district": "Balasore",
+      "block": "Remuna",
+      "phone": "9439055412",
+      "rate": "₹800 / hour (Rotavator)",
+      "verified": true
+    },
+    {
+      "id": "chc-06",
+      "name_en": "Ganjam Krushak Kalyan SHG Group",
+      "name_or": "ଗଞ୍ଜାମ କୃଷକ କଲ୍ୟାଣ ସ୍ୱୟଂ ସହାୟକ ଗୋଷ୍ଠୀ",
+      "service_type_en": "Paddy Transplanting & Weeding Skilled Labour",
+      "service_type_or": "ଧାନ ରୁଆ ଏବଂ ଘାସ ବଛା ଶ୍ରମିକ ଦଳ",
+      "category": "farm_labour",
+      "district": "Ganjam",
+      "block": "Hinjilicut",
+      "phone": "9853241098",
+      "rate": "₹350 / worker / day",
+      "verified": true
+    },
+    {
+      "id": "chc-07",
+      "name_en": "Koraput Tribal Agro Collective (FPO)",
+      "name_or": "କୋରାପୁଟ ଜୈବିକ କୃଷି ସଂଘ",
+      "service_type_en": "Coffee, Millets & Vegetable Sprayers & Tillers",
+      "service_type_or": "ପାୱାର ଟିଲର ଏବଂ ପନିପରିବା ସ୍ପ୍ରେ",
+      "category": "sprayer_labour",
+      "district": "Koraput",
+      "block": "Jeypore",
+      "phone": "9437890123",
+      "rate": "₹400 / day",
+      "verified": true
+    },
+    {
+      "id": "chc-08",
+      "name_en": "Bhanja Krushak Seva Kendram",
+      "name_or": "ଭଞ୍ଜ କୃଷକ ସେବା କେନ୍ଦ୍ର",
+      "service_type_en": "Power Sprayer, Reaper & Thresher Hire",
+      "service_type_or": "ପାୱାର ସ୍ପ୍ରେୟାର ଓ ଧାନ କଟା ମେସିନ୍",
+      "category": "machinery",
+      "district": "Mayurbhanj",
+      "block": "Baripada",
+      "phone": "9437198765",
+      "rate": "₹700 / acre (Reaper)",
+      "verified": true
+    },
+    {
+      "id": "chc-09",
+      "name_en": "Jagannath Dham Green Agro Services",
+      "name_or": "ଜଗନ୍ନାଥ ଧାମ ଗ୍ରୀନ୍ ଏଗ୍ରୋ ସର୍ଭିସେସ୍",
+      "service_type_en": "Groundnut & Vegetable Mechanical Harvester",
+      "service_type_or": "ଚିନାବାଦାମ ତୋଳା ଓ ପନିପରିବା ଯନ୍ତ୍ରପାତି",
+      "category": "machinery",
+      "district": "Puri",
+      "block": "Nimapara",
+      "phone": "9861123489",
+      "rate": "₹1,200 / acre",
+      "verified": true
+    },
+    {
+      "id": "chc-10",
+      "name_en": "Baitarani Custom Hiring Centre",
+      "name_or": "ବୈତରଣୀ କୃଷି ଯନ୍ତ୍ରପାତି ଭଡ଼ା କେନ୍ଦ୍ର",
+      "service_type_en": "Tractor, Puddler, Laser Land Leveler",
+      "service_type_or": "ଲେଜର ଲ୍ୟାଣ୍ଡ ଲେଭେଲର ଏବଂ ଟ୍ରାକ୍ଟର",
+      "category": "machinery",
+      "district": "Bhadrak",
+      "block": "Basudevpur",
+      "phone": "9439123890",
+      "rate": "₹900 / hour",
+      "verified": true
+    }
+  ]
+}

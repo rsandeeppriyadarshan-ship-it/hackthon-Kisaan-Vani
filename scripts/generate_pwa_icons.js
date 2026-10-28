@@ -1,0 +1,128 @@
+import sharp from 'sharp';
+import fs from 'fs';
+import path from 'path';
+
+const svgContent = `
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Dark rich green radial background -->
+    <radialGradient id="bgGrad" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#186a3b" />
+      <stop offset="60%" stop-color="#114b28" />
+      <stop offset="100%" stop-color="#092d17" />
+    </radialGradient>
+
+    <!-- Subtle drop shadows -->
+    <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000000" flood-opacity="0.45" />
+    </filter>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#facc15" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Solid Squircle Base Fill for Android Maskable & Standard App Icons -->
+  <rect width="512" height="512" rx="105" ry="105" fill="url(#bgGrad)" />
+
+  <!-- Dashed Circular Stitch Pattern Ring (matching user image) -->
+  <circle cx="256" cy="235" r="210" fill="none" stroke="#238c4c" stroke-width="4.5" stroke-dasharray="9 9" opacity="0.85" />
+
+  <!-- Outer Golden Yellow Ring -->
+  <circle cx="256" cy="225" r="148" fill="none" stroke="#facc15" stroke-width="6.5" filter="url(#dropShadow)" />
+
+  <!-- Golden Shield Frame -->
+  <path d="M256,76 C342,76 368,138 368,222 C368,304 282,348 256,368 C230,348 144,304 144,222 C144,138 170,76 256,76 Z" 
+        fill="none" stroke="#facc15" stroke-width="6.5" filter="url(#dropShadow)" />
+
+  <!-- Inner Dark Green Shield Content Background -->
+  <path d="M256,82 C335,82 360,141 360,221 C360,297 280,338 256,356 C232,338 152,297 152,221 C152,141 177,82 256,82 Z" 
+        fill="#114b28" />
+
+  <!-- Two Curved Green Leaves (Cradling the Wheat Spike) -->
+  <!-- Left Leaf -->
+  <path d="M256,282 Q172,250 172,168 Q218,190 256,282 Z" fill="#22c55e" opacity="0.95" />
+  <!-- Right Leaf -->
+  <path d="M256,282 Q340,250 340,168 Q294,190 256,282 Z" fill="#22c55e" opacity="0.95" />
+
+  <!-- Central Golden Wheat Spike (3 Pairs + Tip Grain) -->
+  <!-- Bottom Pair -->
+  <path d="M256,252 C232,236 216,220 236,198 C256,210 256,236 256,252 Z" fill="#eab308" />
+  <path d="M256,252 C280,236 296,220 276,198 C256,210 256,236 256,252 Z" fill="#facc15" />
+
+  <!-- Middle Pair -->
+  <path d="M256,215 C230,198 214,182 234,160 C256,172 256,198 256,215 Z" fill="#eab308" />
+  <path d="M256,215 C282,198 298,182 278,160 C256,172 256,198 256,215 Z" fill="#facc15" />
+
+  <!-- Top Pair -->
+  <path d="M256,178 C236,162 222,146 240,126 C256,138 256,162 256,178 Z" fill="#eab308" />
+  <path d="M256,178 C276,162 290,146 272,126 C256,138 256,162 256,178 Z" fill="#facc15" />
+
+  <!-- Topmost Wheat Tip -->
+  <path d="M256,136 C247,120 249,102 256,94 C263,102 265,120 256,136 Z" fill="#fef08a" />
+
+  <!-- Red Emergency & Medical Safety Cross Circle (Base of Wheat) -->
+  <circle cx="256" cy="292" r="22" fill="#dc2626" stroke="#ffffff" stroke-width="3" filter="url(#dropShadow)" />
+  <!-- White Cross -->
+  <rect x="251.5" y="280" width="9" height="24" rx="2" fill="#ffffff" />
+  <rect x="244" y="287.5" width="24" height="9" rx="2" fill="#ffffff" />
+
+  <!-- Text at bottom: KRUSHAK BANI -->
+  <text x="256" y="428" text-anchor="middle" font-family="'Segoe UI', Roboto, 'Noto Sans', Arial, sans-serif" font-weight="900" font-size="32" letter-spacing="3.5" fill="#facc15" filter="url(#dropShadow)">KRUSHAK BANI</text>
+</svg>
+`;
+
+async function main() {
+  const publicDir = path.resolve(process.cwd(), 'public');
+  if (!fs.existsSync(publicDir)) {
+    fs.mkdirSync(publicDir, { recursive: true });
+  }
+
+  // Save SVG
+  fs.writeFileSync(path.join(publicDir, 'icon.svg'), svgContent, 'utf-8');
+
+  const svgBuffer = Buffer.from(svgContent);
+
+  // 1. Generate 512x512 PWA Icon
+  await sharp(svgBuffer)
+    .resize(512, 512)
+    .png({ quality: 100 })
+    .toFile(path.join(publicDir, 'pwa-512x512.png'));
+
+  // 2. Generate 192x192 PWA Icon
+  await sharp(svgBuffer)
+    .resize(192, 192)
+    .png({ quality: 100 })
+    .toFile(path.join(publicDir, 'pwa-192x192.png'));
+
+  // 3. Generate 512x512 Maskable Icon
+  await sharp(svgBuffer)
+    .resize(512, 512)
+    .png({ quality: 100 })
+    .toFile(path.join(publicDir, 'pwa-maskable-512x512.png'));
+
+  // 4. Generate Apple Touch Icon (180x180)
+  await sharp(svgBuffer)
+    .resize(180, 180)
+    .png({ quality: 100 })
+    .toFile(path.join(publicDir, 'apple-touch-icon.png'));
+
+  // 5. Generate Favicon (32x32)
+  await sharp(svgBuffer)
+    .resize(32, 32)
+    .png({ quality: 100 })
+    .toFile(path.join(publicDir, 'favicon-32x32.png'));
+
+  // 6. Generate Favicon.ico
+  await sharp(svgBuffer)
+    .resize(48, 48)
+    .png()
+    .toFile(path.join(publicDir, 'favicon.ico'));
+
+  console.log('HD PWA icons generated successfully!');
+}
+
+main().catch((err) => {
+  console.error('Error generating icons:', err);
+  process.exit(1);
+});

@@ -1,0 +1,127 @@
+{
+  "emergency_helpline": "108",
+  "disaster_helpline": "1070",
+  "poison_helpline": "1800-116-117",
+  "hospitals": [
+    {
+      "id": "h-01",
+      "district": "Cuttack",
+      "name_en": "SCB Medical College & Hospital (Emergency Casualty)",
+      "name_or": "ଏସ୍.ସି.ବି. ମେଡିକାଲ କଲେଜ ଓ ହସ୍ପିଟାଲ, କଟକ",
+      "location": "Mangalabag, Cuttack",
+      "phone": "0671-2414080",
+      "direct_call": "+916712414080",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Odisha Premier Tertiary Care - 24/7 ASV & Dialysis available"
+    },
+    {
+      "id": "h-02",
+      "district": "Khordha",
+      "name_en": "Capital Hospital (Emergency Casualty)",
+      "name_or": "କ୍ୟାପିଟାଲ ହସ୍ପିଟାଲ, ଭୁବନେଶ୍ୱର",
+      "location": "Unit-6, Bhubaneswar",
+      "phone": "0674-2391983",
+      "direct_call": "+916742391983",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Equipped with dedicated Snakebite Emergency Ward & ASV"
+    },
+    {
+      "id": "h-03",
+      "district": "Sambalpur",
+      "name_en": "VIMSAR Medical College (Burla)",
+      "name_or": "ଭିମ୍ସାର ମେଡିକାଲ କଲେଜ, ବୁର୍ଲା",
+      "location": "Burla, Sambalpur",
+      "phone": "0663-2430768",
+      "direct_call": "+916632430768",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Western Odisha apex trauma & snakebite treatment center"
+    },
+    {
+      "id": "h-04",
+      "district": "Ganjam",
+      "name_en": "MKCG Medical College & Hospital",
+      "name_or": "ଏମ୍.କେ.ସି.ଜି. ମେଡିକାଲ କଲେଜ, ବ୍ରହ୍ମପୁର",
+      "location": "Berhampur, Ganjam",
+      "phone": "0680-2292677",
+      "direct_call": "+916802292677",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Southern Odisha apex hospital with 24x7 ASV availability"
+    },
+    {
+      "id": "h-05",
+      "district": "Balasore",
+      "name_en": "Fakir Mohan Medical College & Hospital (DHH Balasore)",
+      "name_or": "ଫକୀର ମୋହନ ମେଡିକାଲ କଲେଜ, ବାଲେଶ୍ୱର",
+      "location": "Remuna / Balasore",
+      "phone": "06782-262001",
+      "direct_call": "+916782262001",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Northern coastal tertiary care center"
+    },
+    {
+      "id": "h-06",
+      "district": "Bargarh",
+      "name_en": "District Headquarter Hospital (DHH) Bargarh",
+      "name_or": "ଜିଲ୍ଲା ମୁଖ୍ୟ ଚିକିତ୍ସାଳୟ, ବରଗଡ଼",
+      "location": "Bargarh Town",
+      "phone": "06646-231144",
+      "direct_call": "+916646231144",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Equipped with ASV & Emergency Medical Officers"
+    },
+    {
+      "id": "h-07",
+      "district": "Koraput",
+      "name_en": "SLN Medical College & Hospital, Koraput",
+      "name_or": "ସହିଦ ଲକ୍ଷ୍ମଣ ନାୟକ ମେଡିକାଲ କଲେଜ, କୋରାପୁଟ",
+      "location": "Koraput",
+      "phone": "06852-250102",
+      "direct_call": "+916852250102",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Equipped with 24/7 ASV vials & emergency team"
+    },
+    {
+      "id": "h-08",
+      "district": "Mayurbhanj",
+      "name_en": "PRM Medical College & Hospital, Baripada",
+      "name_or": "ପଣ୍ଡିତ ରଘୁନାଥ ମୁର୍ମୁ ମେଡିକାଲ କଲେଜ, ବାରିପଦା",
+      "location": "Baripada, Mayurbhanj",
+      "phone": "06792-252102",
+      "direct_call": "+916792252102",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Serving Similipal & Mayurbhanj district border"
+    },
+    {
+      "id": "h-09",
+      "district": "Puri",
+      "name_en": "District Headquarter Hospital (DHH) Puri",
+      "name_or": "ଜିଲ୍ଲା ମୁଖ୍ୟ ଚିକିତ୍ସାଳୟ, ପୁରୀ",
+      "location": "Grand Road, Puri",
+      "phone": "06752-222045",
+      "direct_call": "+916752222045",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Anti-Snake Venom emergency wing available"
+    },
+    {
+      "id": "h-10",
+      "district": "Bhadrak",
+      "name_en": "District Headquarter Hospital (DHH) Bhadrak",
+      "name_or": "ଜିଲ୍ଲା ମୁଖ୍ୟ ଚିକିତ୍ସାଳୟ, ଭଦ୍ରକ",
+      "location": "Bhadrak Town",
+      "phone": "06784-251234",
+      "direct_call": "+916784251234",
+      "asv_available": true,
+      "icu_ventilator": true,
+      "distance_note": "Free government ASV injection stock"
+    }
+  ]
+}
